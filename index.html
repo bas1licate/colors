@@ -9,40 +9,85 @@
 <body>
 
     <div class="content">
-        <h1>Color List</h1>
-        <!-- CHANGED: Changed div to ul for valid li child elements -->
+        <h1>Color List (<span id="counter">0</span> Found)</h1>
+        <form id="color-form">
+            <label for="color-input">Enter a color name:</label>
+            <input type="text" id="color-input" name="color-input" required autofocus>
+            <button type="submit" hidden>Add Color</button>
+            <p class="feedback"></p>
+        </form>
         <ul id="color-list"></ul>
     </div>
 
     <script>
+        let colorsGlobal = [];
+        const userFoundColors = new Set(); 
+
+        // Fetch the external JSON color database
         async function loadJSONData() {
             try {
+                // Ensure your colors.json array elements look like: {"Name": "Red", "Hex (RGB)": "#FF0000"}
                 const response = await fetch('colors.json');
-                const colors = await response.json();
-                const listContainer = document.getElementById('color-list');
-
-                // Clear any existing content inside the container
-                listContainer.innerHTML = '';
-
-                colors.forEach(color => {
-                    const listItem = document.createElement('li');
-                    
-                    listItem.innerHTML = `
-                        <div class='color-list-item'>
-                            <div class='color-swatch' style='background-color: ${color["Hex (RGB)"]};'></div>
-                            <div>${color["Name"]} - ${color["Hex (RGB)"]}</div>
-                        </div>
-                    `;
-                    listContainer.appendChild(listItem);
-                });
+                colorsGlobal = await response.json();
             } catch (error) {
                 console.error("Error loading the JSON file:", error);
-                const listContainer = document.getElementById('color-list');
-                listContainer.innerHTML = "<li>Failed to load colors. Please try again later.</li>";
             }
         }
 
         loadJSONData();
+
+        // Handle form interactions
+        document.getElementById('color-form').addEventListener("submit", (event) => {
+            event.preventDefault();
+            
+            const colorInput = document.getElementById('color-input');
+            const feedbackEl = document.querySelector('.feedback');
+            const listContainer = document.getElementById('color-list');
+            const counterEl = document.getElementById('counter');
+            
+            const colorName = colorInput.value.trim().toLowerCase();
+            
+            // Always clear old feedback states at the start of a submission
+            feedbackEl.textContent = "";
+
+            if (!colorName) return;
+
+            // Check if user already inputted this color
+            if (userFoundColors.has(colorName)) {
+                feedbackEl.textContent = "You already found this color!";
+                colorInput.value = '';
+                return;
+            }
+
+            // Look up the entry matching the lowercase name
+            const foundColor = colorsGlobal.find(color => color["Name"].toLowerCase() === colorName);
+
+            if (foundColor) {
+                // Log verified color matching user metadata
+                userFoundColors.add(colorName);
+                
+                // Construct the individual list record
+                const listItem = document.createElement('li');
+                listItem.innerHTML = `
+                    <div class='color-list-item'>
+                        <div class='color-swatch' style='background-color: ${foundColor["Hex (RGB)"]};'></div>
+                        <div>${foundColor["Name"]} - ${foundColor["Hex (RGB)"]}</div>
+                    </div>
+                `;
+                
+                // Append instead of replacing internal DOM tree
+                listContainer.appendChild(listItem);
+                
+                // Update tracker data counters
+                counterEl.textContent = userFoundColors.size;
+                
+                // Clear input form field for seamless typing loops
+                colorInput.value = '';
+            } else {
+                feedbackEl.textContent = "Color not found.";
+                colorInput.value = '';
+            }
+        });
     </script>
 </body>
 </html>
