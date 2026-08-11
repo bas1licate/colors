@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Import JSON to HTML</title>
+</head>
+<body>
+
+    <h1>Color List</h1>
+    <!-- Container where JSON data will appear -->
+    <ul id="color-list"></ul>
+
+    <script>
+        // Use an async function to handle the data fetch
+        async function loadJSONData() {
+            try {
+                // Fetch the JSON file from the directory
+                const response = await fetch('colors.json');
+                
+                // Parse the response body into a JavaScript array/object
+                const colors = await response.json();
+                
+                // Select the target HTML container
+                const listContainer = document.getElementById('color-list');
+
+                // Loop through the array and construct HTML elements
+                colors.forEach(color => {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = `${color["Name"]} - ${color["Hex (RGB)"]}`;
+                    listContainer.appendChild(listItem);
+                });
+            } catch (error) {
+                console.error("Error loading the JSON file:", error);
+                const listContainer = document.getElementById('color-list');
+                listContainer.textContent = "Failed to load colors. Please try again later.";
+            }
+
+        }
+
+        // Execute the function when the script loads
+        loadJSONData();
+    </script>
+</body>
+</html>
