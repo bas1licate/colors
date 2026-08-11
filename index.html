@@ -36,6 +36,29 @@
 
         loadJSONData();
 
+        // show the list of found colors in alphabetical order
+        function displayFoundColors() {
+            const listContainer = document.getElementById('color-list');
+            listContainer.innerHTML = ''; // Clear existing list
+
+            // Convert Set to Array and sort alphabetically
+            const sortedColors = Array.from(userFoundColors).sort();
+
+            sortedColors.forEach(colorName => {
+                const foundColor = colorsGlobal.find(color => color["Name"].toLowerCase() === colorName);
+                if (foundColor) {
+                    const listItem = document.createElement('li');
+                    listItem.innerHTML = `
+                        <div class='color-list-item'>
+                            <div class='color-swatch' style='background-color: ${foundColor["Hex (RGB)"]};'></div>
+                            <div>${foundColor["Name"]} - ${foundColor["Hex (RGB)"]}</div>
+                        </div>
+                    `;
+                    listContainer.appendChild(listItem);
+                }
+            });
+        }
+
         // Handle form interactions
         document.getElementById('color-form').addEventListener("submit", (event) => {
             event.preventDefault();
@@ -75,11 +98,11 @@
                     </div>
                 `;
                 
-                // Append instead of replacing internal DOM tree
-                listContainer.appendChild(listItem);
-                
                 // Update tracker data counters
                 counterEl.textContent = userFoundColors.size;
+
+                // display found colors
+                displayFoundColors();
                 
                 // Clear input form field for seamless typing loops
                 colorInput.value = '';
