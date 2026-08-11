@@ -26,7 +26,6 @@
         // Fetch the external JSON color database
         async function loadJSONData() {
             try {
-                // Ensure your colors.json array elements look like: {"Name": "Red", "Hex (RGB)": "#FF0000"}
                 const response = await fetch('colors.json');
                 colorsGlobal = await response.json();
             } catch (error) {
@@ -70,7 +69,7 @@
             
             const colorName = colorInput.value.trim().toLowerCase();
             
-            // Always clear old feedback states at the start of a submission
+            // Clear old feedback states at the start of a submission
             feedbackEl.textContent = "";
 
             if (!colorName) return;
@@ -82,14 +81,15 @@
                 return;
             }
 
-            // Look up the entry matching the lowercase name
+            // Look up the matching entry in the global color database
+            // lowercase comparison for case-insensitive matching
             const foundColor = colorsGlobal.find(color => color["Name"].toLowerCase() === colorName);
 
             if (foundColor) {
                 // Log verified color matching user metadata
                 userFoundColors.add(colorName);
                 
-                // Construct the individual list record
+                // Construct the list item for the found color and append it to the list
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `
                     <div class='color-list-item'>
