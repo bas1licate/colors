@@ -13,31 +13,21 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo01" style="display: flex; justify-content: space-between; align-items: center;">
         <a class="navbar-brand" href="https://github.com/contrastquota/colors">
             <img src="pfp.png" width="30" height="30" class="d-inline-block align-top" alt="illustration of Namsan tower in Seoul, South Korea">
             <span class="font-weight-light text-muted">github</span>
         </a>
-        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-        <li class="nav-item active">
-             
-        </li>
-        <li class="nav-item">
-             
-        </li>
-        <li class="nav-item">
-             
-        </li>
-        </ul>
+        
         <a href="https://nameawoman.co.uk/">Based on Name 100 Women</a>
     </div>
     </nav>
 
     <div class="content">
         <h1 style="text-align: center;">Color Counter</h1>
-        <p>Try to name as many colors as you can! Be sure to enter the <em>full</em> name (e.g. "Kelly Green"):</p>
+        <p>Try to name as many colors as you can! Be sure to enter the <em>full</em> name (e.g. "Kelly Green").</p>
         
-        <p>Colors Found: <span id="counter">0</span></p>
+        <p>Colors Found: <span id="counter" class="badge badge-primary">0</span></p>
         
         <div class="form-group">
             <form id="color-form">
@@ -107,6 +97,7 @@
 
             // Check if user already inputted this color
             if (userFoundColors.has(colorName)) {
+                colorInput.classList.add('border', 'border-danger');
                 feedbackEl.textContent = "You already found this color!";
                 colorInput.value = '';
                 return;
@@ -128,6 +119,9 @@
                         <div>${foundColor["Name"]} - ${foundColor["Hex (RGB)"]}</div>
                     </div>
                 `;
+
+                // visual feedback for the user
+                colorInput.classList.remove('border', 'border-danger');
                 
                 // Update tracker data counters
                 counterEl.textContent = userFoundColors.size;
@@ -138,6 +132,8 @@
                 // Clear input form field for seamless typing loops
                 colorInput.value = '';
             } else {
+                // If the color is not found, provide feedback to the user
+                colorInput.classList.add('border', 'border-danger');
                 feedbackEl.textContent = "Color not found.";
                 colorInput.value = '';
             }
