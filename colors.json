@@ -1,6 +1,7 @@
 [
   {
     "Name": "Absolute Zero",
+    "searchKey": "absolutezero",
     "Hex (RGB)": "#0048BA",
     "Red (RGB)": "0%",
     "Green (RGB)": "28%",
@@ -14,6 +15,7 @@
   },
   {
     "Name": "Acid green",
+    "searchKey": "acidgreen",
     "Hex (RGB)": "#B0BF1A",
     "Red (RGB)": "69%",
     "Green (RGB)": "75%",
@@ -27,6 +29,7 @@
   },
   {
     "Name": "Aero",
+    "searchKey": "aero",
     "Hex (RGB)": "#7CB9E8",
     "Red (RGB)": "49%",
     "Green (RGB)": "73%",
@@ -40,6 +43,7 @@
   },
   {
     "Name": "African violet",
+    "searchKey": "africanviolet",
     "Hex (RGB)": "#B284BE",
     "Red (RGB)": "70%",
     "Green (RGB)": "52%",
@@ -53,6 +57,7 @@
   },
   {
     "Name": "Air superiority blue",
+    "searchKey": "airsuperiorityblue",
     "Hex (RGB)": "#72A0C1",
     "Red (RGB)": "45%",
     "Green (RGB)": "63%",
@@ -66,6 +71,7 @@
   },
   {
     "Name": "Alice blue",
+    "searchKey": "aliceblue",
     "Hex (RGB)": "#F0F8FF",
     "Red (RGB)": "94%",
     "Green (RGB)": "97%",
@@ -79,6 +85,7 @@
   },
   {
     "Name": "Alizarin",
+    "searchKey": "alizarin",
     "Hex (RGB)": "#DB2D43",
     "Red (RGB)": "86%",
     "Green (RGB)": "18%",
@@ -92,6 +99,7 @@
   },
   {
     "Name": "Alloy orange",
+    "searchKey": "alloyorange",
     "Hex (RGB)": "#C46210",
     "Red (RGB)": "77%",
     "Green (RGB)": "38%",
@@ -105,6 +113,7 @@
   },
   {
     "Name": "Almond",
+    "searchKey": "almond",
     "Hex (RGB)": "#EED9C4",
     "Red (RGB)": "93%",
     "Green (RGB)": "85%",
@@ -118,6 +127,7 @@
   },
   {
     "Name": "Amaranth deep purple",
+    "searchKey": "amaranthdeeppurple",
     "Hex (RGB)": "#9F2B68",
     "Red (RGB)": "62%",
     "Green (RGB)": "17%",
@@ -131,6 +141,7 @@
   },
   {
     "Name": "Amaranth pink",
+    "searchKey": "amaranthpink",
     "Hex (RGB)": "#F19CBB",
     "Red (RGB)": "95%",
     "Green (RGB)": "61%",
@@ -144,6 +155,7 @@
   },
   {
     "Name": "Amaranth purple",
+    "searchKey": "amaranthpurple",
     "Hex (RGB)": "#AB274F",
     "Red (RGB)": "67%",
     "Green (RGB)": "15%",
@@ -157,6 +169,7 @@
   },
   {
     "Name": "Amazon",
+    "searchKey": "amazon",
     "Hex (RGB)": "#3B7A57",
     "Red (RGB)": "23%",
     "Green (RGB)": "48%",
@@ -170,6 +183,7 @@
   },
   {
     "Name": "Amber",
+    "searchKey": "amber",
     "Hex (RGB)": "#FFBF00",
     "Red (RGB)": "100%",
     "Green (RGB)": "75%",
@@ -183,6 +197,7 @@
   },
   {
     "Name": "Amethyst",
+    "searchKey": "amethyst",
     "Hex (RGB)": "#9966CC",
     "Red (RGB)": "60%",
     "Green (RGB)": "40%",
@@ -196,6 +211,7 @@
   },
   {
     "Name": "Android green",
+    "searchKey": "androidgreen",
     "Hex (RGB)": "#3DDC84",
     "Red (RGB)": "24%",
     "Green (RGB)": "86%",
@@ -209,6 +225,7 @@
   },
   {
     "Name": "Antique brass",
+    "searchKey": "antiquebrass",
     "Hex (RGB)": "#C88A65",
     "Red (RGB)": "78%",
     "Green (RGB)": "54%",
@@ -222,6 +239,7 @@
   },
   {
     "Name": "Antique bronze",
+    "searchKey": "antiquebronze",
     "Hex (RGB)": "#665D1E",
     "Red (RGB)": "40%",
     "Green (RGB)": "36%",
@@ -235,6 +253,7 @@
   },
   {
     "Name": "Antique fuchsia",
+    "searchKey": "antiquefuchsia",
     "Hex (RGB)": "#915C83",
     "Red (RGB)": "57%",
     "Green (RGB)": "36%",
@@ -248,6 +267,7 @@
   },
   {
     "Name": "Antique ruby",
+    "searchKey": "antiqueruby",
     "Hex (RGB)": "#841B2D",
     "Red (RGB)": "52%",
     "Green (RGB)": "11%",
@@ -261,6 +281,7 @@
   },
   {
     "Name": "Antique white",
+    "searchKey": "antiquewhite",
     "Hex (RGB)": "#FAEBD7",
     "Red (RGB)": "98%",
     "Green (RGB)": "92%",
@@ -274,6 +295,7 @@
   },
   {
     "Name": "Apricot",
+    "searchKey": "apricot",
     "Hex (RGB)": "#FBCEB1",
     "Red (RGB)": "98%",
     "Green (RGB)": "81%",
@@ -287,6 +309,7 @@
   },
   {
     "Name": "Aqua",
+    "searchKey": "aqua",
     "Hex (RGB)": "#00FFFF",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -300,6 +323,7 @@
   },
   {
     "Name": "Aquamarine",
+    "searchKey": "aquamarine",
     "Hex (RGB)": "#7FFFD4",
     "Red (RGB)": "50%",
     "Green (RGB)": "100%",
@@ -313,6 +337,7 @@
   },
   {
     "Name": "Arctic lime",
+    "searchKey": "arcticlime",
     "Hex (RGB)": "#D0FF14",
     "Red (RGB)": "82%",
     "Green (RGB)": "100%",
@@ -326,6 +351,7 @@
   },
   {
     "Name": "Artichoke green",
+    "searchKey": "artichokegreen",
     "Hex (RGB)": "#4B6F44",
     "Red (RGB)": "29%",
     "Green (RGB)": "44%",
@@ -339,6 +365,7 @@
   },
   {
     "Name": "Arylide yellow",
+    "searchKey": "arylideyellow",
     "Hex (RGB)": "#E9D66B",
     "Red (RGB)": "91%",
     "Green (RGB)": "84%",
@@ -352,6 +379,7 @@
   },
   {
     "Name": "Ash gray",
+    "searchKey": "ashgray",
     "Hex (RGB)": "#B2BEB5",
     "Red (RGB)": "70%",
     "Green (RGB)": "75%",
@@ -365,6 +393,7 @@
   },
   {
     "Name": "Atomic tangerine",
+    "searchKey": "atomictangerine",
     "Hex (RGB)": "#FF9966",
     "Red (RGB)": "100%",
     "Green (RGB)": "60%",
@@ -378,6 +407,7 @@
   },
   {
     "Name": "Aureolin",
+    "searchKey": "aureolin",
     "Hex (RGB)": "#FDEE00",
     "Red (RGB)": "99%",
     "Green (RGB)": "93%",
@@ -391,6 +421,7 @@
   },
   {
     "Name": "Azure",
+    "searchKey": "azure",
     "Hex (RGB)": "#007FFF",
     "Red (RGB)": "0%",
     "Green (RGB)": "50%",
@@ -404,6 +435,7 @@
   },
   {
     "Name": "Azure (X11/web color)",
+    "searchKey": "azure",
     "Hex (RGB)": "#F0FFFF",
     "Red (RGB)": "94%",
     "Green (RGB)": "100%",
@@ -417,6 +449,7 @@
   },
   {
     "Name": "Baby blue",
+    "searchKey": "babyblue",
     "Hex (RGB)": "#89CFF0",
     "Red (RGB)": "54%",
     "Green (RGB)": "81%",
@@ -430,6 +463,7 @@
   },
   {
     "Name": "Baby blue eyes",
+    "searchKey": "babyblueeyes",
     "Hex (RGB)": "#A1CAF1",
     "Red (RGB)": "63%",
     "Green (RGB)": "79%",
@@ -443,6 +477,7 @@
   },
   {
     "Name": "Baby pink",
+    "searchKey": "babypink",
     "Hex (RGB)": "#F4C2C2",
     "Red (RGB)": "96%",
     "Green (RGB)": "76%",
@@ -456,6 +491,7 @@
   },
   {
     "Name": "Baby powder",
+    "searchKey": "babypowder",
     "Hex (RGB)": "#FEFEFA",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -469,6 +505,7 @@
   },
   {
     "Name": "Baker-Miller pink",
+    "searchKey": "bakermillerpink",
     "Hex (RGB)": "#FF91AF",
     "Red (RGB)": "100%",
     "Green (RGB)": "57%",
@@ -482,6 +519,7 @@
   },
   {
     "Name": "Banana Mania",
+    "searchKey": "bananamania",
     "Hex (RGB)": "#FAE7B5",
     "Red (RGB)": "98%",
     "Green (RGB)": "91%",
@@ -495,6 +533,7 @@
   },
   {
     "Name": "Barbie Pink",
+    "searchKey": "barbiepink",
     "Hex (RGB)": "#DA1884",
     "Red (RGB)": "85%",
     "Green (RGB)": "9%",
@@ -508,6 +547,7 @@
   },
   {
     "Name": "Barn red",
+    "searchKey": "barnred",
     "Hex (RGB)": "#7C0A02",
     "Red (RGB)": "49%",
     "Green (RGB)": "4%",
@@ -521,6 +561,7 @@
   },
   {
     "Name": "Battleship grey",
+    "searchKey": "battleshipgrey",
     "Hex (RGB)": "#848482",
     "Red (RGB)": "52%",
     "Green (RGB)": "52%",
@@ -534,6 +575,7 @@
   },
   {
     "Name": "Beau blue",
+    "searchKey": "beaublue",
     "Hex (RGB)": "#BCD4E6",
     "Red (RGB)": "74%",
     "Green (RGB)": "83%",
@@ -547,6 +589,7 @@
   },
   {
     "Name": "Beaver",
+    "searchKey": "beaver",
     "Hex (RGB)": "#9F8170",
     "Red (RGB)": "62%",
     "Green (RGB)": "51%",
@@ -560,6 +603,7 @@
   },
   {
     "Name": "Beige",
+    "searchKey": "beige",
     "Hex (RGB)": "#F5F5DC",
     "Red (RGB)": "96%",
     "Green (RGB)": "96%",
@@ -573,6 +617,7 @@
   },
   {
     "Name": "B'dazzled blue",
+    "searchKey": "bdazzledblue",
     "Hex (RGB)": "#2E5894",
     "Red (RGB)": "18%",
     "Green (RGB)": "35%",
@@ -585,7 +630,8 @@
     "Source": "Crayola[citation needed]"
   },
   {
-    "Name": "Big dip o’ruby",
+    "Name": "Big dip o'ruby",
+    "searchKey": "bigdiporuby",
     "Hex (RGB)": "#9C2542",
     "Red (RGB)": "61%",
     "Green (RGB)": "15%",
@@ -599,6 +645,7 @@
   },
   {
     "Name": "Bisque",
+    "searchKey": "bisque",
     "Hex (RGB)": "#FFE4C4",
     "Red (RGB)": "100%",
     "Green (RGB)": "89%",
@@ -612,6 +659,7 @@
   },
   {
     "Name": "Bistre",
+    "searchKey": "bistre",
     "Hex (RGB)": "#3D2B1F",
     "Red (RGB)": "24%",
     "Green (RGB)": "17%",
@@ -625,6 +673,7 @@
   },
   {
     "Name": "Bistre brown",
+    "searchKey": "bistrebrown",
     "Hex (RGB)": "#967117",
     "Red (RGB)": "59%",
     "Green (RGB)": "44%",
@@ -638,6 +687,7 @@
   },
   {
     "Name": "Bitter lemon",
+    "searchKey": "bitterlemon",
     "Hex (RGB)": "#CAE00D",
     "Red (RGB)": "79%",
     "Green (RGB)": "88%",
@@ -651,6 +701,7 @@
   },
   {
     "Name": "Bittersweet",
+    "searchKey": "bittersweet",
     "Hex (RGB)": "#FE6F5E",
     "Red (RGB)": "100%",
     "Green (RGB)": "44%",
@@ -664,6 +715,7 @@
   },
   {
     "Name": "Black",
+    "searchKey": "black",
     "Hex (RGB)": "#000000",
     "Red (RGB)": "0%",
     "Green (RGB)": "0%",
@@ -677,6 +729,7 @@
   },
   {
     "Name": "Black bean",
+    "searchKey": "blackbean",
     "Hex (RGB)": "#3D0C02",
     "Red (RGB)": "24%",
     "Green (RGB)": "5%",
@@ -690,6 +743,7 @@
   },
   {
     "Name": "Black coral",
+    "searchKey": "blackcoral",
     "Hex (RGB)": "#54626F",
     "Red (RGB)": "33%",
     "Green (RGB)": "38%",
@@ -703,6 +757,7 @@
   },
   {
     "Name": "Black olive",
+    "searchKey": "blackolive",
     "Hex (RGB)": "#3B3C36",
     "Red (RGB)": "23%",
     "Green (RGB)": "24%",
@@ -716,6 +771,7 @@
   },
   {
     "Name": "Black Shadows",
+    "searchKey": "blackshadows",
     "Hex (RGB)": "#BFAFB2",
     "Red (RGB)": "75%",
     "Green (RGB)": "69%",
@@ -729,6 +785,7 @@
   },
   {
     "Name": "Blanched almond",
+    "searchKey": "blanchedalmond",
     "Hex (RGB)": "#FFEBCD",
     "Red (RGB)": "100%",
     "Green (RGB)": "92%",
@@ -742,6 +799,7 @@
   },
   {
     "Name": "Blast-off bronze",
+    "searchKey": "blastoffbronze",
     "Hex (RGB)": "#A57164",
     "Red (RGB)": "65%",
     "Green (RGB)": "44%",
@@ -755,6 +813,7 @@
   },
   {
     "Name": "Bleu de France",
+    "searchKey": "bleudefrance",
     "Hex (RGB)": "#318CE7",
     "Red (RGB)": "19%",
     "Green (RGB)": "55%",
@@ -768,6 +827,7 @@
   },
   {
     "Name": "Blizzard blue",
+    "searchKey": "blizzardblue",
     "Hex (RGB)": "#ACE5EE",
     "Red (RGB)": "67%",
     "Green (RGB)": "90%",
@@ -781,6 +841,7 @@
   },
   {
     "Name": "Blood red",
+    "searchKey": "bloodred",
     "Hex (RGB)": "#660000",
     "Red (RGB)": "40%",
     "Green (RGB)": "0%",
@@ -794,6 +855,7 @@
   },
   {
     "Name": "Blue",
+    "searchKey": "blue",
     "Hex (RGB)": "#0000FF",
     "Red (RGB)": "0%",
     "Green (RGB)": "0%",
@@ -807,6 +869,7 @@
   },
   {
     "Name": "Blue (Crayola)",
+    "searchKey": "blue",
     "Hex (RGB)": "#1F75FE",
     "Red (RGB)": "12%",
     "Green (RGB)": "46%",
@@ -820,6 +883,7 @@
   },
   {
     "Name": "Blue (Munsell)",
+    "searchKey": "blue",
     "Hex (RGB)": "#0093AF",
     "Red (RGB)": "0%",
     "Green (RGB)": "58%",
@@ -833,6 +897,7 @@
   },
   {
     "Name": "Blue (NCS)",
+    "searchKey": "blue",
     "Hex (RGB)": "#0087BD",
     "Red (RGB)": "0%",
     "Green (RGB)": "53%",
@@ -846,6 +911,7 @@
   },
   {
     "Name": "Blue (Pantone)",
+    "searchKey": "blue",
     "Hex (RGB)": "#0018A8",
     "Red (RGB)": "0%",
     "Green (RGB)": "9%",
@@ -859,6 +925,7 @@
   },
   {
     "Name": "Blue (pigment)",
+    "searchKey": "blue",
     "Hex (RGB)": "#333399",
     "Red (RGB)": "20%",
     "Green (RGB)": "20%",
@@ -872,6 +939,7 @@
   },
   {
     "Name": "Blue bell",
+    "searchKey": "bluebell",
     "Hex (RGB)": "#A2A2D0",
     "Red (RGB)": "64%",
     "Green (RGB)": "64%",
@@ -885,6 +953,7 @@
   },
   {
     "Name": "Blue-gray (Crayola)",
+    "searchKey": "bluegray",
     "Hex (RGB)": "#6699CC",
     "Red (RGB)": "40%",
     "Green (RGB)": "60%",
@@ -898,6 +967,7 @@
   },
   {
     "Name": "Blue jeans",
+    "searchKey": "bluejeans",
     "Hex (RGB)": "#5DADEC",
     "Red (RGB)": "36%",
     "Green (RGB)": "68%",
@@ -911,6 +981,7 @@
   },
   {
     "Name": "Blue sapphire",
+    "searchKey": "bluesapphire",
     "Hex (RGB)": "#126180",
     "Red (RGB)": "7%",
     "Green (RGB)": "38%",
@@ -924,6 +995,7 @@
   },
   {
     "Name": "Blue-violet",
+    "searchKey": "blueviolet",
     "Hex (RGB)": "#8A2BE2",
     "Red (RGB)": "54%",
     "Green (RGB)": "17%",
@@ -937,6 +1009,7 @@
   },
   {
     "Name": "Blue yonder",
+    "searchKey": "blueyonder",
     "Hex (RGB)": "#5072A7",
     "Red (RGB)": "31%",
     "Green (RGB)": "45%",
@@ -950,6 +1023,7 @@
   },
   {
     "Name": "Bluetiful",
+    "searchKey": "bluetiful",
     "Hex (RGB)": "#3C69E7",
     "Red (RGB)": "24%",
     "Green (RGB)": "41%",
@@ -963,6 +1037,7 @@
   },
   {
     "Name": "Blush",
+    "searchKey": "blush",
     "Hex (RGB)": "#DE5D83",
     "Red (RGB)": "87%",
     "Green (RGB)": "36%",
@@ -976,6 +1051,7 @@
   },
   {
     "Name": "Bole",
+    "searchKey": "bole",
     "Hex (RGB)": "#79443B",
     "Red (RGB)": "47%",
     "Green (RGB)": "27%",
@@ -989,6 +1065,7 @@
   },
   {
     "Name": "Bone",
+    "searchKey": "bone",
     "Hex (RGB)": "#E3DAC9",
     "Red (RGB)": "89%",
     "Green (RGB)": "85%",
@@ -1002,6 +1079,7 @@
   },
   {
     "Name": "Brick red",
+    "searchKey": "brickred",
     "Hex (RGB)": "#CB4154",
     "Red (RGB)": "80%",
     "Green (RGB)": "25%",
@@ -1015,6 +1093,7 @@
   },
   {
     "Name": "Bright lilac",
+    "searchKey": "brightlilac",
     "Hex (RGB)": "#D891EF",
     "Red (RGB)": "85%",
     "Green (RGB)": "57%",
@@ -1028,6 +1107,7 @@
   },
   {
     "Name": "Bright yellow (Crayola)",
+    "searchKey": "brightyellow",
     "Hex (RGB)": "#FFAA1D",
     "Red (RGB)": "100%",
     "Green (RGB)": "67%",
@@ -1041,6 +1121,7 @@
   },
   {
     "Name": "British racing green",
+    "searchKey": "britishracinggreen",
     "Hex (RGB)": "#004225",
     "Red (RGB)": "0%",
     "Green (RGB)": "26%",
@@ -1054,6 +1135,7 @@
   },
   {
     "Name": "Bronze",
+    "searchKey": "bronze",
     "Hex (RGB)": "#CD7F32",
     "Red (RGB)": "80%",
     "Green (RGB)": "50%",
@@ -1067,6 +1149,7 @@
   },
   {
     "Name": "Brown",
+    "searchKey": "brown",
     "Hex (RGB)": "#964B00",
     "Red (RGB)": "59%",
     "Green (RGB)": "29%",
@@ -1080,6 +1163,7 @@
   },
   {
     "Name": "Brown sugar",
+    "searchKey": "brownsugar",
     "Hex (RGB)": "#AF6E4D",
     "Red (RGB)": "69%",
     "Green (RGB)": "43%",
@@ -1093,6 +1177,7 @@
   },
   {
     "Name": "Bud green",
+    "searchKey": "budgreen",
     "Hex (RGB)": "#7BB661",
     "Red (RGB)": "48%",
     "Green (RGB)": "71%",
@@ -1106,6 +1191,7 @@
   },
   {
     "Name": "Buff",
+    "searchKey": "buff",
     "Hex (RGB)": "#FFC680",
     "Red (RGB)": "100%",
     "Green (RGB)": "78%",
@@ -1119,6 +1205,7 @@
   },
   {
     "Name": "Burgundy",
+    "searchKey": "burgundy",
     "Hex (RGB)": "#800020",
     "Red (RGB)": "50%",
     "Green (RGB)": "0%",
@@ -1132,6 +1219,7 @@
   },
   {
     "Name": "Burlywood",
+    "searchKey": "burlywood",
     "Hex (RGB)": "#DEB887",
     "Red (RGB)": "87%",
     "Green (RGB)": "72%",
@@ -1145,6 +1233,7 @@
   },
   {
     "Name": "Burnished brown",
+    "searchKey": "burnishedbrown",
     "Hex (RGB)": "#A17A74",
     "Red (RGB)": "63%",
     "Green (RGB)": "48%",
@@ -1158,6 +1247,7 @@
   },
   {
     "Name": "Burnt orange",
+    "searchKey": "burntorange",
     "Hex (RGB)": "#CC5500",
     "Red (RGB)": "80%",
     "Green (RGB)": "33%",
@@ -1171,6 +1261,7 @@
   },
   {
     "Name": "Burnt sienna",
+    "searchKey": "burntsienna",
     "Hex (RGB)": "#E97451",
     "Red (RGB)": "91%",
     "Green (RGB)": "45%",
@@ -1184,6 +1275,7 @@
   },
   {
     "Name": "Burnt umber",
+    "searchKey": "burntumber",
     "Hex (RGB)": "#8A3324",
     "Red (RGB)": "54%",
     "Green (RGB)": "20%",
@@ -1197,6 +1289,7 @@
   },
   {
     "Name": "Byzantine",
+    "searchKey": "byzantine",
     "Hex (RGB)": "#BD33A4",
     "Red (RGB)": "74%",
     "Green (RGB)": "20%",
@@ -1210,6 +1303,7 @@
   },
   {
     "Name": "Byzantium",
+    "searchKey": "byzantium",
     "Hex (RGB)": "#702963",
     "Red (RGB)": "44%",
     "Green (RGB)": "16%",
@@ -1223,6 +1317,7 @@
   },
   {
     "Name": "Cadet blue",
+    "searchKey": "cadetblue",
     "Hex (RGB)": "#5F9EA0",
     "Red (RGB)": "37%",
     "Green (RGB)": "62%",
@@ -1236,6 +1331,7 @@
   },
   {
     "Name": "Cadet grey",
+    "searchKey": "cadetgrey",
     "Hex (RGB)": "#91A3B0",
     "Red (RGB)": "57%",
     "Green (RGB)": "64%",
@@ -1249,6 +1345,7 @@
   },
   {
     "Name": "Cadmium green",
+    "searchKey": "cadmiumgreen",
     "Hex (RGB)": "#006B3C",
     "Red (RGB)": "0%",
     "Green (RGB)": "42%",
@@ -1262,6 +1359,7 @@
   },
   {
     "Name": "Cadmium orange",
+    "searchKey": "cadmiumorange",
     "Hex (RGB)": "#ED872D",
     "Red (RGB)": "93%",
     "Green (RGB)": "53%",
@@ -1275,6 +1373,7 @@
   },
   {
     "Name": "Café au lait",
+    "searchKey": "caféaulait",
     "Hex (RGB)": "#A67B5B",
     "Red (RGB)": "65%",
     "Green (RGB)": "48%",
@@ -1288,6 +1387,7 @@
   },
   {
     "Name": "Café noir",
+    "searchKey": "cafénoir",
     "Hex (RGB)": "#4B3621",
     "Red (RGB)": "29%",
     "Green (RGB)": "21%",
@@ -1301,6 +1401,7 @@
   },
   {
     "Name": "Cambridge blue",
+    "searchKey": "cambridgeblue",
     "Hex (RGB)": "#A3C1AD",
     "Red (RGB)": "64%",
     "Green (RGB)": "76%",
@@ -1314,6 +1415,7 @@
   },
   {
     "Name": "Camel",
+    "searchKey": "camel",
     "Hex (RGB)": "#C19A6B",
     "Red (RGB)": "76%",
     "Green (RGB)": "60%",
@@ -1327,6 +1429,7 @@
   },
   {
     "Name": "Cameo pink",
+    "searchKey": "cameopink",
     "Hex (RGB)": "#EFBBCC",
     "Red (RGB)": "94%",
     "Green (RGB)": "73%",
@@ -1340,6 +1443,7 @@
   },
   {
     "Name": "Canary",
+    "searchKey": "canary",
     "Hex (RGB)": "#FFFF99",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -1353,6 +1457,7 @@
   },
   {
     "Name": "Canary yellow",
+    "searchKey": "canaryyellow",
     "Hex (RGB)": "#FFEF00",
     "Red (RGB)": "100%",
     "Green (RGB)": "94%",
@@ -1366,6 +1471,7 @@
   },
   {
     "Name": "Candy pink",
+    "searchKey": "candypink",
     "Hex (RGB)": "#E4717A",
     "Red (RGB)": "89%",
     "Green (RGB)": "44%",
@@ -1379,6 +1485,7 @@
   },
   {
     "Name": "Cardinal",
+    "searchKey": "cardinal",
     "Hex (RGB)": "#C41E3A",
     "Red (RGB)": "77%",
     "Green (RGB)": "12%",
@@ -1392,6 +1499,7 @@
   },
   {
     "Name": "Caribbean green",
+    "searchKey": "caribbeangreen",
     "Hex (RGB)": "#00CC99",
     "Red (RGB)": "0%",
     "Green (RGB)": "80%",
@@ -1405,6 +1513,7 @@
   },
   {
     "Name": "Carmine",
+    "searchKey": "carmine",
     "Hex (RGB)": "#960018",
     "Red (RGB)": "59%",
     "Green (RGB)": "0%",
@@ -1418,6 +1527,7 @@
   },
   {
     "Name": "Carmine (M&P)",
+    "searchKey": "carmine",
     "Hex (RGB)": "#D70040",
     "Red (RGB)": "84%",
     "Green (RGB)": "0%",
@@ -1431,6 +1541,7 @@
   },
   {
     "Name": "Carnation pink",
+    "searchKey": "carnationpink",
     "Hex (RGB)": "#FFA6C9",
     "Red (RGB)": "100%",
     "Green (RGB)": "65%",
@@ -1444,6 +1555,7 @@
   },
   {
     "Name": "Carnelian",
+    "searchKey": "carnelian",
     "Hex (RGB)": "#B31B1B",
     "Red (RGB)": "70%",
     "Green (RGB)": "11%",
@@ -1457,6 +1569,7 @@
   },
   {
     "Name": "Carolina blue",
+    "searchKey": "carolinablue",
     "Hex (RGB)": "#56A0D3",
     "Red (RGB)": "34%",
     "Green (RGB)": "63%",
@@ -1470,6 +1583,7 @@
   },
   {
     "Name": "Carrot orange",
+    "searchKey": "carrotorange",
     "Hex (RGB)": "#ED9121",
     "Red (RGB)": "93%",
     "Green (RGB)": "57%",
@@ -1483,6 +1597,7 @@
   },
   {
     "Name": "Catawba",
+    "searchKey": "catawba",
     "Hex (RGB)": "#703642",
     "Red (RGB)": "44%",
     "Green (RGB)": "21%",
@@ -1496,6 +1611,7 @@
   },
   {
     "Name": "Cedar Chest",
+    "searchKey": "cedarchest",
     "Hex (RGB)": "#C95A49",
     "Red (RGB)": "79%",
     "Green (RGB)": "35%",
@@ -1509,6 +1625,7 @@
   },
   {
     "Name": "Celadon",
+    "searchKey": "celadon",
     "Hex (RGB)": "#ACE1AF",
     "Red (RGB)": "67%",
     "Green (RGB)": "88%",
@@ -1522,6 +1639,7 @@
   },
   {
     "Name": "Celeste",
+    "searchKey": "celeste",
     "Hex (RGB)": "#B2FFFF",
     "Red (RGB)": "70%",
     "Green (RGB)": "100%",
@@ -1535,6 +1653,7 @@
   },
   {
     "Name": "Cerise",
+    "searchKey": "cerise",
     "Hex (RGB)": "#DE3163",
     "Red (RGB)": "87%",
     "Green (RGB)": "19%",
@@ -1548,6 +1667,7 @@
   },
   {
     "Name": "Cerulean",
+    "searchKey": "cerulean",
     "Hex (RGB)": "#007BA7",
     "Red (RGB)": "0%",
     "Green (RGB)": "48%",
@@ -1561,6 +1681,7 @@
   },
   {
     "Name": "Cerulean blue",
+    "searchKey": "ceruleanblue",
     "Hex (RGB)": "#2A52BE",
     "Red (RGB)": "16%",
     "Green (RGB)": "32%",
@@ -1574,6 +1695,7 @@
   },
   {
     "Name": "Cerulean frost",
+    "searchKey": "ceruleanfrost",
     "Hex (RGB)": "#6D9BC3",
     "Red (RGB)": "43%",
     "Green (RGB)": "61%",
@@ -1587,6 +1709,7 @@
   },
   {
     "Name": "Cerulean (Crayola)",
+    "searchKey": "cerulean",
     "Hex (RGB)": "#1DACD6",
     "Red (RGB)": "11%",
     "Green (RGB)": "67%",
@@ -1600,6 +1723,7 @@
   },
   {
     "Name": "Cerulean (RGB)",
+    "searchKey": "cerulean",
     "Hex (RGB)": "#0040FF",
     "Red (RGB)": "0%",
     "Green (RGB)": "25%",
@@ -1613,6 +1737,7 @@
   },
   {
     "Name": "Champagne",
+    "searchKey": "champagne",
     "Hex (RGB)": "#F7E7CE",
     "Red (RGB)": "97%",
     "Green (RGB)": "91%",
@@ -1626,6 +1751,7 @@
   },
   {
     "Name": "Champagne pink",
+    "searchKey": "champagnepink",
     "Hex (RGB)": "#F1DDCF",
     "Red (RGB)": "95%",
     "Green (RGB)": "87%",
@@ -1639,6 +1765,7 @@
   },
   {
     "Name": "Charcoal",
+    "searchKey": "charcoal",
     "Hex (RGB)": "#36454F",
     "Red (RGB)": "21%",
     "Green (RGB)": "27%",
@@ -1652,6 +1779,7 @@
   },
   {
     "Name": "Charm pink",
+    "searchKey": "charmpink",
     "Hex (RGB)": "#E68FAC",
     "Red (RGB)": "90%",
     "Green (RGB)": "56%",
@@ -1665,6 +1793,7 @@
   },
   {
     "Name": "Chartreuse (web)",
+    "searchKey": "chartreuse",
     "Hex (RGB)": "#80FF00",
     "Red (RGB)": "50%",
     "Green (RGB)": "100%",
@@ -1678,6 +1807,7 @@
   },
   {
     "Name": "Cherry blossom pink",
+    "searchKey": "cherryblossompink",
     "Hex (RGB)": "#FFB7C5",
     "Red (RGB)": "100%",
     "Green (RGB)": "72%",
@@ -1691,6 +1821,7 @@
   },
   {
     "Name": "Chestnut",
+    "searchKey": "chestnut",
     "Hex (RGB)": "#954535",
     "Red (RGB)": "58%",
     "Green (RGB)": "27%",
@@ -1704,6 +1835,7 @@
   },
   {
     "Name": "Chili red",
+    "searchKey": "chilired",
     "Hex (RGB)": "#E23D28",
     "Red (RGB)": "89%",
     "Green (RGB)": "24%",
@@ -1717,6 +1849,7 @@
   },
   {
     "Name": "China pink",
+    "searchKey": "chinapink",
     "Hex (RGB)": "#DE6FA1",
     "Red (RGB)": "87%",
     "Green (RGB)": "44%",
@@ -1730,6 +1863,7 @@
   },
   {
     "Name": "Chinese red",
+    "searchKey": "chinesered",
     "Hex (RGB)": "#AA381E",
     "Red (RGB)": "67%",
     "Green (RGB)": "22%",
@@ -1743,6 +1877,7 @@
   },
   {
     "Name": "Chinese violet",
+    "searchKey": "chineseviolet",
     "Hex (RGB)": "#856088",
     "Red (RGB)": "52%",
     "Green (RGB)": "38%",
@@ -1756,6 +1891,7 @@
   },
   {
     "Name": "Chinese yellow",
+    "searchKey": "chineseyellow",
     "Hex (RGB)": "#FFB200",
     "Red (RGB)": "100%",
     "Green (RGB)": "70%",
@@ -1769,6 +1905,7 @@
   },
   {
     "Name": "Chocolate (traditional)",
+    "searchKey": "chocolate",
     "Hex (RGB)": "#7B3F00",
     "Red (RGB)": "48%",
     "Green (RGB)": "25%",
@@ -1782,6 +1919,7 @@
   },
   {
     "Name": "Chocolate (web)",
+    "searchKey": "chocolate",
     "Hex (RGB)": "#D2691E",
     "Red (RGB)": "82%",
     "Green (RGB)": "41%",
@@ -1795,6 +1933,7 @@
   },
   {
     "Name": "Cinereous",
+    "searchKey": "cinereous",
     "Hex (RGB)": "#98817B",
     "Red (RGB)": "60%",
     "Green (RGB)": "51%",
@@ -1808,6 +1947,7 @@
   },
   {
     "Name": "Cinnabar",
+    "searchKey": "cinnabar",
     "Hex (RGB)": "#E34234",
     "Red (RGB)": "89%",
     "Green (RGB)": "26%",
@@ -1821,6 +1961,7 @@
   },
   {
     "Name": "Cinnamon Satin",
+    "searchKey": "cinnamonsatin",
     "Hex (RGB)": "#CD607E",
     "Red (RGB)": "80%",
     "Green (RGB)": "38%",
@@ -1834,6 +1975,7 @@
   },
   {
     "Name": "Citrine",
+    "searchKey": "citrine",
     "Hex (RGB)": "#E4D00A",
     "Red (RGB)": "89%",
     "Green (RGB)": "82%",
@@ -1847,6 +1989,7 @@
   },
   {
     "Name": "Citron",
+    "searchKey": "citron",
     "Hex (RGB)": "#9FA91F",
     "Red (RGB)": "62%",
     "Green (RGB)": "66%",
@@ -1860,6 +2003,7 @@
   },
   {
     "Name": "Claret",
+    "searchKey": "claret",
     "Hex (RGB)": "#7F1734",
     "Red (RGB)": "50%",
     "Green (RGB)": "9%",
@@ -1873,6 +2017,7 @@
   },
   {
     "Name": "Coffee",
+    "searchKey": "coffee",
     "Hex (RGB)": "#6F4E37",
     "Red (RGB)": "44%",
     "Green (RGB)": "31%",
@@ -1886,6 +2031,7 @@
   },
   {
     "Name": "Columbia Blue",
+    "searchKey": "columbiablue",
     "Hex (RGB)": "#B9D9EB",
     "Red (RGB)": "73%",
     "Green (RGB)": "85%",
@@ -1899,6 +2045,7 @@
   },
   {
     "Name": "Congo pink",
+    "searchKey": "congopink",
     "Hex (RGB)": "#F88379",
     "Red (RGB)": "97%",
     "Green (RGB)": "51%",
@@ -1912,6 +2059,7 @@
   },
   {
     "Name": "Connor's Lakefront",
+    "searchKey": "connorslakefront",
     "Hex (RGB)": "#175A6C",
     "Red (RGB)": "9%",
     "Green (RGB)": "35%",
@@ -1925,6 +2073,7 @@
   },
   {
     "Name": "Cool grey",
+    "searchKey": "coolgrey",
     "Hex (RGB)": "#8C92AC",
     "Red (RGB)": "55%",
     "Green (RGB)": "57%",
@@ -1938,6 +2087,7 @@
   },
   {
     "Name": "Copper",
+    "searchKey": "copper",
     "Hex (RGB)": "#B87333",
     "Red (RGB)": "72%",
     "Green (RGB)": "45%",
@@ -1951,6 +2101,7 @@
   },
   {
     "Name": "Copper (Crayola)",
+    "searchKey": "copper",
     "Hex (RGB)": "#DA8A67",
     "Red (RGB)": "85%",
     "Green (RGB)": "54%",
@@ -1964,6 +2115,7 @@
   },
   {
     "Name": "Copper penny",
+    "searchKey": "copperpenny",
     "Hex (RGB)": "#AD6F69",
     "Red (RGB)": "68%",
     "Green (RGB)": "44%",
@@ -1977,6 +2129,7 @@
   },
   {
     "Name": "Copper red",
+    "searchKey": "copperred",
     "Hex (RGB)": "#CB6D51",
     "Red (RGB)": "80%",
     "Green (RGB)": "43%",
@@ -1990,6 +2143,7 @@
   },
   {
     "Name": "Copper rose",
+    "searchKey": "copperrose",
     "Hex (RGB)": "#996666",
     "Red (RGB)": "60%",
     "Green (RGB)": "40%",
@@ -2003,6 +2157,7 @@
   },
   {
     "Name": "Coquelicot",
+    "searchKey": "coquelicot",
     "Hex (RGB)": "#FF3800",
     "Red (RGB)": "100%",
     "Green (RGB)": "22%",
@@ -2016,6 +2171,7 @@
   },
   {
     "Name": "Coral",
+    "searchKey": "coral",
     "Hex (RGB)": "#FF7F50",
     "Red (RGB)": "100%",
     "Green (RGB)": "50%",
@@ -2029,6 +2185,7 @@
   },
   {
     "Name": "Coral pink",
+    "searchKey": "coralpink",
     "Hex (RGB)": "#F88379",
     "Red (RGB)": "97%",
     "Green (RGB)": "51%",
@@ -2042,6 +2199,7 @@
   },
   {
     "Name": "Cordovan",
+    "searchKey": "cordovan",
     "Hex (RGB)": "#893F45",
     "Red (RGB)": "54%",
     "Green (RGB)": "25%",
@@ -2055,6 +2213,7 @@
   },
   {
     "Name": "Corn",
+    "searchKey": "corn",
     "Hex (RGB)": "#FBEC5D",
     "Red (RGB)": "98%",
     "Green (RGB)": "93%",
@@ -2068,6 +2227,7 @@
   },
   {
     "Name": "Cornflower blue",
+    "searchKey": "cornflowerblue",
     "Hex (RGB)": "#6495ED",
     "Red (RGB)": "39%",
     "Green (RGB)": "58%",
@@ -2081,6 +2241,7 @@
   },
   {
     "Name": "Cornsilk",
+    "searchKey": "cornsilk",
     "Hex (RGB)": "#FFF8DC",
     "Red (RGB)": "100%",
     "Green (RGB)": "97%",
@@ -2094,6 +2255,7 @@
   },
   {
     "Name": "Cosmic cobalt",
+    "searchKey": "cosmiccobalt",
     "Hex (RGB)": "#2E2D88",
     "Red (RGB)": "18%",
     "Green (RGB)": "18%",
@@ -2107,6 +2269,7 @@
   },
   {
     "Name": "Cosmic latte",
+    "searchKey": "cosmiclatte",
     "Hex (RGB)": "#FFF8E7",
     "Red (RGB)": "100%",
     "Green (RGB)": "97%",
@@ -2120,6 +2283,7 @@
   },
   {
     "Name": "Coyote brown",
+    "searchKey": "coyotebrown",
     "Hex (RGB)": "#81613C",
     "Red (RGB)": "51%",
     "Green (RGB)": "38%",
@@ -2133,6 +2297,7 @@
   },
   {
     "Name": "Cotton candy",
+    "searchKey": "cottoncandy",
     "Hex (RGB)": "#FFBCD9",
     "Red (RGB)": "100%",
     "Green (RGB)": "74%",
@@ -2146,6 +2311,7 @@
   },
   {
     "Name": "Cream",
+    "searchKey": "cream",
     "Hex (RGB)": "#FFFDD0",
     "Red (RGB)": "100%",
     "Green (RGB)": "99%",
@@ -2159,6 +2325,7 @@
   },
   {
     "Name": "Crimson",
+    "searchKey": "crimson",
     "Hex (RGB)": "#DC143C",
     "Red (RGB)": "86%",
     "Green (RGB)": "8%",
@@ -2172,6 +2339,7 @@
   },
   {
     "Name": "Crimson (UA)",
+    "searchKey": "crimson",
     "Hex (RGB)": "#9E1B32",
     "Red (RGB)": "62%",
     "Green (RGB)": "11%",
@@ -2185,6 +2353,7 @@
   },
   {
     "Name": "Cultured Pearl",
+    "searchKey": "culturedpearl",
     "Hex (RGB)": "#F5F5F5",
     "Red (RGB)": "96%",
     "Green (RGB)": "96%",
@@ -2198,6 +2367,7 @@
   },
   {
     "Name": "Cyan",
+    "searchKey": "cyan",
     "Hex (RGB)": "#00FFFF",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -2211,6 +2381,7 @@
   },
   {
     "Name": "Cyan (process)",
+    "searchKey": "cyan",
     "Hex (RGB)": "#00B7EB",
     "Red (RGB)": "0%",
     "Green (RGB)": "72%",
@@ -2224,6 +2395,7 @@
   },
   {
     "Name": "Cyber grape",
+    "searchKey": "cybergrape",
     "Hex (RGB)": "#58427C",
     "Red (RGB)": "35%",
     "Green (RGB)": "26%",
@@ -2237,6 +2409,7 @@
   },
   {
     "Name": "Cyber yellow",
+    "searchKey": "cyberyellow",
     "Hex (RGB)": "#FFD300",
     "Red (RGB)": "100%",
     "Green (RGB)": "83%",
@@ -2250,6 +2423,7 @@
   },
   {
     "Name": "Cyclamen",
+    "searchKey": "cyclamen",
     "Hex (RGB)": "#F56FA1",
     "Red (RGB)": "96%",
     "Green (RGB)": "44%",
@@ -2263,6 +2437,7 @@
   },
   {
     "Name": "Dandelion",
+    "searchKey": "dandelion",
     "Hex (RGB)": "#FED85D",
     "Red (RGB)": "100%",
     "Green (RGB)": "85%",
@@ -2276,6 +2451,7 @@
   },
   {
     "Name": "Dark brown",
+    "searchKey": "darkbrown",
     "Hex (RGB)": "#654321",
     "Red (RGB)": "40%",
     "Green (RGB)": "26%",
@@ -2289,6 +2465,7 @@
   },
   {
     "Name": "Dark byzantium",
+    "searchKey": "darkbyzantium",
     "Hex (RGB)": "#5D3954",
     "Red (RGB)": "36%",
     "Green (RGB)": "22%",
@@ -2302,6 +2479,7 @@
   },
   {
     "Name": "Dark cyan",
+    "searchKey": "darkcyan",
     "Hex (RGB)": "#008B8B",
     "Red (RGB)": "0%",
     "Green (RGB)": "55%",
@@ -2315,6 +2493,7 @@
   },
   {
     "Name": "Dark electric blue",
+    "searchKey": "darkelectricblue",
     "Hex (RGB)": "#536878",
     "Red (RGB)": "33%",
     "Green (RGB)": "41%",
@@ -2328,6 +2507,7 @@
   },
   {
     "Name": "Dark goldenrod",
+    "searchKey": "darkgoldenrod",
     "Hex (RGB)": "#B8860B",
     "Red (RGB)": "72%",
     "Green (RGB)": "53%",
@@ -2341,6 +2521,7 @@
   },
   {
     "Name": "Dark green (X11)",
+    "searchKey": "darkgreen",
     "Hex (RGB)": "#006400",
     "Red (RGB)": "0%",
     "Green (RGB)": "39%",
@@ -2354,6 +2535,7 @@
   },
   {
     "Name": "Dark jungle green",
+    "searchKey": "darkjunglegreen",
     "Hex (RGB)": "#1A2421",
     "Red (RGB)": "10%",
     "Green (RGB)": "14%",
@@ -2367,6 +2549,7 @@
   },
   {
     "Name": "Dark khaki",
+    "searchKey": "darkkhaki",
     "Hex (RGB)": "#BDB76B",
     "Red (RGB)": "74%",
     "Green (RGB)": "72%",
@@ -2380,6 +2563,7 @@
   },
   {
     "Name": "Dark lava",
+    "searchKey": "darklava",
     "Hex (RGB)": "#483C32",
     "Red (RGB)": "28%",
     "Green (RGB)": "24%",
@@ -2393,6 +2577,7 @@
   },
   {
     "Name": "Dark liver (horses)",
+    "searchKey": "darkliver",
     "Hex (RGB)": "#543D37",
     "Red (RGB)": "33%",
     "Green (RGB)": "24%",
@@ -2406,6 +2591,7 @@
   },
   {
     "Name": "Dark magenta",
+    "searchKey": "darkmagenta",
     "Hex (RGB)": "#8B008B",
     "Red (RGB)": "55%",
     "Green (RGB)": "0%",
@@ -2419,6 +2605,7 @@
   },
   {
     "Name": "Dark olive green",
+    "searchKey": "darkolivegreen",
     "Hex (RGB)": "#556B2F",
     "Red (RGB)": "33%",
     "Green (RGB)": "42%",
@@ -2432,6 +2619,7 @@
   },
   {
     "Name": "Dark orange",
+    "searchKey": "darkorange",
     "Hex (RGB)": "#FF8C00",
     "Red (RGB)": "100%",
     "Green (RGB)": "55%",
@@ -2445,6 +2633,7 @@
   },
   {
     "Name": "Dark orchid",
+    "searchKey": "darkorchid",
     "Hex (RGB)": "#9932CC",
     "Red (RGB)": "60%",
     "Green (RGB)": "20%",
@@ -2458,6 +2647,7 @@
   },
   {
     "Name": "Dark purple",
+    "searchKey": "darkpurple",
     "Hex (RGB)": "#301934",
     "Red (RGB)": "19%",
     "Green (RGB)": "10%",
@@ -2471,6 +2661,7 @@
   },
   {
     "Name": "Dark red",
+    "searchKey": "darkred",
     "Hex (RGB)": "#8B0000",
     "Red (RGB)": "55%",
     "Green (RGB)": "0%",
@@ -2484,6 +2675,7 @@
   },
   {
     "Name": "Dark salmon",
+    "searchKey": "darksalmon",
     "Hex (RGB)": "#E9967A",
     "Red (RGB)": "91%",
     "Green (RGB)": "59%",
@@ -2497,6 +2689,7 @@
   },
   {
     "Name": "Dark sea green",
+    "searchKey": "darkseagreen",
     "Hex (RGB)": "#8FBC8F",
     "Red (RGB)": "56%",
     "Green (RGB)": "74%",
@@ -2510,6 +2703,7 @@
   },
   {
     "Name": "Dark sienna",
+    "searchKey": "darksienna",
     "Hex (RGB)": "#3C1414",
     "Red (RGB)": "24%",
     "Green (RGB)": "8%",
@@ -2523,6 +2717,7 @@
   },
   {
     "Name": "Dark sky blue",
+    "searchKey": "darkskyblue",
     "Hex (RGB)": "#8CBED6",
     "Red (RGB)": "55%",
     "Green (RGB)": "75%",
@@ -2536,6 +2731,7 @@
   },
   {
     "Name": "Dark slate blue",
+    "searchKey": "darkslateblue",
     "Hex (RGB)": "#483D8B",
     "Red (RGB)": "28%",
     "Green (RGB)": "24%",
@@ -2549,6 +2745,7 @@
   },
   {
     "Name": "Dark slate gray",
+    "searchKey": "darkslategray",
     "Hex (RGB)": "#2F4F4F",
     "Red (RGB)": "18%",
     "Green (RGB)": "31%",
@@ -2562,6 +2759,7 @@
   },
   {
     "Name": "Dark spring green",
+    "searchKey": "darkspringgreen",
     "Hex (RGB)": "#177245",
     "Red (RGB)": "9%",
     "Green (RGB)": "45%",
@@ -2575,6 +2773,7 @@
   },
   {
     "Name": "Dark turquoise",
+    "searchKey": "darkturquoise",
     "Hex (RGB)": "#00CED1",
     "Red (RGB)": "0%",
     "Green (RGB)": "81%",
@@ -2588,6 +2787,7 @@
   },
   {
     "Name": "Dark violet",
+    "searchKey": "darkviolet",
     "Hex (RGB)": "#9400D3",
     "Red (RGB)": "58%",
     "Green (RGB)": "0%",
@@ -2601,6 +2801,7 @@
   },
   {
     "Name": "Davy's grey",
+    "searchKey": "davysgrey",
     "Hex (RGB)": "#555555",
     "Red (RGB)": "33%",
     "Green (RGB)": "33%",
@@ -2614,6 +2815,7 @@
   },
   {
     "Name": "Deep cerise",
+    "searchKey": "deepcerise",
     "Hex (RGB)": "#DA3287",
     "Red (RGB)": "85%",
     "Green (RGB)": "20%",
@@ -2627,6 +2829,7 @@
   },
   {
     "Name": "Deep champagne",
+    "searchKey": "deepchampagne",
     "Hex (RGB)": "#FAD6A5",
     "Red (RGB)": "98%",
     "Green (RGB)": "84%",
@@ -2640,6 +2843,7 @@
   },
   {
     "Name": "Deep chestnut",
+    "searchKey": "deepchestnut",
     "Hex (RGB)": "#B94E48",
     "Red (RGB)": "73%",
     "Green (RGB)": "31%",
@@ -2653,6 +2857,7 @@
   },
   {
     "Name": "Deep jungle green",
+    "searchKey": "deepjunglegreen",
     "Hex (RGB)": "#004B49",
     "Red (RGB)": "0%",
     "Green (RGB)": "29%",
@@ -2666,6 +2871,7 @@
   },
   {
     "Name": "Deep pink",
+    "searchKey": "deeppink",
     "Hex (RGB)": "#FF1493",
     "Red (RGB)": "100%",
     "Green (RGB)": "8%",
@@ -2679,6 +2885,7 @@
   },
   {
     "Name": "Deep saffron",
+    "searchKey": "deepsaffron",
     "Hex (RGB)": "#FF9933",
     "Red (RGB)": "100%",
     "Green (RGB)": "60%",
@@ -2692,6 +2899,7 @@
   },
   {
     "Name": "Deep sky blue",
+    "searchKey": "deepskyblue",
     "Hex (RGB)": "#00BFFF",
     "Red (RGB)": "0%",
     "Green (RGB)": "75%",
@@ -2705,6 +2913,7 @@
   },
   {
     "Name": "Deep Space Sparkle",
+    "searchKey": "deepspacesparkle",
     "Hex (RGB)": "#4A646C",
     "Red (RGB)": "29%",
     "Green (RGB)": "39%",
@@ -2718,6 +2927,7 @@
   },
   {
     "Name": "Deep taupe",
+    "searchKey": "deeptaupe",
     "Hex (RGB)": "#7E5E60",
     "Red (RGB)": "49%",
     "Green (RGB)": "37%",
@@ -2731,6 +2941,7 @@
   },
   {
     "Name": "Denim",
+    "searchKey": "denim",
     "Hex (RGB)": "#1560BD",
     "Red (RGB)": "8%",
     "Green (RGB)": "38%",
@@ -2744,6 +2955,7 @@
   },
   {
     "Name": "Denim blue",
+    "searchKey": "denimblue",
     "Hex (RGB)": "#2243B6",
     "Red (RGB)": "13%",
     "Green (RGB)": "26%",
@@ -2757,6 +2969,7 @@
   },
   {
     "Name": "Desert",
+    "searchKey": "desert",
     "Hex (RGB)": "#C19A6B",
     "Red (RGB)": "76%",
     "Green (RGB)": "60%",
@@ -2770,6 +2983,7 @@
   },
   {
     "Name": "Desert sand",
+    "searchKey": "desertsand",
     "Hex (RGB)": "#EDC9AF",
     "Red (RGB)": "93%",
     "Green (RGB)": "79%",
@@ -2783,6 +2997,7 @@
   },
   {
     "Name": "Dim gray",
+    "searchKey": "dimgray",
     "Hex (RGB)": "#696969",
     "Red (RGB)": "41%",
     "Green (RGB)": "41%",
@@ -2796,6 +3011,7 @@
   },
   {
     "Name": "Dodger blue",
+    "searchKey": "dodgerblue",
     "Hex (RGB)": "#1E90FF",
     "Red (RGB)": "12%",
     "Green (RGB)": "56%",
@@ -2809,6 +3025,7 @@
   },
   {
     "Name": "Drab dark brown",
+    "searchKey": "drabdarkbrown",
     "Hex (RGB)": "#4A412A",
     "Red (RGB)": "29%",
     "Green (RGB)": "25%",
@@ -2822,6 +3039,7 @@
   },
   {
     "Name": "Duke blue",
+    "searchKey": "dukeblue",
     "Hex (RGB)": "#00009C",
     "Red (RGB)": "0%",
     "Green (RGB)": "0%",
@@ -2835,6 +3053,7 @@
   },
   {
     "Name": "Dutch white",
+    "searchKey": "dutchwhite",
     "Hex (RGB)": "#EFDFBB",
     "Red (RGB)": "94%",
     "Green (RGB)": "87%",
@@ -2848,6 +3067,7 @@
   },
   {
     "Name": "Ebony",
+    "searchKey": "ebony",
     "Hex (RGB)": "#555D50",
     "Red (RGB)": "33%",
     "Green (RGB)": "36%",
@@ -2861,6 +3081,7 @@
   },
   {
     "Name": "Ecru",
+    "searchKey": "ecru",
     "Hex (RGB)": "#C2B280",
     "Red (RGB)": "76%",
     "Green (RGB)": "70%",
@@ -2874,6 +3095,7 @@
   },
   {
     "Name": "Eerie black",
+    "searchKey": "eerieblack",
     "Hex (RGB)": "#1B1B1B",
     "Red (RGB)": "11%",
     "Green (RGB)": "11%",
@@ -2887,6 +3109,7 @@
   },
   {
     "Name": "Eggplant",
+    "searchKey": "eggplant",
     "Hex (RGB)": "#614051",
     "Red (RGB)": "38%",
     "Green (RGB)": "25%",
@@ -2900,6 +3123,7 @@
   },
   {
     "Name": "Eggshell",
+    "searchKey": "eggshell",
     "Hex (RGB)": "#F0EAD6",
     "Red (RGB)": "94%",
     "Green (RGB)": "92%",
@@ -2913,6 +3137,7 @@
   },
   {
     "Name": "Electric lime",
+    "searchKey": "electriclime",
     "Hex (RGB)": "#CCFF00",
     "Red (RGB)": "80%",
     "Green (RGB)": "100%",
@@ -2926,6 +3151,7 @@
   },
   {
     "Name": "Electric purple",
+    "searchKey": "electricpurple",
     "Hex (RGB)": "#BF00FF",
     "Red (RGB)": "75%",
     "Green (RGB)": "0%",
@@ -2939,6 +3165,7 @@
   },
   {
     "Name": "Electric violet",
+    "searchKey": "electricviolet",
     "Hex (RGB)": "#8F00FF",
     "Red (RGB)": "56%",
     "Green (RGB)": "0%",
@@ -2952,6 +3179,7 @@
   },
   {
     "Name": "Emerald",
+    "searchKey": "emerald",
     "Hex (RGB)": "#50C878",
     "Red (RGB)": "31%",
     "Green (RGB)": "78%",
@@ -2965,6 +3193,7 @@
   },
   {
     "Name": "Eminence",
+    "searchKey": "eminence",
     "Hex (RGB)": "#6C3082",
     "Red (RGB)": "42%",
     "Green (RGB)": "19%",
@@ -2978,6 +3207,7 @@
   },
   {
     "Name": "English lavender",
+    "searchKey": "englishlavender",
     "Hex (RGB)": "#B48395",
     "Red (RGB)": "71%",
     "Green (RGB)": "51%",
@@ -2991,6 +3221,7 @@
   },
   {
     "Name": "English red",
+    "searchKey": "englishred",
     "Hex (RGB)": "#AB4B52",
     "Red (RGB)": "67%",
     "Green (RGB)": "29%",
@@ -3004,6 +3235,7 @@
   },
   {
     "Name": "English vermillion",
+    "searchKey": "englishvermillion",
     "Hex (RGB)": "#CC474B",
     "Red (RGB)": "80%",
     "Green (RGB)": "28%",
@@ -3017,6 +3249,7 @@
   },
   {
     "Name": "English violet",
+    "searchKey": "englishviolet",
     "Hex (RGB)": "#563C5C",
     "Red (RGB)": "34%",
     "Green (RGB)": "24%",
@@ -3030,6 +3263,7 @@
   },
   {
     "Name": "Erin",
+    "searchKey": "erin",
     "Hex (RGB)": "#00FF40",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -3043,6 +3277,7 @@
   },
   {
     "Name": "Eton blue",
+    "searchKey": "etonblue",
     "Hex (RGB)": "#96C8A2",
     "Red (RGB)": "59%",
     "Green (RGB)": "78%",
@@ -3056,6 +3291,7 @@
   },
   {
     "Name": "Fallow",
+    "searchKey": "fallow",
     "Hex (RGB)": "#C19A6B",
     "Red (RGB)": "76%",
     "Green (RGB)": "60%",
@@ -3069,6 +3305,7 @@
   },
   {
     "Name": "Falu red",
+    "searchKey": "falured",
     "Hex (RGB)": "#801818",
     "Red (RGB)": "50%",
     "Green (RGB)": "9%",
@@ -3082,6 +3319,7 @@
   },
   {
     "Name": "Fandango",
+    "searchKey": "fandango",
     "Hex (RGB)": "#B53389",
     "Red (RGB)": "71%",
     "Green (RGB)": "20%",
@@ -3095,6 +3333,7 @@
   },
   {
     "Name": "Fandango pink",
+    "searchKey": "fandangopink",
     "Hex (RGB)": "#DE5285",
     "Red (RGB)": "87%",
     "Green (RGB)": "32%",
@@ -3108,6 +3347,7 @@
   },
   {
     "Name": "Fawn",
+    "searchKey": "fawn",
     "Hex (RGB)": "#E5AA70",
     "Red (RGB)": "90%",
     "Green (RGB)": "67%",
@@ -3121,6 +3361,7 @@
   },
   {
     "Name": "Fern green",
+    "searchKey": "ferngreen",
     "Hex (RGB)": "#4F7942",
     "Red (RGB)": "31%",
     "Green (RGB)": "47%",
@@ -3134,6 +3375,7 @@
   },
   {
     "Name": "Field drab",
+    "searchKey": "fielddrab",
     "Hex (RGB)": "#6C541E",
     "Red (RGB)": "42%",
     "Green (RGB)": "33%",
@@ -3147,6 +3389,7 @@
   },
   {
     "Name": "Fiery rose",
+    "searchKey": "fieryrose",
     "Hex (RGB)": "#FF5470",
     "Red (RGB)": "100%",
     "Green (RGB)": "33%",
@@ -3160,6 +3403,7 @@
   },
   {
     "Name": "Finn",
+    "searchKey": "finn",
     "Hex (RGB)": "#683068",
     "Red (RGB)": "41%",
     "Green (RGB)": "19%",
@@ -3173,6 +3417,7 @@
   },
   {
     "Name": "Firebrick",
+    "searchKey": "firebrick",
     "Hex (RGB)": "#B22222",
     "Red (RGB)": "70%",
     "Green (RGB)": "13%",
@@ -3186,6 +3431,7 @@
   },
   {
     "Name": "Fire engine red",
+    "searchKey": "fireenginered",
     "Hex (RGB)": "#CE2029",
     "Red (RGB)": "81%",
     "Green (RGB)": "13%",
@@ -3199,6 +3445,7 @@
   },
   {
     "Name": "Flame",
+    "searchKey": "flame",
     "Hex (RGB)": "#E25822",
     "Red (RGB)": "89%",
     "Green (RGB)": "35%",
@@ -3212,6 +3459,7 @@
   },
   {
     "Name": "Flax",
+    "searchKey": "flax",
     "Hex (RGB)": "#EEDC82",
     "Red (RGB)": "93%",
     "Green (RGB)": "86%",
@@ -3225,6 +3473,7 @@
   },
   {
     "Name": "Flirt",
+    "searchKey": "flirt",
     "Hex (RGB)": "#A2006D",
     "Red (RGB)": "64%",
     "Green (RGB)": "0%",
@@ -3238,6 +3487,7 @@
   },
   {
     "Name": "Floral white",
+    "searchKey": "floralwhite",
     "Hex (RGB)": "#FFFAF0",
     "Red (RGB)": "100%",
     "Green (RGB)": "98%",
@@ -3251,6 +3501,7 @@
   },
   {
     "Name": "Forest green (web)",
+    "searchKey": "forestgreen",
     "Hex (RGB)": "#228B22",
     "Red (RGB)": "13%",
     "Green (RGB)": "55%",
@@ -3264,6 +3515,7 @@
   },
   {
     "Name": "French beige",
+    "searchKey": "frenchbeige",
     "Hex (RGB)": "#A67B5B",
     "Red (RGB)": "65%",
     "Green (RGB)": "48%",
@@ -3277,6 +3529,7 @@
   },
   {
     "Name": "French bistre",
+    "searchKey": "frenchbistre",
     "Hex (RGB)": "#856D4D",
     "Red (RGB)": "52%",
     "Green (RGB)": "43%",
@@ -3290,6 +3543,7 @@
   },
   {
     "Name": "French blue",
+    "searchKey": "frenchblue",
     "Hex (RGB)": "#0072BB",
     "Red (RGB)": "0%",
     "Green (RGB)": "45%",
@@ -3303,6 +3557,7 @@
   },
   {
     "Name": "French fuchsia",
+    "searchKey": "frenchfuchsia",
     "Hex (RGB)": "#FD3F92",
     "Red (RGB)": "99%",
     "Green (RGB)": "25%",
@@ -3316,6 +3571,7 @@
   },
   {
     "Name": "French lilac",
+    "searchKey": "frenchlilac",
     "Hex (RGB)": "#86608E",
     "Red (RGB)": "53%",
     "Green (RGB)": "38%",
@@ -3329,6 +3585,7 @@
   },
   {
     "Name": "French lime",
+    "searchKey": "frenchlime",
     "Hex (RGB)": "#9EFD38",
     "Red (RGB)": "62%",
     "Green (RGB)": "99%",
@@ -3342,6 +3599,7 @@
   },
   {
     "Name": "French mauve",
+    "searchKey": "frenchmauve",
     "Hex (RGB)": "#D473D4",
     "Red (RGB)": "83%",
     "Green (RGB)": "45%",
@@ -3355,6 +3613,7 @@
   },
   {
     "Name": "French pink",
+    "searchKey": "frenchpink",
     "Hex (RGB)": "#FD6C9E",
     "Red (RGB)": "99%",
     "Green (RGB)": "42%",
@@ -3368,6 +3627,7 @@
   },
   {
     "Name": "French raspberry",
+    "searchKey": "frenchraspberry",
     "Hex (RGB)": "#C72C48",
     "Red (RGB)": "78%",
     "Green (RGB)": "17%",
@@ -3381,6 +3641,7 @@
   },
   {
     "Name": "French sky blue",
+    "searchKey": "frenchskyblue",
     "Hex (RGB)": "#77B5FE",
     "Red (RGB)": "47%",
     "Green (RGB)": "71%",
@@ -3394,6 +3655,7 @@
   },
   {
     "Name": "French violet",
+    "searchKey": "frenchviolet",
     "Hex (RGB)": "#8806CE",
     "Red (RGB)": "53%",
     "Green (RGB)": "2%",
@@ -3407,6 +3669,7 @@
   },
   {
     "Name": "Frostbite",
+    "searchKey": "frostbite",
     "Hex (RGB)": "#E936A7",
     "Red (RGB)": "91%",
     "Green (RGB)": "21%",
@@ -3420,6 +3683,7 @@
   },
   {
     "Name": "Fuchsia",
+    "searchKey": "fuchsia",
     "Hex (RGB)": "#FF00FF",
     "Red (RGB)": "100%",
     "Green (RGB)": "0%",
@@ -3433,6 +3697,7 @@
   },
   {
     "Name": "Fuchsia (Crayola)",
+    "searchKey": "fuchsia",
     "Hex (RGB)": "#C154C1",
     "Red (RGB)": "76%",
     "Green (RGB)": "33%",
@@ -3446,6 +3711,7 @@
   },
   {
     "Name": "Fulvous",
+    "searchKey": "fulvous",
     "Hex (RGB)": "#E48400",
     "Red (RGB)": "89%",
     "Green (RGB)": "52%",
@@ -3459,6 +3725,7 @@
   },
   {
     "Name": "Fuzzy Wuzzy",
+    "searchKey": "fuzzywuzzy",
     "Hex (RGB)": "#87421F",
     "Red (RGB)": "53%",
     "Green (RGB)": "26%",
@@ -3472,6 +3739,7 @@
   },
   {
     "Name": "Gainsboro",
+    "searchKey": "gainsboro",
     "Hex (RGB)": "#DCDCDC",
     "Red (RGB)": "86%",
     "Green (RGB)": "86%",
@@ -3484,6 +3752,7 @@
   },
   {
     "Name": "Gamboge",
+    "searchKey": "gamboge",
     "Hex (RGB)": "#E49B0F",
     "Red (RGB)": "89%",
     "Green (RGB)": "61%",
@@ -3496,6 +3765,7 @@
   },
   {
     "Name": "Generic viridian",
+    "searchKey": "genericviridian",
     "Hex (RGB)": "#007F66",
     "Red (RGB)": "0%",
     "Green (RGB)": "50%",
@@ -3508,6 +3778,7 @@
   },
   {
     "Name": "Ghost white",
+    "searchKey": "ghostwhite",
     "Hex (RGB)": "#F8F8FF",
     "Red (RGB)": "97%",
     "Green (RGB)": "97%",
@@ -3520,6 +3791,7 @@
   },
   {
     "Name": "Glaucous",
+    "searchKey": "glaucous",
     "Hex (RGB)": "#6082B6",
     "Red (RGB)": "38%",
     "Green (RGB)": "51%",
@@ -3532,6 +3804,7 @@
   },
   {
     "Name": "Glossy grape",
+    "searchKey": "glossygrape",
     "Hex (RGB)": "#AB92B3",
     "Red (RGB)": "67%",
     "Green (RGB)": "57%",
@@ -3544,6 +3817,7 @@
   },
   {
     "Name": "GO green",
+    "searchKey": "gogreen",
     "Hex (RGB)": "#00AB66",
     "Red (RGB)": "0%",
     "Green (RGB)": "67%",
@@ -3556,6 +3830,7 @@
   },
   {
     "Name": "Gold (metallic)",
+    "searchKey": "gold",
     "Hex (RGB)": "#D4AF37",
     "Red (RGB)": "83%",
     "Green (RGB)": "69%",
@@ -3568,6 +3843,7 @@
   },
   {
     "Name": "Gold (web) (Golden)",
+    "searchKey": "gold",
     "Hex (RGB)": "#FFD700",
     "Red (RGB)": "100%",
     "Green (RGB)": "84%",
@@ -3580,6 +3856,7 @@
   },
   {
     "Name": "Gold (Crayola)",
+    "searchKey": "gold",
     "Hex (RGB)": "#E6BE8A",
     "Red (RGB)": "90%",
     "Green (RGB)": "75%",
@@ -3592,6 +3869,7 @@
   },
   {
     "Name": "Gold Fusion",
+    "searchKey": "goldfusion",
     "Hex (RGB)": "#85754E",
     "Red (RGB)": "52%",
     "Green (RGB)": "46%",
@@ -3604,6 +3882,7 @@
   },
   {
     "Name": "Golden brown",
+    "searchKey": "goldenbrown",
     "Hex (RGB)": "#996515",
     "Red (RGB)": "60%",
     "Green (RGB)": "40%",
@@ -3616,6 +3895,7 @@
   },
   {
     "Name": "Golden poppy",
+    "searchKey": "goldenpoppy",
     "Hex (RGB)": "#FCC200",
     "Red (RGB)": "99%",
     "Green (RGB)": "76%",
@@ -3628,6 +3908,7 @@
   },
   {
     "Name": "Golden yellow",
+    "searchKey": "goldenyellow",
     "Hex (RGB)": "#FFDF00",
     "Red (RGB)": "100%",
     "Green (RGB)": "87%",
@@ -3640,6 +3921,7 @@
   },
   {
     "Name": "Goldenrod",
+    "searchKey": "goldenrod",
     "Hex (RGB)": "#DAA520",
     "Red (RGB)": "85%",
     "Green (RGB)": "65%",
@@ -3652,6 +3934,7 @@
   },
   {
     "Name": "Gotham green",
+    "searchKey": "gothamgreen",
     "Hex (RGB)": "#00573F",
     "Red (RGB)": "0%",
     "Green (RGB)": "34%",
@@ -3664,6 +3947,7 @@
   },
   {
     "Name": "Granite gray",
+    "searchKey": "granitegray",
     "Hex (RGB)": "#676767",
     "Red (RGB)": "40%",
     "Green (RGB)": "40%",
@@ -3676,6 +3960,7 @@
   },
   {
     "Name": "Granny Smith apple",
+    "searchKey": "grannysmithapple",
     "Hex (RGB)": "#A8E4A0",
     "Red (RGB)": "66%",
     "Green (RGB)": "89%",
@@ -3688,6 +3973,7 @@
   },
   {
     "Name": "Gray (web)",
+    "searchKey": "gray",
     "Hex (RGB)": "#808080",
     "Red (RGB)": "50%",
     "Green (RGB)": "50%",
@@ -3700,6 +3986,7 @@
   },
   {
     "Name": "Gray (X11 gray)",
+    "searchKey": "gray",
     "Hex (RGB)": "#BEBEBE",
     "Red (RGB)": "75%",
     "Green (RGB)": "75%",
@@ -3712,6 +3999,7 @@
   },
   {
     "Name": "Green",
+    "searchKey": "green",
     "Hex (RGB)": "#00FF00",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -3724,6 +4012,7 @@
   },
   {
     "Name": "Green (Crayola)",
+    "searchKey": "green",
     "Hex (RGB)": "#1CAC78",
     "Red (RGB)": "11%",
     "Green (RGB)": "67%",
@@ -3736,6 +4025,7 @@
   },
   {
     "Name": "Green (web)",
+    "searchKey": "green",
     "Hex (RGB)": "#008000",
     "Red (RGB)": "0%",
     "Green (RGB)": "50%",
@@ -3748,6 +4038,7 @@
   },
   {
     "Name": "Green (Munsell)",
+    "searchKey": "green",
     "Hex (RGB)": "#00A877",
     "Red (RGB)": "0%",
     "Green (RGB)": "66%",
@@ -3760,6 +4051,7 @@
   },
   {
     "Name": "Green (NCS)",
+    "searchKey": "green",
     "Hex (RGB)": "#009F6B",
     "Red (RGB)": "0%",
     "Green (RGB)": "62%",
@@ -3772,6 +4064,7 @@
   },
   {
     "Name": "Green (Pantone)",
+    "searchKey": "green",
     "Hex (RGB)": "#00AD43",
     "Red (RGB)": "0%",
     "Green (RGB)": "68%",
@@ -3784,6 +4077,7 @@
   },
   {
     "Name": "Green (pigment)",
+    "searchKey": "green",
     "Hex (RGB)": "#00A550",
     "Red (RGB)": "0%",
     "Green (RGB)": "65%",
@@ -3796,6 +4090,7 @@
   },
   {
     "Name": "Green-blue",
+    "searchKey": "greenblue",
     "Hex (RGB)": "#1164B4",
     "Red (RGB)": "7%",
     "Green (RGB)": "39%",
@@ -3808,6 +4103,7 @@
   },
   {
     "Name": "Green Lizard",
+    "searchKey": "greenlizard",
     "Hex (RGB)": "#A7F432",
     "Red (RGB)": "65%",
     "Green (RGB)": "96%",
@@ -3820,6 +4116,7 @@
   },
   {
     "Name": "Green Sheen",
+    "searchKey": "greensheen",
     "Hex (RGB)": "#6EAEA1",
     "Red (RGB)": "43%",
     "Green (RGB)": "68%",
@@ -3832,6 +4129,7 @@
   },
   {
     "Name": "Gunmetal",
+    "searchKey": "gunmetal",
     "Hex (RGB)": "#2a3439",
     "Red (RGB)": "16%",
     "Green (RGB)": "20%",
@@ -3844,6 +4142,7 @@
   },
   {
     "Name": "Hansa yellow",
+    "searchKey": "hansayellow",
     "Hex (RGB)": "#E9D66B",
     "Red (RGB)": "91%",
     "Green (RGB)": "84%",
@@ -3856,6 +4155,7 @@
   },
   {
     "Name": "Harlequin",
+    "searchKey": "harlequin",
     "Hex (RGB)": "#3FFF00",
     "Red (RGB)": "25%",
     "Green (RGB)": "100%",
@@ -3868,6 +4168,7 @@
   },
   {
     "Name": "Harvest gold",
+    "searchKey": "harvestgold",
     "Hex (RGB)": "#DA9100",
     "Red (RGB)": "85%",
     "Green (RGB)": "57%",
@@ -3880,6 +4181,7 @@
   },
   {
     "Name": "Heat Wave",
+    "searchKey": "heatwave",
     "Hex (RGB)": "#FF7A00",
     "Red (RGB)": "100%",
     "Green (RGB)": "48%",
@@ -3892,6 +4194,7 @@
   },
   {
     "Name": "Heliotrope",
+    "searchKey": "heliotrope",
     "Hex (RGB)": "#DF73FF",
     "Red (RGB)": "87%",
     "Green (RGB)": "45%",
@@ -3904,6 +4207,7 @@
   },
   {
     "Name": "Heliotrope gray",
+    "searchKey": "heliotropegray",
     "Hex (RGB)": "#AA98A9",
     "Red (RGB)": "67%",
     "Green (RGB)": "60%",
@@ -3916,6 +4220,7 @@
   },
   {
     "Name": "Hollywood cerise",
+    "searchKey": "hollywoodcerise",
     "Hex (RGB)": "#F400A1",
     "Red (RGB)": "96%",
     "Green (RGB)": "0%",
@@ -3928,6 +4233,7 @@
   },
   {
     "Name": "Honolulu blue",
+    "searchKey": "honolulublue",
     "Hex (RGB)": "#006DB0",
     "Red (RGB)": "0%",
     "Green (RGB)": "43%",
@@ -3940,6 +4246,7 @@
   },
   {
     "Name": "Hooker's green",
+    "searchKey": "hookersgreen",
     "Hex (RGB)": "#49796B",
     "Red (RGB)": "29%",
     "Green (RGB)": "47%",
@@ -3952,6 +4259,7 @@
   },
   {
     "Name": "Hot magenta",
+    "searchKey": "hotmagenta",
     "Hex (RGB)": "#FF1DCE",
     "Red (RGB)": "100%",
     "Green (RGB)": "11%",
@@ -3964,6 +4272,7 @@
   },
   {
     "Name": "Hot pink",
+    "searchKey": "hotpink",
     "Hex (RGB)": "#FF69B4",
     "Red (RGB)": "100%",
     "Green (RGB)": "41%",
@@ -3976,6 +4285,7 @@
   },
   {
     "Name": "Hunter green",
+    "searchKey": "huntergreen",
     "Hex (RGB)": "#355E3B",
     "Red (RGB)": "21%",
     "Green (RGB)": "37%",
@@ -3988,6 +4298,7 @@
   },
   {
     "Name": "Iceberg",
+    "searchKey": "iceberg",
     "Hex (RGB)": "#71A6D2",
     "Red (RGB)": "44%",
     "Green (RGB)": "65%",
@@ -4000,6 +4311,7 @@
   },
   {
     "Name": "Illuminating emerald",
+    "searchKey": "illuminatingemerald",
     "Hex (RGB)": "#319177",
     "Red (RGB)": "19%",
     "Green (RGB)": "57%",
@@ -4012,6 +4324,7 @@
   },
   {
     "Name": "Imperial red",
+    "searchKey": "imperialred",
     "Hex (RGB)": "#ED2939",
     "Red (RGB)": "93%",
     "Green (RGB)": "16%",
@@ -4024,6 +4337,7 @@
   },
   {
     "Name": "Inchworm",
+    "searchKey": "inchworm",
     "Hex (RGB)": "#B2EC5D",
     "Red (RGB)": "70%",
     "Green (RGB)": "93%",
@@ -4036,6 +4350,7 @@
   },
   {
     "Name": "Independence",
+    "searchKey": "independence",
     "Hex (RGB)": "#4C516D",
     "Red (RGB)": "30%",
     "Green (RGB)": "32%",
@@ -4048,6 +4363,7 @@
   },
   {
     "Name": "India green",
+    "searchKey": "indiagreen",
     "Hex (RGB)": "#138808",
     "Red (RGB)": "7%",
     "Green (RGB)": "53%",
@@ -4060,6 +4376,7 @@
   },
   {
     "Name": "Indian red",
+    "searchKey": "indianred",
     "Hex (RGB)": "#CD5C5C",
     "Red (RGB)": "80%",
     "Green (RGB)": "36%",
@@ -4072,6 +4389,7 @@
   },
   {
     "Name": "Indian yellow",
+    "searchKey": "indianyellow",
     "Hex (RGB)": "#E3A857",
     "Red (RGB)": "89%",
     "Green (RGB)": "66%",
@@ -4084,6 +4402,7 @@
   },
   {
     "Name": "Indigo",
+    "searchKey": "indigo",
     "Hex (RGB)": "#6A5DFF",
     "Red (RGB)": "42%",
     "Green (RGB)": "36%",
@@ -4096,6 +4415,7 @@
   },
   {
     "Name": "Indigo dye",
+    "searchKey": "indigodye",
     "Hex (RGB)": "#00416A",
     "Red (RGB)": "0%",
     "Green (RGB)": "25%",
@@ -4108,6 +4428,7 @@
   },
   {
     "Name": "International Klein Blue",
+    "searchKey": "internationalkleinblue",
     "Hex (RGB)": "#130a8f",
     "Red (RGB)": "7%",
     "Green (RGB)": "4%",
@@ -4120,6 +4441,7 @@
   },
   {
     "Name": "International orange (engineering)",
+    "searchKey": "internationalorange",
     "Hex (RGB)": "#BA160C",
     "Red (RGB)": "73%",
     "Green (RGB)": "9%",
@@ -4132,6 +4454,7 @@
   },
   {
     "Name": "International orange (Golden Gate Bridge)",
+    "searchKey": "internationalorange",
     "Hex (RGB)": "#C0362C",
     "Red (RGB)": "75%",
     "Green (RGB)": "21%",
@@ -4144,6 +4467,7 @@
   },
   {
     "Name": "Irresistible",
+    "searchKey": "irresistible",
     "Hex (RGB)": "#B3446C",
     "Red (RGB)": "70%",
     "Green (RGB)": "27%",
@@ -4156,6 +4480,7 @@
   },
   {
     "Name": "Isabelline",
+    "searchKey": "isabelline",
     "Hex (RGB)": "#F4F0EC",
     "Red (RGB)": "96%",
     "Green (RGB)": "94%",
@@ -4168,6 +4493,7 @@
   },
   {
     "Name": "Italian sky blue",
+    "searchKey": "italianskyblue",
     "Hex (RGB)": "#B2FFFF",
     "Red (RGB)": "70%",
     "Green (RGB)": "100%",
@@ -4180,6 +4506,7 @@
   },
   {
     "Name": "Ivory",
+    "searchKey": "ivory",
     "Hex (RGB)": "#FFFFF0",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -4192,6 +4519,7 @@
   },
   {
     "Name": "Japanese carmine",
+    "searchKey": "japanesecarmine",
     "Hex (RGB)": "#9D2933",
     "Red (RGB)": "62%",
     "Green (RGB)": "16%",
@@ -4204,6 +4532,7 @@
   },
   {
     "Name": "Japanese violet",
+    "searchKey": "japaneseviolet",
     "Hex (RGB)": "#5B3256",
     "Red (RGB)": "36%",
     "Green (RGB)": "20%",
@@ -4216,6 +4545,7 @@
   },
   {
     "Name": "Jasmine",
+    "searchKey": "jasmine",
     "Hex (RGB)": "#F8DE7E",
     "Red (RGB)": "97%",
     "Green (RGB)": "87%",
@@ -4228,6 +4558,7 @@
   },
   {
     "Name": "Jazzberry jam",
+    "searchKey": "jazzberryjam",
     "Hex (RGB)": "#A50B5E",
     "Red (RGB)": "65%",
     "Green (RGB)": "4%",
@@ -4240,6 +4571,7 @@
   },
   {
     "Name": "Jet",
+    "searchKey": "jet",
     "Hex (RGB)": "#343434",
     "Red (RGB)": "20%",
     "Green (RGB)": "20%",
@@ -4252,6 +4584,7 @@
   },
   {
     "Name": "Jonquil",
+    "searchKey": "jonquil",
     "Hex (RGB)": "#F4CA16",
     "Red (RGB)": "96%",
     "Green (RGB)": "79%",
@@ -4264,6 +4597,7 @@
   },
   {
     "Name": "June bud",
+    "searchKey": "junebud",
     "Hex (RGB)": "#BDDA57",
     "Red (RGB)": "74%",
     "Green (RGB)": "85%",
@@ -4276,6 +4610,7 @@
   },
   {
     "Name": "Jungle green",
+    "searchKey": "junglegreen",
     "Hex (RGB)": "#29AB87",
     "Red (RGB)": "16%",
     "Green (RGB)": "67%",
@@ -4288,6 +4623,7 @@
   },
   {
     "Name": "Kelly green",
+    "searchKey": "kellygreen",
     "Hex (RGB)": "#4CBB17",
     "Red (RGB)": "30%",
     "Green (RGB)": "73%",
@@ -4300,6 +4636,7 @@
   },
   {
     "Name": "Keppel",
+    "searchKey": "keppel",
     "Hex (RGB)": "#3AB09E",
     "Red (RGB)": "23%",
     "Green (RGB)": "69%",
@@ -4312,6 +4649,7 @@
   },
   {
     "Name": "Key lime",
+    "searchKey": "keylime",
     "Hex (RGB)": "#E8F48C",
     "Red (RGB)": "91%",
     "Green (RGB)": "96%",
@@ -4324,6 +4662,7 @@
   },
   {
     "Name": "Khaki (web)",
+    "searchKey": "khaki",
     "Hex (RGB)": "#C3B091",
     "Red (RGB)": "76%",
     "Green (RGB)": "69%",
@@ -4336,6 +4675,7 @@
   },
   {
     "Name": "Khaki (X11) (Light khaki)",
+    "searchKey": "khaki",
     "Hex (RGB)": "#F0E68C",
     "Red (RGB)": "94%",
     "Green (RGB)": "90%",
@@ -4348,6 +4688,7 @@
   },
   {
     "Name": "Kobe",
+    "searchKey": "kobe",
     "Hex (RGB)": "#882D17",
     "Red (RGB)": "53%",
     "Green (RGB)": "18%",
@@ -4360,6 +4701,7 @@
   },
   {
     "Name": "Kobi",
+    "searchKey": "kobi",
     "Hex (RGB)": "#E79FC4",
     "Red (RGB)": "91%",
     "Green (RGB)": "62%",
@@ -4372,6 +4714,7 @@
   },
   {
     "Name": "Kobicha",
+    "searchKey": "kobicha",
     "Hex (RGB)": "#6B4423",
     "Red (RGB)": "42%",
     "Green (RGB)": "27%",
@@ -4384,6 +4727,7 @@
   },
   {
     "Name": "KSU purple",
+    "searchKey": "ksupurple",
     "Hex (RGB)": "#512888",
     "Red (RGB)": "31%",
     "Green (RGB)": "15%",
@@ -4396,6 +4740,7 @@
   },
   {
     "Name": "Languid lavender",
+    "searchKey": "languidlavender",
     "Hex (RGB)": "#D6CADD",
     "Red (RGB)": "84%",
     "Green (RGB)": "79%",
@@ -4408,6 +4753,7 @@
   },
   {
     "Name": "Lapis lazuli",
+    "searchKey": "lapislazuli",
     "Hex (RGB)": "#26619C",
     "Red (RGB)": "15%",
     "Green (RGB)": "38%",
@@ -4420,6 +4766,7 @@
   },
   {
     "Name": "Laser lemon",
+    "searchKey": "laserlemon",
     "Hex (RGB)": "#FFFF66",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -4432,6 +4779,7 @@
   },
   {
     "Name": "Laurel green",
+    "searchKey": "laurelgreen",
     "Hex (RGB)": "#A9BA9D",
     "Red (RGB)": "66%",
     "Green (RGB)": "73%",
@@ -4444,6 +4792,7 @@
   },
   {
     "Name": "Lava",
+    "searchKey": "lava",
     "Hex (RGB)": "#CF1020",
     "Red (RGB)": "81%",
     "Green (RGB)": "6%",
@@ -4456,6 +4805,7 @@
   },
   {
     "Name": "Lavender (floral)",
+    "searchKey": "lavender",
     "Hex (RGB)": "#B57EDC",
     "Red (RGB)": "71%",
     "Green (RGB)": "49%",
@@ -4468,6 +4818,7 @@
   },
   {
     "Name": "Lavender (web)",
+    "searchKey": "lavender",
     "Hex (RGB)": "#E6E6FA",
     "Red (RGB)": "90%",
     "Green (RGB)": "90%",
@@ -4480,6 +4831,7 @@
   },
   {
     "Name": "Lavender blue",
+    "searchKey": "lavenderblue",
     "Hex (RGB)": "#CCCCFF",
     "Red (RGB)": "80%",
     "Green (RGB)": "80%",
@@ -4492,6 +4844,7 @@
   },
   {
     "Name": "Lavender blush",
+    "searchKey": "lavenderblush",
     "Hex (RGB)": "#FFF0F5",
     "Red (RGB)": "100%",
     "Green (RGB)": "94%",
@@ -4504,6 +4857,7 @@
   },
   {
     "Name": "Lavender gray",
+    "searchKey": "lavendergray",
     "Hex (RGB)": "#C4C3D0",
     "Red (RGB)": "77%",
     "Green (RGB)": "76%",
@@ -4516,6 +4870,7 @@
   },
   {
     "Name": "Lawn green",
+    "searchKey": "lawngreen",
     "Hex (RGB)": "#7CFC00",
     "Red (RGB)": "49%",
     "Green (RGB)": "99%",
@@ -4528,6 +4883,7 @@
   },
   {
     "Name": "Lemon",
+    "searchKey": "lemon",
     "Hex (RGB)": "#FFF700",
     "Red (RGB)": "100%",
     "Green (RGB)": "97%",
@@ -4540,6 +4896,7 @@
   },
   {
     "Name": "Lemon chiffon",
+    "searchKey": "lemonchiffon",
     "Hex (RGB)": "#FFFACD",
     "Red (RGB)": "100%",
     "Green (RGB)": "98%",
@@ -4552,6 +4909,7 @@
   },
   {
     "Name": "Lemon curry",
+    "searchKey": "lemoncurry",
     "Hex (RGB)": "#CCA01D",
     "Red (RGB)": "80%",
     "Green (RGB)": "63%",
@@ -4564,6 +4922,7 @@
   },
   {
     "Name": "Lemon glacier",
+    "searchKey": "lemonglacier",
     "Hex (RGB)": "#FDFF00",
     "Red (RGB)": "99%",
     "Green (RGB)": "100%",
@@ -4576,6 +4935,7 @@
   },
   {
     "Name": "Lemon meringue",
+    "searchKey": "lemonmeringue",
     "Hex (RGB)": "#F6EABE",
     "Red (RGB)": "96%",
     "Green (RGB)": "92%",
@@ -4588,6 +4948,7 @@
   },
   {
     "Name": "Lemon yellow",
+    "searchKey": "lemonyellow",
     "Hex (RGB)": "#FFF44F",
     "Red (RGB)": "100%",
     "Green (RGB)": "96%",
@@ -4600,6 +4961,7 @@
   },
   {
     "Name": "Lemon yellow (Crayola)",
+    "searchKey": "lemonyellow",
     "Hex (RGB)": "#FFFF9F",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -4612,6 +4974,7 @@
   },
   {
     "Name": "Liberty",
+    "searchKey": "liberty",
     "Hex (RGB)": "#545AA7",
     "Red (RGB)": "33%",
     "Green (RGB)": "35%",
@@ -4624,6 +4987,7 @@
   },
   {
     "Name": "Light blue",
+    "searchKey": "lightblue",
     "Hex (RGB)": "#ADD8E6",
     "Red (RGB)": "68%",
     "Green (RGB)": "85%",
@@ -4636,6 +5000,7 @@
   },
   {
     "Name": "Light coral",
+    "searchKey": "lightcoral",
     "Hex (RGB)": "#F08080",
     "Red (RGB)": "94%",
     "Green (RGB)": "50%",
@@ -4648,6 +5013,7 @@
   },
   {
     "Name": "Light cornflower blue",
+    "searchKey": "lightcornflowerblue",
     "Hex (RGB)": "#93CCEA",
     "Red (RGB)": "58%",
     "Green (RGB)": "80%",
@@ -4660,6 +5026,7 @@
   },
   {
     "Name": "Light cyan",
+    "searchKey": "lightcyan",
     "Hex (RGB)": "#E0FFFF",
     "Red (RGB)": "88%",
     "Green (RGB)": "100%",
@@ -4672,6 +5039,7 @@
   },
   {
     "Name": "Light French beige",
+    "searchKey": "lightfrenchbeige",
     "Hex (RGB)": "#C8AD7F",
     "Red (RGB)": "78%",
     "Green (RGB)": "68%",
@@ -4684,6 +5052,7 @@
   },
   {
     "Name": "Light goldenrod yellow",
+    "searchKey": "lightgoldenrodyellow",
     "Hex (RGB)": "#FAFAD2",
     "Red (RGB)": "98%",
     "Green (RGB)": "98%",
@@ -4696,6 +5065,7 @@
   },
   {
     "Name": "Light gray",
+    "searchKey": "lightgray",
     "Hex (RGB)": "#D3D3D3",
     "Red (RGB)": "83%",
     "Green (RGB)": "83%",
@@ -4708,6 +5078,7 @@
   },
   {
     "Name": "Light green",
+    "searchKey": "lightgreen",
     "Hex (RGB)": "#90EE90",
     "Red (RGB)": "56%",
     "Green (RGB)": "93%",
@@ -4720,6 +5091,7 @@
   },
   {
     "Name": "Light orange",
+    "searchKey": "lightorange",
     "Hex (RGB)": "#FED8B1",
     "Red (RGB)": "100%",
     "Green (RGB)": "85%",
@@ -4732,6 +5104,7 @@
   },
   {
     "Name": "Light periwinkle",
+    "searchKey": "lightperiwinkle",
     "Hex (RGB)": "#C5CBE1",
     "Red (RGB)": "77%",
     "Green (RGB)": "80%",
@@ -4744,6 +5117,7 @@
   },
   {
     "Name": "Light pink",
+    "searchKey": "lightpink",
     "Hex (RGB)": "#FFB6C1",
     "Red (RGB)": "100%",
     "Green (RGB)": "71%",
@@ -4756,6 +5130,7 @@
   },
   {
     "Name": "Light purple",
+    "searchKey": "lightpurple",
     "Hex (RGB)": "#D8BFD8",
     "Red (RGB)": "85%",
     "Green (RGB)": "75%",
@@ -4768,6 +5143,7 @@
   },
   {
     "Name": "Light salmon",
+    "searchKey": "lightsalmon",
     "Hex (RGB)": "#FFA07A",
     "Red (RGB)": "100%",
     "Green (RGB)": "63%",
@@ -4780,6 +5156,7 @@
   },
   {
     "Name": "Light sea green",
+    "searchKey": "lightseagreen",
     "Hex (RGB)": "#20B2AA",
     "Red (RGB)": "13%",
     "Green (RGB)": "70%",
@@ -4792,6 +5169,7 @@
   },
   {
     "Name": "Light sky blue",
+    "searchKey": "lightskyblue",
     "Hex (RGB)": "#87CEFA",
     "Red (RGB)": "53%",
     "Green (RGB)": "81%",
@@ -4804,6 +5182,7 @@
   },
   {
     "Name": "Light slate gray",
+    "searchKey": "lightslategray",
     "Hex (RGB)": "#778899",
     "Red (RGB)": "47%",
     "Green (RGB)": "53%",
@@ -4816,6 +5195,7 @@
   },
   {
     "Name": "Light steel blue",
+    "searchKey": "lightsteelblue",
     "Hex (RGB)": "#B0C4DE",
     "Red (RGB)": "69%",
     "Green (RGB)": "77%",
@@ -4828,6 +5208,7 @@
   },
   {
     "Name": "Light yellow",
+    "searchKey": "lightyellow",
     "Hex (RGB)": "#FFFFE0",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -4840,6 +5221,7 @@
   },
   {
     "Name": "Lilac",
+    "searchKey": "lilac",
     "Hex (RGB)": "#C8A2C8",
     "Red (RGB)": "78%",
     "Green (RGB)": "64%",
@@ -4852,6 +5234,7 @@
   },
   {
     "Name": "Lilac Luster",
+    "searchKey": "lilacluster",
     "Hex (RGB)": "#AE98AA",
     "Red (RGB)": "68%",
     "Green (RGB)": "60%",
@@ -4864,6 +5247,7 @@
   },
   {
     "Name": "Lime (color wheel)",
+    "searchKey": "lime",
     "Hex (RGB)": "#BFFF00",
     "Red (RGB)": "75%",
     "Green (RGB)": "100%",
@@ -4876,6 +5260,7 @@
   },
   {
     "Name": "Lime (web) (X11 green)",
+    "searchKey": "lime",
     "Hex (RGB)": "#00FF00",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -4888,6 +5273,7 @@
   },
   {
     "Name": "Lime green",
+    "searchKey": "limegreen",
     "Hex (RGB)": "#32CD32",
     "Red (RGB)": "20%",
     "Green (RGB)": "80%",
@@ -4900,6 +5286,7 @@
   },
   {
     "Name": "Lincoln green",
+    "searchKey": "lincolngreen",
     "Hex (RGB)": "#195905",
     "Red (RGB)": "10%",
     "Green (RGB)": "35%",
@@ -4912,6 +5299,7 @@
   },
   {
     "Name": "Linen",
+    "searchKey": "linen",
     "Hex (RGB)": "#FAF0E6",
     "Red (RGB)": "98%",
     "Green (RGB)": "94%",
@@ -4924,6 +5312,7 @@
   },
   {
     "Name": "Lion",
+    "searchKey": "lion",
     "Hex (RGB)": "#DECC9C",
     "Red (RGB)": "87%",
     "Green (RGB)": "80%",
@@ -4936,6 +5325,7 @@
   },
   {
     "Name": "Liseran purple",
+    "searchKey": "liseranpurple",
     "Hex (RGB)": "#DE6FA1",
     "Red (RGB)": "87%",
     "Green (RGB)": "44%",
@@ -4948,6 +5338,7 @@
   },
   {
     "Name": "Little boy blue",
+    "searchKey": "littleboyblue",
     "Hex (RGB)": "#6CA0DC",
     "Red (RGB)": "42%",
     "Green (RGB)": "63%",
@@ -4960,6 +5351,7 @@
   },
   {
     "Name": "Liver",
+    "searchKey": "liver",
     "Hex (RGB)": "#674C47",
     "Red (RGB)": "40%",
     "Green (RGB)": "30%",
@@ -4972,6 +5364,7 @@
   },
   {
     "Name": "Liver (dogs)",
+    "searchKey": "liver",
     "Hex (RGB)": "#B86D29",
     "Red (RGB)": "72%",
     "Green (RGB)": "43%",
@@ -4984,6 +5377,7 @@
   },
   {
     "Name": "Liver (organ)",
+    "searchKey": "liver",
     "Hex (RGB)": "#6C2E1F",
     "Red (RGB)": "42%",
     "Green (RGB)": "18%",
@@ -4996,6 +5390,7 @@
   },
   {
     "Name": "Liver chestnut",
+    "searchKey": "liverchestnut",
     "Hex (RGB)": "#987456",
     "Red (RGB)": "60%",
     "Green (RGB)": "45%",
@@ -5008,6 +5403,7 @@
   },
   {
     "Name": "Livid",
+    "searchKey": "livid",
     "Hex (RGB)": "#6699CC",
     "Red (RGB)": "40%",
     "Green (RGB)": "60%",
@@ -5020,6 +5416,7 @@
   },
   {
     "Name": "Macaroni and Cheese",
+    "searchKey": "macaroniandcheese",
     "Hex (RGB)": "#FFBD88",
     "Red (RGB)": "100%",
     "Green (RGB)": "74%",
@@ -5032,6 +5429,7 @@
   },
   {
     "Name": "Madder Lake",
+    "searchKey": "madderlake",
     "Hex (RGB)": "#CC3336",
     "Red (RGB)": "80%",
     "Green (RGB)": "20%",
@@ -5044,6 +5442,7 @@
   },
   {
     "Name": "Magenta",
+    "searchKey": "magenta",
     "Hex (RGB)": "#FF00FF",
     "Red (RGB)": "100%",
     "Green (RGB)": "0%",
@@ -5056,6 +5455,7 @@
   },
   {
     "Name": "Magenta (Crayola)",
+    "searchKey": "magenta",
     "Hex (RGB)": "#F653A6",
     "Red (RGB)": "96%",
     "Green (RGB)": "33%",
@@ -5068,6 +5468,7 @@
   },
   {
     "Name": "Magenta (dye)",
+    "searchKey": "magenta",
     "Hex (RGB)": "#CA1F7B",
     "Red (RGB)": "79%",
     "Green (RGB)": "12%",
@@ -5080,6 +5481,7 @@
   },
   {
     "Name": "Magenta (Pantone)",
+    "searchKey": "magenta",
     "Hex (RGB)": "#D0417E",
     "Red (RGB)": "82%",
     "Green (RGB)": "25%",
@@ -5092,6 +5494,7 @@
   },
   {
     "Name": "Magenta (process)",
+    "searchKey": "magenta",
     "Hex (RGB)": "#FF0090",
     "Red (RGB)": "100%",
     "Green (RGB)": "0%",
@@ -5104,6 +5507,7 @@
   },
   {
     "Name": "Magenta haze",
+    "searchKey": "magentahaze",
     "Hex (RGB)": "#9F4576",
     "Red (RGB)": "62%",
     "Green (RGB)": "27%",
@@ -5116,6 +5520,7 @@
   },
   {
     "Name": "Magic mint",
+    "searchKey": "magicmint",
     "Hex (RGB)": "#AAF0D1",
     "Red (RGB)": "67%",
     "Green (RGB)": "94%",
@@ -5128,6 +5533,7 @@
   },
   {
     "Name": "Magnolia",
+    "searchKey": "magnolia",
     "Hex (RGB)": "#F2E8D7",
     "Red (RGB)": "95%",
     "Green (RGB)": "91%",
@@ -5140,6 +5546,7 @@
   },
   {
     "Name": "Mahogany",
+    "searchKey": "mahogany",
     "Hex (RGB)": "#C04000",
     "Red (RGB)": "75%",
     "Green (RGB)": "25%",
@@ -5152,6 +5559,7 @@
   },
   {
     "Name": "Maize",
+    "searchKey": "maize",
     "Hex (RGB)": "#FBEC5D",
     "Red (RGB)": "98%",
     "Green (RGB)": "93%",
@@ -5164,6 +5572,7 @@
   },
   {
     "Name": "Maize (Crayola)",
+    "searchKey": "maize",
     "Hex (RGB)": "#F2C649",
     "Red (RGB)": "95%",
     "Green (RGB)": "78%",
@@ -5176,6 +5585,7 @@
   },
   {
     "Name": "Majorelle blue",
+    "searchKey": "majorelleblue",
     "Hex (RGB)": "#6050DC",
     "Red (RGB)": "38%",
     "Green (RGB)": "31%",
@@ -5188,6 +5598,7 @@
   },
   {
     "Name": "Malachite",
+    "searchKey": "malachite",
     "Hex (RGB)": "#0BDA51",
     "Red (RGB)": "4%",
     "Green (RGB)": "85%",
@@ -5200,6 +5611,7 @@
   },
   {
     "Name": "Manatee",
+    "searchKey": "manatee",
     "Hex (RGB)": "#979AAA",
     "Red (RGB)": "59%",
     "Green (RGB)": "60%",
@@ -5212,6 +5624,7 @@
   },
   {
     "Name": "Mandarin",
+    "searchKey": "mandarin",
     "Hex (RGB)": "#F37A48",
     "Red (RGB)": "95%",
     "Green (RGB)": "48%",
@@ -5224,6 +5637,7 @@
   },
   {
     "Name": "Mango",
+    "searchKey": "mango",
     "Hex (RGB)": "#FDBE02",
     "Red (RGB)": "99%",
     "Green (RGB)": "75%",
@@ -5236,6 +5650,7 @@
   },
   {
     "Name": "Mango Tango",
+    "searchKey": "mangotango",
     "Hex (RGB)": "#FF8243",
     "Red (RGB)": "100%",
     "Green (RGB)": "51%",
@@ -5248,6 +5663,7 @@
   },
   {
     "Name": "Mantis",
+    "searchKey": "mantis",
     "Hex (RGB)": "#74C365",
     "Red (RGB)": "45%",
     "Green (RGB)": "76%",
@@ -5260,6 +5676,7 @@
   },
   {
     "Name": "Mardi Gras",
+    "searchKey": "mardigras",
     "Hex (RGB)": "#880085",
     "Red (RGB)": "53%",
     "Green (RGB)": "0%",
@@ -5272,6 +5689,7 @@
   },
   {
     "Name": "Marigold",
+    "searchKey": "marigold",
     "Hex (RGB)": "#EAA221",
     "Red (RGB)": "92%",
     "Green (RGB)": "64%",
@@ -5284,6 +5702,7 @@
   },
   {
     "Name": "Marian blue",
+    "searchKey": "marianblue",
     "Hex (RGB)": "#00488B",
     "Red (RGB)": "0%",
     "Green (RGB)": "28%",
@@ -5296,6 +5715,7 @@
   },
   {
     "Name": "Maroon (Crayola)",
+    "searchKey": "maroon",
     "Hex (RGB)": "#C32148",
     "Red (RGB)": "76%",
     "Green (RGB)": "13%",
@@ -5308,6 +5728,7 @@
   },
   {
     "Name": "Maroon (web)",
+    "searchKey": "maroon",
     "Hex (RGB)": "#800000",
     "Red (RGB)": "50%",
     "Green (RGB)": "0%",
@@ -5320,6 +5741,7 @@
   },
   {
     "Name": "Maroon (X11)",
+    "searchKey": "maroon",
     "Hex (RGB)": "#B03060",
     "Red (RGB)": "69%",
     "Green (RGB)": "19%",
@@ -5332,6 +5754,7 @@
   },
   {
     "Name": "Mauve",
+    "searchKey": "mauve",
     "Hex (RGB)": "#E0B0FF",
     "Red (RGB)": "88%",
     "Green (RGB)": "69%",
@@ -5344,6 +5767,7 @@
   },
   {
     "Name": "Mauve taupe",
+    "searchKey": "mauvetaupe",
     "Hex (RGB)": "#915F6D",
     "Red (RGB)": "57%",
     "Green (RGB)": "37%",
@@ -5356,6 +5780,7 @@
   },
   {
     "Name": "Mauvelous",
+    "searchKey": "mauvelous",
     "Hex (RGB)": "#EF98AA",
     "Red (RGB)": "94%",
     "Green (RGB)": "60%",
@@ -5368,6 +5793,7 @@
   },
   {
     "Name": "Maximum blue",
+    "searchKey": "maximumblue",
     "Hex (RGB)": "#47ABCC",
     "Red (RGB)": "28%",
     "Green (RGB)": "67%",
@@ -5380,6 +5806,7 @@
   },
   {
     "Name": "Maximum blue green",
+    "searchKey": "maximumbluegreen",
     "Hex (RGB)": "#30BFBF",
     "Red (RGB)": "19%",
     "Green (RGB)": "75%",
@@ -5392,6 +5819,7 @@
   },
   {
     "Name": "Maximum blue purple",
+    "searchKey": "maximumbluepurple",
     "Hex (RGB)": "#ACACE6",
     "Red (RGB)": "67%",
     "Green (RGB)": "67%",
@@ -5404,6 +5832,7 @@
   },
   {
     "Name": "Maximum green",
+    "searchKey": "maximumgreen",
     "Hex (RGB)": "#5E8C31",
     "Red (RGB)": "37%",
     "Green (RGB)": "55%",
@@ -5416,6 +5845,7 @@
   },
   {
     "Name": "Maximum green yellow",
+    "searchKey": "maximumgreenyellow",
     "Hex (RGB)": "#D9E650",
     "Red (RGB)": "85%",
     "Green (RGB)": "90%",
@@ -5428,6 +5858,7 @@
   },
   {
     "Name": "Maximum purple",
+    "searchKey": "maximumpurple",
     "Hex (RGB)": "#733380",
     "Red (RGB)": "45%",
     "Green (RGB)": "20%",
@@ -5440,6 +5871,7 @@
   },
   {
     "Name": "Maximum red",
+    "searchKey": "maximumred",
     "Hex (RGB)": "#D92121",
     "Red (RGB)": "85%",
     "Green (RGB)": "13%",
@@ -5452,6 +5884,7 @@
   },
   {
     "Name": "Maximum red purple",
+    "searchKey": "maximumredpurple",
     "Hex (RGB)": "#A63A79",
     "Red (RGB)": "65%",
     "Green (RGB)": "23%",
@@ -5464,6 +5897,7 @@
   },
   {
     "Name": "Maximum yellow",
+    "searchKey": "maximumyellow",
     "Hex (RGB)": "#FAFA37",
     "Red (RGB)": "98%",
     "Green (RGB)": "98%",
@@ -5476,6 +5910,7 @@
   },
   {
     "Name": "Maximum yellow red",
+    "searchKey": "maximumyellowred",
     "Hex (RGB)": "#F2BA49",
     "Red (RGB)": "95%",
     "Green (RGB)": "73%",
@@ -5488,6 +5923,7 @@
   },
   {
     "Name": "May green",
+    "searchKey": "maygreen",
     "Hex (RGB)": "#4C9141",
     "Red (RGB)": "30%",
     "Green (RGB)": "57%",
@@ -5500,6 +5936,7 @@
   },
   {
     "Name": "Maya blue",
+    "searchKey": "mayablue",
     "Hex (RGB)": "#73C2FB",
     "Red (RGB)": "45%",
     "Green (RGB)": "76%",
@@ -5512,6 +5949,7 @@
   },
   {
     "Name": "Medium aquamarine",
+    "searchKey": "mediumaquamarine",
     "Hex (RGB)": "#66DDAA",
     "Red (RGB)": "40%",
     "Green (RGB)": "87%",
@@ -5524,6 +5962,7 @@
   },
   {
     "Name": "Medium blue",
+    "searchKey": "mediumblue",
     "Hex (RGB)": "#0000CD",
     "Red (RGB)": "0%",
     "Green (RGB)": "0%",
@@ -5536,6 +5975,7 @@
   },
   {
     "Name": "Medium candy apple red",
+    "searchKey": "mediumcandyapplered",
     "Hex (RGB)": "#E2062C",
     "Red (RGB)": "89%",
     "Green (RGB)": "2%",
@@ -5548,6 +5988,7 @@
   },
   {
     "Name": "Medium carmine",
+    "searchKey": "mediumcarmine",
     "Hex (RGB)": "#AF4035",
     "Red (RGB)": "69%",
     "Green (RGB)": "25%",
@@ -5560,6 +6001,7 @@
   },
   {
     "Name": "Medium champagne",
+    "searchKey": "mediumchampagne",
     "Hex (RGB)": "#F3E5AB",
     "Red (RGB)": "95%",
     "Green (RGB)": "90%",
@@ -5572,6 +6014,7 @@
   },
   {
     "Name": "Medium orchid",
+    "searchKey": "mediumorchid",
     "Hex (RGB)": "#BA55D3",
     "Red (RGB)": "73%",
     "Green (RGB)": "33%",
@@ -5584,6 +6027,7 @@
   },
   {
     "Name": "Medium purple",
+    "searchKey": "mediumpurple",
     "Hex (RGB)": "#9370DB",
     "Red (RGB)": "58%",
     "Green (RGB)": "44%",
@@ -5596,6 +6040,7 @@
   },
   {
     "Name": "Medium sea green",
+    "searchKey": "mediumseagreen",
     "Hex (RGB)": "#3CB371",
     "Red (RGB)": "24%",
     "Green (RGB)": "70%",
@@ -5608,6 +6053,7 @@
   },
   {
     "Name": "Medium slate blue",
+    "searchKey": "mediumslateblue",
     "Hex (RGB)": "#7B68EE",
     "Red (RGB)": "48%",
     "Green (RGB)": "41%",
@@ -5620,6 +6066,7 @@
   },
   {
     "Name": "Medium spring green",
+    "searchKey": "mediumspringgreen",
     "Hex (RGB)": "#00FA9A",
     "Red (RGB)": "0%",
     "Green (RGB)": "98%",
@@ -5632,6 +6079,7 @@
   },
   {
     "Name": "Medium turquoise",
+    "searchKey": "mediumturquoise",
     "Hex (RGB)": "#48D1CC",
     "Red (RGB)": "28%",
     "Green (RGB)": "82%",
@@ -5644,6 +6092,7 @@
   },
   {
     "Name": "Medium violet-red",
+    "searchKey": "mediumvioletred",
     "Hex (RGB)": "#C71585",
     "Red (RGB)": "78%",
     "Green (RGB)": "8%",
@@ -5656,6 +6105,7 @@
   },
   {
     "Name": "Mellow apricot",
+    "searchKey": "mellowapricot",
     "Hex (RGB)": "#F8B878",
     "Red (RGB)": "97%",
     "Green (RGB)": "72%",
@@ -5668,6 +6118,7 @@
   },
   {
     "Name": "Mellow yellow",
+    "searchKey": "mellowyellow",
     "Hex (RGB)": "#F8DE7E",
     "Red (RGB)": "97%",
     "Green (RGB)": "87%",
@@ -5680,6 +6131,7 @@
   },
   {
     "Name": "Melon",
+    "searchKey": "melon",
     "Hex (RGB)": "#FEBAAD",
     "Red (RGB)": "100%",
     "Green (RGB)": "73%",
@@ -5692,6 +6144,7 @@
   },
   {
     "Name": "Metallic gold",
+    "searchKey": "metallicgold",
     "Hex (RGB)": "#D3AF37",
     "Red (RGB)": "83%",
     "Green (RGB)": "69%",
@@ -5704,6 +6157,7 @@
   },
   {
     "Name": "Metallic Seaweed",
+    "searchKey": "metallicseaweed",
     "Hex (RGB)": "#0A7E8C",
     "Red (RGB)": "4%",
     "Green (RGB)": "49%",
@@ -5716,6 +6170,7 @@
   },
   {
     "Name": "Metallic Sunburst",
+    "searchKey": "metallicsunburst",
     "Hex (RGB)": "#9C7C38",
     "Red (RGB)": "61%",
     "Green (RGB)": "49%",
@@ -5728,6 +6183,7 @@
   },
   {
     "Name": "Mexican pink",
+    "searchKey": "mexicanpink",
     "Hex (RGB)": "#E4007C",
     "Red (RGB)": "89%",
     "Green (RGB)": "0%",
@@ -5740,6 +6196,7 @@
   },
   {
     "Name": "Middle blue",
+    "searchKey": "middleblue",
     "Hex (RGB)": "#7ED4E6",
     "Red (RGB)": "49%",
     "Green (RGB)": "83%",
@@ -5752,6 +6209,7 @@
   },
   {
     "Name": "Middle blue green",
+    "searchKey": "middlebluegreen",
     "Hex (RGB)": "#8DD9CC",
     "Red (RGB)": "55%",
     "Green (RGB)": "85%",
@@ -5764,6 +6222,7 @@
   },
   {
     "Name": "Middle blue purple",
+    "searchKey": "middlebluepurple",
     "Hex (RGB)": "#8B72BE",
     "Red (RGB)": "55%",
     "Green (RGB)": "45%",
@@ -5776,6 +6235,7 @@
   },
   {
     "Name": "Middle grey",
+    "searchKey": "middlegrey",
     "Hex (RGB)": "#8B8680",
     "Red (RGB)": "55%",
     "Green (RGB)": "53%",
@@ -5788,6 +6248,7 @@
   },
   {
     "Name": "Middle green",
+    "searchKey": "middlegreen",
     "Hex (RGB)": "#4D8C57",
     "Red (RGB)": "30%",
     "Green (RGB)": "55%",
@@ -5800,6 +6261,7 @@
   },
   {
     "Name": "Middle green yellow",
+    "searchKey": "middlegreenyellow",
     "Hex (RGB)": "#ACBF60",
     "Red (RGB)": "67%",
     "Green (RGB)": "75%",
@@ -5812,6 +6274,7 @@
   },
   {
     "Name": "Middle purple",
+    "searchKey": "middlepurple",
     "Hex (RGB)": "#D982B5",
     "Red (RGB)": "85%",
     "Green (RGB)": "51%",
@@ -5824,6 +6287,7 @@
   },
   {
     "Name": "Middle red",
+    "searchKey": "middlered",
     "Hex (RGB)": "#E58E73",
     "Red (RGB)": "90%",
     "Green (RGB)": "56%",
@@ -5836,6 +6300,7 @@
   },
   {
     "Name": "Middle red purple",
+    "searchKey": "middleredpurple",
     "Hex (RGB)": "#A55353",
     "Red (RGB)": "65%",
     "Green (RGB)": "33%",
@@ -5848,6 +6313,7 @@
   },
   {
     "Name": "Middle yellow",
+    "searchKey": "middleyellow",
     "Hex (RGB)": "#FFEB00",
     "Red (RGB)": "100%",
     "Green (RGB)": "92%",
@@ -5860,6 +6326,7 @@
   },
   {
     "Name": "Middle yellow red",
+    "searchKey": "middleyellowred",
     "Hex (RGB)": "#ECB176",
     "Red (RGB)": "93%",
     "Green (RGB)": "69%",
@@ -5872,6 +6339,7 @@
   },
   {
     "Name": "Midnight",
+    "searchKey": "midnight",
     "Hex (RGB)": "#702670",
     "Red (RGB)": "44%",
     "Green (RGB)": "15%",
@@ -5884,6 +6352,7 @@
   },
   {
     "Name": "Midnight blue",
+    "searchKey": "midnightblue",
     "Hex (RGB)": "#191970",
     "Red (RGB)": "10%",
     "Green (RGB)": "10%",
@@ -5896,6 +6365,7 @@
   },
   {
     "Name": "Midnight green (eagle green)",
+    "searchKey": "midnightgreen",
     "Hex (RGB)": "#004953",
     "Red (RGB)": "0%",
     "Green (RGB)": "29%",
@@ -5908,6 +6378,7 @@
   },
   {
     "Name": "Mikado yellow",
+    "searchKey": "mikadoyellow",
     "Hex (RGB)": "#FFC40C",
     "Red (RGB)": "100%",
     "Green (RGB)": "77%",
@@ -5920,6 +6391,7 @@
   },
   {
     "Name": "Mimi pink",
+    "searchKey": "mimipink",
     "Hex (RGB)": "#FFDAE9",
     "Red (RGB)": "100%",
     "Green (RGB)": "85%",
@@ -5932,6 +6404,7 @@
   },
   {
     "Name": "Mindaro",
+    "searchKey": "mindaro",
     "Hex (RGB)": "#E3F988",
     "Red (RGB)": "89%",
     "Green (RGB)": "98%",
@@ -5944,6 +6417,7 @@
   },
   {
     "Name": "Ming",
+    "searchKey": "ming",
     "Hex (RGB)": "#36747D",
     "Red (RGB)": "21%",
     "Green (RGB)": "45%",
@@ -5956,6 +6430,7 @@
   },
   {
     "Name": "Minion yellow",
+    "searchKey": "minionyellow",
     "Hex (RGB)": "#F5E050",
     "Red (RGB)": "96%",
     "Green (RGB)": "86%",
@@ -5968,6 +6443,7 @@
   },
   {
     "Name": "Mint",
+    "searchKey": "mint",
     "Hex (RGB)": "#3EB489",
     "Red (RGB)": "24%",
     "Green (RGB)": "71%",
@@ -5980,6 +6456,7 @@
   },
   {
     "Name": "Mint cream",
+    "searchKey": "mintcream",
     "Hex (RGB)": "#F5FFFA",
     "Red (RGB)": "96%",
     "Green (RGB)": "100%",
@@ -5992,6 +6469,7 @@
   },
   {
     "Name": "Mint green",
+    "searchKey": "mintgreen",
     "Hex (RGB)": "#98FF98",
     "Red (RGB)": "60%",
     "Green (RGB)": "100%",
@@ -6004,6 +6482,7 @@
   },
   {
     "Name": "Misty moss",
+    "searchKey": "mistymoss",
     "Hex (RGB)": "#BBB477",
     "Red (RGB)": "73%",
     "Green (RGB)": "71%",
@@ -6016,6 +6495,7 @@
   },
   {
     "Name": "Misty rose",
+    "searchKey": "mistyrose",
     "Hex (RGB)": "#FFE4E1",
     "Red (RGB)": "100%",
     "Green (RGB)": "89%",
@@ -6028,6 +6508,7 @@
   },
   {
     "Name": "Moccasin",
+    "searchKey": "moccasin",
     "Hex (RGB)": "#FFE4B5",
     "Red (RGB)": "100%",
     "Green (RGB)": "89%",
@@ -6040,6 +6521,7 @@
   },
   {
     "Name": "Mode beige",
+    "searchKey": "modebeige",
     "Hex (RGB)": "#967117",
     "Red (RGB)": "59%",
     "Green (RGB)": "44%",
@@ -6052,6 +6534,7 @@
   },
   {
     "Name": "Mona Lisa",
+    "searchKey": "monalisa",
     "Hex (RGB)": "#FF948E",
     "Red (RGB)": "100%",
     "Green (RGB)": "58%",
@@ -6064,6 +6547,7 @@
   },
   {
     "Name": "Morning blue",
+    "searchKey": "morningblue",
     "Hex (RGB)": "#8DA399",
     "Red (RGB)": "55%",
     "Green (RGB)": "64%",
@@ -6076,6 +6560,7 @@
   },
   {
     "Name": "Moss green",
+    "searchKey": "mossgreen",
     "Hex (RGB)": "#8A9A5B",
     "Red (RGB)": "54%",
     "Green (RGB)": "60%",
@@ -6088,6 +6573,7 @@
   },
   {
     "Name": "Mountain Meadow",
+    "searchKey": "mountainmeadow",
     "Hex (RGB)": "#30BA8F",
     "Red (RGB)": "19%",
     "Green (RGB)": "73%",
@@ -6100,6 +6586,7 @@
   },
   {
     "Name": "Mountbatten pink",
+    "searchKey": "mountbattenpink",
     "Hex (RGB)": "#997A8D",
     "Red (RGB)": "60%",
     "Green (RGB)": "48%",
@@ -6112,6 +6599,7 @@
   },
   {
     "Name": "MSU green",
+    "searchKey": "msugreen",
     "Hex (RGB)": "#18453B",
     "Red (RGB)": "9%",
     "Green (RGB)": "27%",
@@ -6124,6 +6612,7 @@
   },
   {
     "Name": "Mulberry",
+    "searchKey": "mulberry",
     "Hex (RGB)": "#C54B8C",
     "Red (RGB)": "77%",
     "Green (RGB)": "29%",
@@ -6136,6 +6625,7 @@
   },
   {
     "Name": "Mulberry (Crayola)",
+    "searchKey": "mulberry",
     "Hex (RGB)": "#C8509B",
     "Red (RGB)": "78%",
     "Green (RGB)": "31%",
@@ -6148,6 +6638,7 @@
   },
   {
     "Name": "Mustard",
+    "searchKey": "mustard",
     "Hex (RGB)": "#FFDB58",
     "Red (RGB)": "100%",
     "Green (RGB)": "86%",
@@ -6160,6 +6651,7 @@
   },
   {
     "Name": "Myrtle green",
+    "searchKey": "myrtlegreen",
     "Hex (RGB)": "#317873",
     "Red (RGB)": "19%",
     "Green (RGB)": "47%",
@@ -6172,6 +6664,7 @@
   },
   {
     "Name": "Mystic",
+    "searchKey": "mystic",
     "Hex (RGB)": "#D65282",
     "Red (RGB)": "84%",
     "Green (RGB)": "32%",
@@ -6184,6 +6677,7 @@
   },
   {
     "Name": "Mystic maroon",
+    "searchKey": "mysticmaroon",
     "Hex (RGB)": "#AD4379",
     "Red (RGB)": "68%",
     "Green (RGB)": "26%",
@@ -6196,6 +6690,7 @@
   },
   {
     "Name": "Nadeshiko pink",
+    "searchKey": "nadeshikopink",
     "Hex (RGB)": "#F6ADC6",
     "Red (RGB)": "96%",
     "Green (RGB)": "68%",
@@ -6208,6 +6703,7 @@
   },
   {
     "Name": "Naples yellow",
+    "searchKey": "naplesyellow",
     "Hex (RGB)": "#FADA5E",
     "Red (RGB)": "98%",
     "Green (RGB)": "85%",
@@ -6220,6 +6716,7 @@
   },
   {
     "Name": "Navajo white",
+    "searchKey": "navajowhite",
     "Hex (RGB)": "#FFDEAD",
     "Red (RGB)": "100%",
     "Green (RGB)": "87%",
@@ -6232,6 +6729,7 @@
   },
   {
     "Name": "Navy blue",
+    "searchKey": "navyblue",
     "Hex (RGB)": "#000080",
     "Red (RGB)": "0%",
     "Green (RGB)": "0%",
@@ -6244,6 +6742,7 @@
   },
   {
     "Name": "Navy blue (Crayola)",
+    "searchKey": "navyblue",
     "Hex (RGB)": "#1974D2",
     "Red (RGB)": "10%",
     "Green (RGB)": "45%",
@@ -6256,6 +6755,7 @@
   },
   {
     "Name": "Neon blue",
+    "searchKey": "neonblue",
     "Hex (RGB)": "#4666FF",
     "Red (RGB)": "27%",
     "Green (RGB)": "40%",
@@ -6268,6 +6768,7 @@
   },
   {
     "Name": "Neon green",
+    "searchKey": "neongreen",
     "Hex (RGB)": "#39FF14",
     "Red (RGB)": "22%",
     "Green (RGB)": "100%",
@@ -6280,6 +6781,7 @@
   },
   {
     "Name": "Neon fuchsia",
+    "searchKey": "neonfuchsia",
     "Hex (RGB)": "#FE4164",
     "Red (RGB)": "100%",
     "Green (RGB)": "25%",
@@ -6292,6 +6794,7 @@
   },
   {
     "Name": "New Car",
+    "searchKey": "newcar",
     "Hex (RGB)": "#214FC6",
     "Red (RGB)": "13%",
     "Green (RGB)": "31%",
@@ -6304,6 +6807,7 @@
   },
   {
     "Name": "New York pink",
+    "searchKey": "newyorkpink",
     "Hex (RGB)": "#D7837F",
     "Red (RGB)": "84%",
     "Green (RGB)": "51%",
@@ -6316,6 +6820,7 @@
   },
   {
     "Name": "Nickel",
+    "searchKey": "nickel",
     "Hex (RGB)": "#727472",
     "Red (RGB)": "45%",
     "Green (RGB)": "45%",
@@ -6328,6 +6833,7 @@
   },
   {
     "Name": "Non-photo blue",
+    "searchKey": "nonphotoblue",
     "Hex (RGB)": "#A4DDED",
     "Red (RGB)": "64%",
     "Green (RGB)": "87%",
@@ -6340,6 +6846,7 @@
   },
   {
     "Name": "Nyanza",
+    "searchKey": "nyanza",
     "Hex (RGB)": "#E9FFDB",
     "Red (RGB)": "91%",
     "Green (RGB)": "100%",
@@ -6352,6 +6859,7 @@
   },
   {
     "Name": "Ocher (Ochre)",
+    "searchKey": "ocher",
     "Hex (RGB)": "#CC7722",
     "Red (RGB)": "80%",
     "Green (RGB)": "47%",
@@ -6364,6 +6872,7 @@
   },
   {
     "Name": "Old burgundy",
+    "searchKey": "oldburgundy",
     "Hex (RGB)": "#43302E",
     "Red (RGB)": "26%",
     "Green (RGB)": "19%",
@@ -6376,6 +6885,7 @@
   },
   {
     "Name": "Old gold",
+    "searchKey": "oldgold",
     "Hex (RGB)": "#CFB53B",
     "Red (RGB)": "81%",
     "Green (RGB)": "71%",
@@ -6388,6 +6898,7 @@
   },
   {
     "Name": "Old lace",
+    "searchKey": "oldlace",
     "Hex (RGB)": "#FDF5E6",
     "Red (RGB)": "99%",
     "Green (RGB)": "96%",
@@ -6400,6 +6911,7 @@
   },
   {
     "Name": "Old lavender",
+    "searchKey": "oldlavender",
     "Hex (RGB)": "#796878",
     "Red (RGB)": "47%",
     "Green (RGB)": "41%",
@@ -6412,6 +6924,7 @@
   },
   {
     "Name": "Old mauve",
+    "searchKey": "oldmauve",
     "Hex (RGB)": "#673147",
     "Red (RGB)": "40%",
     "Green (RGB)": "19%",
@@ -6424,6 +6937,7 @@
   },
   {
     "Name": "Old rose",
+    "searchKey": "oldrose",
     "Hex (RGB)": "#C08081",
     "Red (RGB)": "75%",
     "Green (RGB)": "50%",
@@ -6436,6 +6950,7 @@
   },
   {
     "Name": "Old silver",
+    "searchKey": "oldsilver",
     "Hex (RGB)": "#848482",
     "Red (RGB)": "52%",
     "Green (RGB)": "52%",
@@ -6448,6 +6963,7 @@
   },
   {
     "Name": "Olive",
+    "searchKey": "olive",
     "Hex (RGB)": "#808000",
     "Red (RGB)": "50%",
     "Green (RGB)": "50%",
@@ -6460,6 +6976,7 @@
   },
   {
     "Name": "Olive Drab (#3)",
+    "searchKey": "olivedrab",
     "Hex (RGB)": "#6B8E23",
     "Red (RGB)": "42%",
     "Green (RGB)": "56%",
@@ -6472,6 +6989,7 @@
   },
   {
     "Name": "Olive Drab #7",
+    "searchKey": "olivedrab#7",
     "Hex (RGB)": "#3C341F",
     "Red (RGB)": "24%",
     "Green (RGB)": "20%",
@@ -6484,6 +7002,7 @@
   },
   {
     "Name": "Olive green",
+    "searchKey": "olivegreen",
     "Hex (RGB)": "#B5B35C",
     "Red (RGB)": "71%",
     "Green (RGB)": "70%",
@@ -6496,6 +7015,7 @@
   },
   {
     "Name": "Olivine",
+    "searchKey": "olivine",
     "Hex (RGB)": "#9AB973",
     "Red (RGB)": "60%",
     "Green (RGB)": "73%",
@@ -6508,6 +7028,7 @@
   },
   {
     "Name": "Onyx",
+    "searchKey": "onyx",
     "Hex (RGB)": "#353839",
     "Red (RGB)": "21%",
     "Green (RGB)": "22%",
@@ -6520,6 +7041,7 @@
   },
   {
     "Name": "Opal",
+    "searchKey": "opal",
     "Hex (RGB)": "#A8C3BC",
     "Red (RGB)": "66%",
     "Green (RGB)": "76%",
@@ -6532,6 +7054,7 @@
   },
   {
     "Name": "Opera mauve",
+    "searchKey": "operamauve",
     "Hex (RGB)": "#B784A7",
     "Red (RGB)": "72%",
     "Green (RGB)": "52%",
@@ -6544,6 +7067,7 @@
   },
   {
     "Name": "Orange",
+    "searchKey": "orange",
     "Hex (RGB)": "#FF8000",
     "Red (RGB)": "100%",
     "Green (RGB)": "50%",
@@ -6556,6 +7080,7 @@
   },
   {
     "Name": "Orange (Crayola)",
+    "searchKey": "orange",
     "Hex (RGB)": "#FF7538",
     "Red (RGB)": "100%",
     "Green (RGB)": "46%",
@@ -6568,6 +7093,7 @@
   },
   {
     "Name": "Orange (Pantone)",
+    "searchKey": "orange",
     "Hex (RGB)": "#FF5800",
     "Red (RGB)": "100%",
     "Green (RGB)": "35%",
@@ -6580,6 +7106,7 @@
   },
   {
     "Name": "Orange (web)",
+    "searchKey": "orange",
     "Hex (RGB)": "#FFA500",
     "Red (RGB)": "100%",
     "Green (RGB)": "65%",
@@ -6592,6 +7119,7 @@
   },
   {
     "Name": "Orange peel",
+    "searchKey": "orangepeel",
     "Hex (RGB)": "#FF9F00",
     "Red (RGB)": "100%",
     "Green (RGB)": "62%",
@@ -6604,6 +7132,7 @@
   },
   {
     "Name": "Orange-red",
+    "searchKey": "orangered",
     "Hex (RGB)": "#FF681F",
     "Red (RGB)": "100%",
     "Green (RGB)": "41%",
@@ -6616,6 +7145,7 @@
   },
   {
     "Name": "Orange-red (Crayola)",
+    "searchKey": "orangered",
     "Hex (RGB)": "#FF5349",
     "Red (RGB)": "100%",
     "Green (RGB)": "33%",
@@ -6628,6 +7158,7 @@
   },
   {
     "Name": "Orange soda",
+    "searchKey": "orangesoda",
     "Hex (RGB)": "#FA5B3D",
     "Red (RGB)": "98%",
     "Green (RGB)": "36%",
@@ -6640,6 +7171,7 @@
   },
   {
     "Name": "Orange-yellow",
+    "searchKey": "orangeyellow",
     "Hex (RGB)": "#F5BD1F",
     "Red (RGB)": "96%",
     "Green (RGB)": "74%",
@@ -6652,6 +7184,7 @@
   },
   {
     "Name": "Orange-yellow (Crayola)",
+    "searchKey": "orangeyellow",
     "Hex (RGB)": "#F8D568",
     "Red (RGB)": "97%",
     "Green (RGB)": "84%",
@@ -6664,6 +7197,7 @@
   },
   {
     "Name": "Orchid",
+    "searchKey": "orchid",
     "Hex (RGB)": "#DA70D6",
     "Red (RGB)": "85%",
     "Green (RGB)": "44%",
@@ -6676,6 +7210,7 @@
   },
   {
     "Name": "Orchid pink",
+    "searchKey": "orchidpink",
     "Hex (RGB)": "#F2BDCD",
     "Red (RGB)": "95%",
     "Green (RGB)": "74%",
@@ -6688,6 +7223,7 @@
   },
   {
     "Name": "Orchid (Crayola)",
+    "searchKey": "orchid",
     "Hex (RGB)": "#E29CD2",
     "Red (RGB)": "89%",
     "Green (RGB)": "61%",
@@ -6700,6 +7236,7 @@
   },
   {
     "Name": "Outer space (Crayola)",
+    "searchKey": "outerspace",
     "Hex (RGB)": "#2D383A",
     "Red (RGB)": "18%",
     "Green (RGB)": "22%",
@@ -6712,6 +7249,7 @@
   },
   {
     "Name": "Outrageous Orange",
+    "searchKey": "outrageousorange",
     "Hex (RGB)": "#FF6E4A",
     "Red (RGB)": "100%",
     "Green (RGB)": "43%",
@@ -6724,6 +7262,7 @@
   },
   {
     "Name": "Oxblood",
+    "searchKey": "oxblood",
     "Hex (RGB)": "#4A0000",
     "Red (RGB)": "29%",
     "Green (RGB)": "0%",
@@ -6736,6 +7275,7 @@
   },
   {
     "Name": "Oxford blue",
+    "searchKey": "oxfordblue",
     "Hex (RGB)": "#002147",
     "Red (RGB)": "0%",
     "Green (RGB)": "13%",
@@ -6748,6 +7288,7 @@
   },
   {
     "Name": "OU Crimson red",
+    "searchKey": "oucrimsonred",
     "Hex (RGB)": "#841617",
     "Red (RGB)": "52%",
     "Green (RGB)": "9%",
@@ -6760,6 +7301,7 @@
   },
   {
     "Name": "Pacific blue",
+    "searchKey": "pacificblue",
     "Hex (RGB)": "#1CA9C9",
     "Red (RGB)": "11%",
     "Green (RGB)": "66%",
@@ -6772,6 +7314,7 @@
   },
   {
     "Name": "Pakistan green",
+    "searchKey": "pakistangreen",
     "Hex (RGB)": "#006600",
     "Red (RGB)": "0%",
     "Green (RGB)": "40%",
@@ -6784,6 +7327,7 @@
   },
   {
     "Name": "Palatinate purple",
+    "searchKey": "palatinatepurple",
     "Hex (RGB)": "#682860",
     "Red (RGB)": "41%",
     "Green (RGB)": "16%",
@@ -6796,6 +7340,7 @@
   },
   {
     "Name": "Pale aqua",
+    "searchKey": "paleaqua",
     "Hex (RGB)": "#BED3E5",
     "Red (RGB)": "75%",
     "Green (RGB)": "83%",
@@ -6808,6 +7353,7 @@
   },
   {
     "Name": "Pale cerulean",
+    "searchKey": "palecerulean",
     "Hex (RGB)": "#9BC4E2",
     "Red (RGB)": "61%",
     "Green (RGB)": "77%",
@@ -6820,6 +7366,7 @@
   },
   {
     "Name": "Pale Dogwood",
+    "searchKey": "paledogwood",
     "Hex (RGB)": "#ED7A9B",
     "Red (RGB)": "93%",
     "Green (RGB)": "48%",
@@ -6832,6 +7379,7 @@
   },
   {
     "Name": "Pale pink",
+    "searchKey": "palepink",
     "Hex (RGB)": "#FADADD",
     "Red (RGB)": "98%",
     "Green (RGB)": "85%",
@@ -6844,6 +7392,7 @@
   },
   {
     "Name": "Pale purple (Pantone)",
+    "searchKey": "palepurple",
     "Hex (RGB)": "#FAE6FA",
     "Red (RGB)": "98%",
     "Green (RGB)": "90%",
@@ -6856,6 +7405,7 @@
   },
   {
     "Name": "Pale spring bud",
+    "searchKey": "palespringbud",
     "Hex (RGB)": "#ECEBBD",
     "Red (RGB)": "93%",
     "Green (RGB)": "92%",
@@ -6868,6 +7418,7 @@
   },
   {
     "Name": "Pansy purple",
+    "searchKey": "pansypurple",
     "Hex (RGB)": "#78184A",
     "Red (RGB)": "47%",
     "Green (RGB)": "9%",
@@ -6880,6 +7431,7 @@
   },
   {
     "Name": "Paolo Veronese green",
+    "searchKey": "paoloveronesegreen",
     "Hex (RGB)": "#009B7D",
     "Red (RGB)": "0%",
     "Green (RGB)": "61%",
@@ -6892,6 +7444,7 @@
   },
   {
     "Name": "Papaya whip",
+    "searchKey": "papayawhip",
     "Hex (RGB)": "#FFEFD5",
     "Red (RGB)": "100%",
     "Green (RGB)": "94%",
@@ -6904,6 +7457,7 @@
   },
   {
     "Name": "Paradise pink",
+    "searchKey": "paradisepink",
     "Hex (RGB)": "#E63E62",
     "Red (RGB)": "90%",
     "Green (RGB)": "24%",
@@ -6916,6 +7470,7 @@
   },
   {
     "Name": "Parchment",
+    "searchKey": "parchment",
     "Hex (RGB)": "#F1E9D2",
     "Red (RGB)": "95%",
     "Green (RGB)": "91%",
@@ -6928,6 +7483,7 @@
   },
   {
     "Name": "Paris Green",
+    "searchKey": "parisgreen",
     "Hex (RGB)": "#50C878",
     "Red (RGB)": "31%",
     "Green (RGB)": "78%",
@@ -6940,6 +7496,7 @@
   },
   {
     "Name": "Pastel pink",
+    "searchKey": "pastelpink",
     "Hex (RGB)": "#DEA5A4",
     "Red (RGB)": "87%",
     "Green (RGB)": "65%",
@@ -6952,6 +7509,7 @@
   },
   {
     "Name": "Patriarch",
+    "searchKey": "patriarch",
     "Hex (RGB)": "#800080",
     "Red (RGB)": "50%",
     "Green (RGB)": "0%",
@@ -6964,6 +7522,7 @@
   },
   {
     "Name": "Paua",
+    "searchKey": "paua",
     "Hex (RGB)": "#1F005E",
     "Red (RGB)": "12%",
     "Green (RGB)": "0%",
@@ -6976,6 +7535,7 @@
   },
   {
     "Name": "Payne's grey",
+    "searchKey": "paynesgrey",
     "Hex (RGB)": "#536878",
     "Red (RGB)": "33%",
     "Green (RGB)": "41%",
@@ -6988,6 +7548,7 @@
   },
   {
     "Name": "Peach",
+    "searchKey": "peach",
     "Hex (RGB)": "#FFE5B4",
     "Red (RGB)": "100%",
     "Green (RGB)": "90%",
@@ -7000,6 +7561,7 @@
   },
   {
     "Name": "Peach (Crayola)",
+    "searchKey": "peach",
     "Hex (RGB)": "#FFCBA4",
     "Red (RGB)": "100%",
     "Green (RGB)": "80%",
@@ -7012,6 +7574,7 @@
   },
   {
     "Name": "Peach puff",
+    "searchKey": "peachpuff",
     "Hex (RGB)": "#FFDAB9",
     "Red (RGB)": "100%",
     "Green (RGB)": "85%",
@@ -7024,6 +7587,7 @@
   },
   {
     "Name": "Pear",
+    "searchKey": "pear",
     "Hex (RGB)": "#D1E231",
     "Red (RGB)": "82%",
     "Green (RGB)": "89%",
@@ -7036,6 +7600,7 @@
   },
   {
     "Name": "Pearly purple",
+    "searchKey": "pearlypurple",
     "Hex (RGB)": "#B768A2",
     "Red (RGB)": "72%",
     "Green (RGB)": "41%",
@@ -7048,6 +7613,7 @@
   },
   {
     "Name": "Periwinkle",
+    "searchKey": "periwinkle",
     "Hex (RGB)": "#CCCCFF",
     "Red (RGB)": "80%",
     "Green (RGB)": "80%",
@@ -7060,6 +7626,7 @@
   },
   {
     "Name": "Periwinkle (Crayola)",
+    "searchKey": "periwinkle",
     "Hex (RGB)": "#C3CDE6",
     "Red (RGB)": "76%",
     "Green (RGB)": "80%",
@@ -7072,6 +7639,7 @@
   },
   {
     "Name": "Permanent Geranium Lake",
+    "searchKey": "permanentgeraniumlake",
     "Hex (RGB)": "#E12C2C",
     "Red (RGB)": "88%",
     "Green (RGB)": "17%",
@@ -7084,6 +7652,7 @@
   },
   {
     "Name": "Persian blue",
+    "searchKey": "persianblue",
     "Hex (RGB)": "#1C39BB",
     "Red (RGB)": "11%",
     "Green (RGB)": "22%",
@@ -7096,6 +7665,7 @@
   },
   {
     "Name": "Persian green",
+    "searchKey": "persiangreen",
     "Hex (RGB)": "#00A693",
     "Red (RGB)": "0%",
     "Green (RGB)": "65%",
@@ -7108,6 +7678,7 @@
   },
   {
     "Name": "Persian indigo",
+    "searchKey": "persianindigo",
     "Hex (RGB)": "#32127A",
     "Red (RGB)": "20%",
     "Green (RGB)": "7%",
@@ -7120,6 +7691,7 @@
   },
   {
     "Name": "Persian orange",
+    "searchKey": "persianorange",
     "Hex (RGB)": "#D99058",
     "Red (RGB)": "85%",
     "Green (RGB)": "56%",
@@ -7132,6 +7704,7 @@
   },
   {
     "Name": "Persian pink",
+    "searchKey": "persianpink",
     "Hex (RGB)": "#F77FBE",
     "Red (RGB)": "97%",
     "Green (RGB)": "50%",
@@ -7144,6 +7717,7 @@
   },
   {
     "Name": "Persian plum",
+    "searchKey": "persianplum",
     "Hex (RGB)": "#701C1C",
     "Red (RGB)": "44%",
     "Green (RGB)": "11%",
@@ -7156,6 +7730,7 @@
   },
   {
     "Name": "Persian red",
+    "searchKey": "persianred",
     "Hex (RGB)": "#CC3333",
     "Red (RGB)": "80%",
     "Green (RGB)": "20%",
@@ -7168,6 +7743,7 @@
   },
   {
     "Name": "Persian rose",
+    "searchKey": "persianrose",
     "Hex (RGB)": "#FE28A2",
     "Red (RGB)": "100%",
     "Green (RGB)": "16%",
@@ -7180,6 +7756,7 @@
   },
   {
     "Name": "Persimmon",
+    "searchKey": "persimmon",
     "Hex (RGB)": "#EC5800",
     "Red (RGB)": "93%",
     "Green (RGB)": "35%",
@@ -7192,6 +7769,7 @@
   },
   {
     "Name": "Petunia",
+    "searchKey": "petunia",
     "Hex (RGB)": "#470659",
     "Red (RGB)": "28%",
     "Green (RGB)": "2%",
@@ -7204,6 +7782,7 @@
   },
   {
     "Name": "Pewter Blue",
+    "searchKey": "pewterblue",
     "Hex (RGB)": "#8BA8B7",
     "Red (RGB)": "55%",
     "Green (RGB)": "66%",
@@ -7216,6 +7795,7 @@
   },
   {
     "Name": "Phlox",
+    "searchKey": "phlox",
     "Hex (RGB)": "#DF00FF",
     "Red (RGB)": "87%",
     "Green (RGB)": "0%",
@@ -7228,6 +7808,7 @@
   },
   {
     "Name": "Phthalo blue",
+    "searchKey": "phthaloblue",
     "Hex (RGB)": "#000F89",
     "Red (RGB)": "0%",
     "Green (RGB)": "6%",
@@ -7240,6 +7821,7 @@
   },
   {
     "Name": "Phthalo green",
+    "searchKey": "phthalogreen",
     "Hex (RGB)": "#123524",
     "Red (RGB)": "7%",
     "Green (RGB)": "21%",
@@ -7252,6 +7834,7 @@
   },
   {
     "Name": "Picotee blue",
+    "searchKey": "picoteeblue",
     "Hex (RGB)": "#2E2787",
     "Red (RGB)": "18%",
     "Green (RGB)": "15%",
@@ -7264,6 +7847,7 @@
   },
   {
     "Name": "Pictorial carmine",
+    "searchKey": "pictorialcarmine",
     "Hex (RGB)": "#C30B4E",
     "Red (RGB)": "76%",
     "Green (RGB)": "4%",
@@ -7276,6 +7860,7 @@
   },
   {
     "Name": "Piggy pink",
+    "searchKey": "piggypink",
     "Hex (RGB)": "#FDDDE6",
     "Red (RGB)": "99%",
     "Green (RGB)": "87%",
@@ -7288,6 +7873,7 @@
   },
   {
     "Name": "Pine green",
+    "searchKey": "pinegreen",
     "Hex (RGB)": "#01796F",
     "Red (RGB)": "0%",
     "Green (RGB)": "47%",
@@ -7300,6 +7886,7 @@
   },
   {
     "Name": "Pine green",
+    "searchKey": "pinegreen",
     "Hex (RGB)": "#2A2F23",
     "Red (RGB)": "16%",
     "Green (RGB)": "18%",
@@ -7312,6 +7899,7 @@
   },
   {
     "Name": "Pink",
+    "searchKey": "pink",
     "Hex (RGB)": "#FFC0CB",
     "Red (RGB)": "100%",
     "Green (RGB)": "75%",
@@ -7324,6 +7912,7 @@
   },
   {
     "Name": "Pink (Pantone)",
+    "searchKey": "pink",
     "Hex (RGB)": "#D74894",
     "Red (RGB)": "84%",
     "Green (RGB)": "28%",
@@ -7336,6 +7925,7 @@
   },
   {
     "Name": "Pink lace",
+    "searchKey": "pinklace",
     "Hex (RGB)": "#FFDDF4",
     "Red (RGB)": "100%",
     "Green (RGB)": "87%",
@@ -7348,6 +7938,7 @@
   },
   {
     "Name": "Pink lavender",
+    "searchKey": "pinklavender",
     "Hex (RGB)": "#D8B2D1",
     "Red (RGB)": "85%",
     "Green (RGB)": "70%",
@@ -7360,6 +7951,7 @@
   },
   {
     "Name": "Pink Sherbet",
+    "searchKey": "pinksherbet",
     "Hex (RGB)": "#F78FA7",
     "Red (RGB)": "97%",
     "Green (RGB)": "56%",
@@ -7372,6 +7964,7 @@
   },
   {
     "Name": "Pistachio",
+    "searchKey": "pistachio",
     "Hex (RGB)": "#93C572",
     "Red (RGB)": "58%",
     "Green (RGB)": "77%",
@@ -7384,6 +7977,7 @@
   },
   {
     "Name": "Platinum",
+    "searchKey": "platinum",
     "Hex (RGB)": "#E5E4E2",
     "Red (RGB)": "90%",
     "Green (RGB)": "89%",
@@ -7396,6 +7990,7 @@
   },
   {
     "Name": "Plum",
+    "searchKey": "plum",
     "Hex (RGB)": "#8E4585",
     "Red (RGB)": "56%",
     "Green (RGB)": "27%",
@@ -7408,6 +8003,7 @@
   },
   {
     "Name": "Plum (web)",
+    "searchKey": "plum",
     "Hex (RGB)": "#DDA0DD",
     "Red (RGB)": "87%",
     "Green (RGB)": "63%",
@@ -7420,6 +8016,7 @@
   },
   {
     "Name": "Plump Purple",
+    "searchKey": "plumppurple",
     "Hex (RGB)": "#5946B2",
     "Red (RGB)": "35%",
     "Green (RGB)": "27%",
@@ -7432,6 +8029,7 @@
   },
   {
     "Name": "Polished Pine",
+    "searchKey": "polishedpine",
     "Hex (RGB)": "#5DA493",
     "Red (RGB)": "36%",
     "Green (RGB)": "64%",
@@ -7444,6 +8042,7 @@
   },
   {
     "Name": "Pomp and Power",
+    "searchKey": "pompandpower",
     "Hex (RGB)": "#86608E",
     "Red (RGB)": "53%",
     "Green (RGB)": "38%",
@@ -7456,6 +8055,7 @@
   },
   {
     "Name": "Popstar",
+    "searchKey": "popstar",
     "Hex (RGB)": "#BE4F62",
     "Red (RGB)": "75%",
     "Green (RGB)": "31%",
@@ -7468,6 +8068,7 @@
   },
   {
     "Name": "Portland Orange",
+    "searchKey": "portlandorange",
     "Hex (RGB)": "#FF5A36",
     "Red (RGB)": "100%",
     "Green (RGB)": "35%",
@@ -7480,6 +8081,7 @@
   },
   {
     "Name": "Powder blue",
+    "searchKey": "powderblue",
     "Hex (RGB)": "#B0E0E6",
     "Red (RGB)": "69%",
     "Green (RGB)": "88%",
@@ -7492,6 +8094,7 @@
   },
   {
     "Name": "Prairie gold",
+    "searchKey": "prairiegold",
     "Hex (RGB)": "#E1CA7A",
     "Red (RGB)": "88%",
     "Green (RGB)": "79%",
@@ -7504,6 +8107,7 @@
   },
   {
     "Name": "Princeton orange",
+    "searchKey": "princetonorange",
     "Hex (RGB)": "#F58025",
     "Red (RGB)": "96%",
     "Green (RGB)": "50%",
@@ -7516,6 +8120,7 @@
   },
   {
     "Name": "Process Cyan",
+    "searchKey": "processcyan",
     "Hex (RGB)": "#00B9F2",
     "Red (RGB)": "0%",
     "Green (RGB)": "73%",
@@ -7528,6 +8133,7 @@
   },
   {
     "Name": "Prune",
+    "searchKey": "prune",
     "Hex (RGB)": "#701C1C",
     "Red (RGB)": "44%",
     "Green (RGB)": "11%",
@@ -7540,6 +8146,7 @@
   },
   {
     "Name": "Prussian blue",
+    "searchKey": "prussianblue",
     "Hex (RGB)": "#003153",
     "Red (RGB)": "0%",
     "Green (RGB)": "19%",
@@ -7552,6 +8159,7 @@
   },
   {
     "Name": "Psychedelic purple",
+    "searchKey": "psychedelicpurple",
     "Hex (RGB)": "#DF00FF",
     "Red (RGB)": "87%",
     "Green (RGB)": "0%",
@@ -7564,6 +8172,7 @@
   },
   {
     "Name": "Puce",
+    "searchKey": "puce",
     "Hex (RGB)": "#CC8899",
     "Red (RGB)": "80%",
     "Green (RGB)": "53%",
@@ -7576,6 +8185,7 @@
   },
   {
     "Name": "Pullman Brown (UPS Brown)",
+    "searchKey": "pullmanbrown",
     "Hex (RGB)": "#644117",
     "Red (RGB)": "39%",
     "Green (RGB)": "25%",
@@ -7588,6 +8198,7 @@
   },
   {
     "Name": "Pumpkin",
+    "searchKey": "pumpkin",
     "Hex (RGB)": "#FF7518",
     "Red (RGB)": "100%",
     "Green (RGB)": "46%",
@@ -7600,6 +8211,7 @@
   },
   {
     "Name": "Purple",
+    "searchKey": "purple",
     "Hex (RGB)": "#6A0DAD",
     "Red (RGB)": "38%",
     "Green (RGB)": "0%",
@@ -7612,6 +8224,7 @@
   },
   {
     "Name": "Purple (web)",
+    "searchKey": "purple",
     "Hex (RGB)": "#800080",
     "Red (RGB)": "50%",
     "Green (RGB)": "0%",
@@ -7624,6 +8237,7 @@
   },
   {
     "Name": "Purple (Munsell)",
+    "searchKey": "purple",
     "Hex (RGB)": "#9F00C5",
     "Red (RGB)": "62%",
     "Green (RGB)": "0%",
@@ -7636,6 +8250,7 @@
   },
   {
     "Name": "Purple (X11)",
+    "searchKey": "purple",
     "Hex (RGB)": "#A020F0",
     "Red (RGB)": "63%",
     "Green (RGB)": "13%",
@@ -7648,6 +8263,7 @@
   },
   {
     "Name": "Purple mountain majesty",
+    "searchKey": "purplemountainmajesty",
     "Hex (RGB)": "#9678B6",
     "Red (RGB)": "59%",
     "Green (RGB)": "47%",
@@ -7660,6 +8276,7 @@
   },
   {
     "Name": "Purple navy",
+    "searchKey": "purplenavy",
     "Hex (RGB)": "#4E5180",
     "Red (RGB)": "31%",
     "Green (RGB)": "32%",
@@ -7672,6 +8289,7 @@
   },
   {
     "Name": "Purple pizzazz",
+    "searchKey": "purplepizzazz",
     "Hex (RGB)": "#FE4EDA",
     "Red (RGB)": "100%",
     "Green (RGB)": "31%",
@@ -7684,6 +8302,7 @@
   },
   {
     "Name": "Purple Plum",
+    "searchKey": "purpleplum",
     "Hex (RGB)": "#9C51B6",
     "Red (RGB)": "61%",
     "Green (RGB)": "32%",
@@ -7696,6 +8315,7 @@
   },
   {
     "Name": "Queen blue",
+    "searchKey": "queenblue",
     "Hex (RGB)": "#436B95",
     "Red (RGB)": "26%",
     "Green (RGB)": "42%",
@@ -7708,6 +8328,7 @@
   },
   {
     "Name": "Queen pink",
+    "searchKey": "queenpink",
     "Hex (RGB)": "#E8CCD7",
     "Red (RGB)": "91%",
     "Green (RGB)": "80%",
@@ -7720,6 +8341,7 @@
   },
   {
     "Name": "Quick Silver",
+    "searchKey": "quicksilver",
     "Hex (RGB)": "#A6A6A6",
     "Red (RGB)": "65%",
     "Green (RGB)": "65%",
@@ -7732,6 +8354,7 @@
   },
   {
     "Name": "Quinacridone magenta",
+    "searchKey": "quinacridonemagenta",
     "Hex (RGB)": "#8E3A59",
     "Red (RGB)": "56%",
     "Green (RGB)": "23%",
@@ -7744,6 +8367,7 @@
   },
   {
     "Name": "Radical Red",
+    "searchKey": "radicalred",
     "Hex (RGB)": "#FF355E",
     "Red (RGB)": "100%",
     "Green (RGB)": "21%",
@@ -7756,6 +8380,7 @@
   },
   {
     "Name": "Raisin black",
+    "searchKey": "raisinblack",
     "Hex (RGB)": "#242124",
     "Red (RGB)": "14%",
     "Green (RGB)": "13%",
@@ -7768,6 +8393,7 @@
   },
   {
     "Name": "Rajah",
+    "searchKey": "rajah",
     "Hex (RGB)": "#FBAB60",
     "Red (RGB)": "98%",
     "Green (RGB)": "67%",
@@ -7780,6 +8406,7 @@
   },
   {
     "Name": "Raspberry",
+    "searchKey": "raspberry",
     "Hex (RGB)": "#E30B5D",
     "Red (RGB)": "89%",
     "Green (RGB)": "4%",
@@ -7792,6 +8419,7 @@
   },
   {
     "Name": "Raspberry glacé",
+    "searchKey": "raspberryglacé",
     "Hex (RGB)": "#915F6D",
     "Red (RGB)": "57%",
     "Green (RGB)": "37%",
@@ -7804,6 +8432,7 @@
   },
   {
     "Name": "Raspberry rose",
+    "searchKey": "raspberryrose",
     "Hex (RGB)": "#B3446C",
     "Red (RGB)": "70%",
     "Green (RGB)": "27%",
@@ -7816,6 +8445,7 @@
   },
   {
     "Name": "Raw sienna",
+    "searchKey": "rawsienna",
     "Hex (RGB)": "#D68A59",
     "Red (RGB)": "84%",
     "Green (RGB)": "54%",
@@ -7828,6 +8458,7 @@
   },
   {
     "Name": "Raw umber",
+    "searchKey": "rawumber",
     "Hex (RGB)": "#826644",
     "Red (RGB)": "51%",
     "Green (RGB)": "40%",
@@ -7840,6 +8471,7 @@
   },
   {
     "Name": "Razzle dazzle rose",
+    "searchKey": "razzledazzlerose",
     "Hex (RGB)": "#FF33CC",
     "Red (RGB)": "100%",
     "Green (RGB)": "20%",
@@ -7852,6 +8484,7 @@
   },
   {
     "Name": "Razzmatazz",
+    "searchKey": "razzmatazz",
     "Hex (RGB)": "#E3256B",
     "Red (RGB)": "89%",
     "Green (RGB)": "15%",
@@ -7864,6 +8497,7 @@
   },
   {
     "Name": "Razzmic Berry",
+    "searchKey": "razzmicberry",
     "Hex (RGB)": "#8D4E85",
     "Red (RGB)": "55%",
     "Green (RGB)": "31%",
@@ -7876,6 +8510,7 @@
   },
   {
     "Name": "Rebecca Purple",
+    "searchKey": "rebeccapurple",
     "Hex (RGB)": "#663399",
     "Red (RGB)": "40%",
     "Green (RGB)": "20%",
@@ -7888,6 +8523,7 @@
   },
   {
     "Name": "Red",
+    "searchKey": "red",
     "Hex (RGB)": "#FF0000",
     "Red (RGB)": "100%",
     "Green (RGB)": "0%",
@@ -7900,6 +8536,7 @@
   },
   {
     "Name": "Red (Crayola)",
+    "searchKey": "red",
     "Hex (RGB)": "#EE204D",
     "Red (RGB)": "93%",
     "Green (RGB)": "13%",
@@ -7912,6 +8549,7 @@
   },
   {
     "Name": "Red (Munsell)",
+    "searchKey": "red",
     "Hex (RGB)": "#F2003C",
     "Red (RGB)": "95%",
     "Green (RGB)": "0%",
@@ -7924,6 +8562,7 @@
   },
   {
     "Name": "Red (NCS)",
+    "searchKey": "red",
     "Hex (RGB)": "#C40233",
     "Red (RGB)": "77%",
     "Green (RGB)": "1%",
@@ -7936,6 +8575,7 @@
   },
   {
     "Name": "Red (Pantone)",
+    "searchKey": "red",
     "Hex (RGB)": "#ED2939",
     "Red (RGB)": "93%",
     "Green (RGB)": "16%",
@@ -7948,6 +8588,7 @@
   },
   {
     "Name": "Red (pigment)",
+    "searchKey": "red",
     "Hex (RGB)": "#ED1C24",
     "Red (RGB)": "93%",
     "Green (RGB)": "11%",
@@ -7960,6 +8601,7 @@
   },
   {
     "Name": "Red (RYB)",
+    "searchKey": "red",
     "Hex (RGB)": "#FE2712",
     "Red (RGB)": "100%",
     "Green (RGB)": "15%",
@@ -7972,6 +8614,7 @@
   },
   {
     "Name": "Red-orange",
+    "searchKey": "redorange",
     "Hex (RGB)": "#FF5349",
     "Red (RGB)": "100%",
     "Green (RGB)": "33%",
@@ -7984,6 +8627,7 @@
   },
   {
     "Name": "Red ocher (Red ochre)",
+    "searchKey": "redocher",
     "Hex (RGB)": "#913831",
     "Red (RGB)": "57%",
     "Green (RGB)": "22%",
@@ -7996,6 +8640,7 @@
   },
   {
     "Name": "Red-orange (Crayola)",
+    "searchKey": "redorange",
     "Hex (RGB)": "#FF681F",
     "Red (RGB)": "100%",
     "Green (RGB)": "41%",
@@ -8008,6 +8653,7 @@
   },
   {
     "Name": "Red-orange (Color wheel)",
+    "searchKey": "redorange",
     "Hex (RGB)": "#FF4500",
     "Red (RGB)": "100%",
     "Green (RGB)": "27%",
@@ -8020,6 +8666,7 @@
   },
   {
     "Name": "Red-purple",
+    "searchKey": "redpurple",
     "Hex (RGB)": "#E40078",
     "Red (RGB)": "89%",
     "Green (RGB)": "0%",
@@ -8032,6 +8679,7 @@
   },
   {
     "Name": "Red Salsa",
+    "searchKey": "redsalsa",
     "Hex (RGB)": "#FD3A4A",
     "Red (RGB)": "99%",
     "Green (RGB)": "23%",
@@ -8044,6 +8692,7 @@
   },
   {
     "Name": "Red-violet",
+    "searchKey": "redviolet",
     "Hex (RGB)": "#C71585",
     "Red (RGB)": "78%",
     "Green (RGB)": "8%",
@@ -8056,6 +8705,7 @@
   },
   {
     "Name": "Red-violet (Crayola)",
+    "searchKey": "redviolet",
     "Hex (RGB)": "#C0448F",
     "Red (RGB)": "75%",
     "Green (RGB)": "27%",
@@ -8068,6 +8718,7 @@
   },
   {
     "Name": "Red-violet (Color wheel)",
+    "searchKey": "redviolet",
     "Hex (RGB)": "#922B3E",
     "Red (RGB)": "57%",
     "Green (RGB)": "17%",
@@ -8080,6 +8731,7 @@
   },
   {
     "Name": "Redwood",
+    "searchKey": "redwood",
     "Hex (RGB)": "#A45A52",
     "Red (RGB)": "64%",
     "Green (RGB)": "35%",
@@ -8092,6 +8744,7 @@
   },
   {
     "Name": "Resolution blue",
+    "searchKey": "resolutionblue",
     "Hex (RGB)": "#002387",
     "Red (RGB)": "0%",
     "Green (RGB)": "14%",
@@ -8104,6 +8757,7 @@
   },
   {
     "Name": "Rhythm",
+    "searchKey": "rhythm",
     "Hex (RGB)": "#777696",
     "Red (RGB)": "47%",
     "Green (RGB)": "46%",
@@ -8116,6 +8770,7 @@
   },
   {
     "Name": "Rich black",
+    "searchKey": "richblack",
     "Hex (RGB)": "#004040",
     "Red (RGB)": "0%",
     "Green (RGB)": "25%",
@@ -8128,6 +8783,7 @@
   },
   {
     "Name": "Rich black (FOGRA29)",
+    "searchKey": "richblack",
     "Hex (RGB)": "#010B13",
     "Red (RGB)": "0%",
     "Green (RGB)": "4%",
@@ -8140,6 +8796,7 @@
   },
   {
     "Name": "Rich black (FOGRA39)",
+    "searchKey": "richblack",
     "Hex (RGB)": "#010203",
     "Red (RGB)": "0%",
     "Green (RGB)": "1%",
@@ -8152,6 +8809,7 @@
   },
   {
     "Name": "Rifle green",
+    "searchKey": "riflegreen",
     "Hex (RGB)": "#444C38",
     "Red (RGB)": "27%",
     "Green (RGB)": "30%",
@@ -8164,6 +8822,7 @@
   },
   {
     "Name": "Robin egg blue",
+    "searchKey": "robineggblue",
     "Hex (RGB)": "#00CCCC",
     "Red (RGB)": "0%",
     "Green (RGB)": "80%",
@@ -8176,6 +8835,7 @@
   },
   {
     "Name": "Rocket metallic",
+    "searchKey": "rocketmetallic",
     "Hex (RGB)": "#8A7F80",
     "Red (RGB)": "54%",
     "Green (RGB)": "50%",
@@ -8188,6 +8848,7 @@
   },
   {
     "Name": "Rojo Spanish red",
+    "searchKey": "rojospanishred",
     "Hex (RGB)": "#A91101",
     "Red (RGB)": "66%",
     "Green (RGB)": "7%",
@@ -8200,6 +8861,7 @@
   },
   {
     "Name": "Roman silver",
+    "searchKey": "romansilver",
     "Hex (RGB)": "#838996",
     "Red (RGB)": "51%",
     "Green (RGB)": "54%",
@@ -8212,6 +8874,7 @@
   },
   {
     "Name": "Rose",
+    "searchKey": "rose",
     "Hex (RGB)": "#FF0080",
     "Red (RGB)": "100%",
     "Green (RGB)": "0%",
@@ -8224,6 +8887,7 @@
   },
   {
     "Name": "Rose bonbon",
+    "searchKey": "rosebonbon",
     "Hex (RGB)": "#F9429E",
     "Red (RGB)": "98%",
     "Green (RGB)": "26%",
@@ -8236,6 +8900,7 @@
   },
   {
     "Name": "Rose Dust",
+    "searchKey": "rosedust",
     "Hex (RGB)": "#9E5E6F",
     "Red (RGB)": "62%",
     "Green (RGB)": "37%",
@@ -8248,6 +8913,7 @@
   },
   {
     "Name": "Rose ebony",
+    "searchKey": "roseebony",
     "Hex (RGB)": "#674846",
     "Red (RGB)": "40%",
     "Green (RGB)": "28%",
@@ -8260,6 +8926,7 @@
   },
   {
     "Name": "Rose madder",
+    "searchKey": "rosemadder",
     "Hex (RGB)": "#E32636",
     "Red (RGB)": "89%",
     "Green (RGB)": "15%",
@@ -8272,6 +8939,7 @@
   },
   {
     "Name": "Rose pink",
+    "searchKey": "rosepink",
     "Hex (RGB)": "#FF66CC",
     "Red (RGB)": "100%",
     "Green (RGB)": "40%",
@@ -8284,6 +8952,7 @@
   },
   {
     "Name": "Rose Pompadour",
+    "searchKey": "rosepompadour",
     "Hex (RGB)": "#ED7A9B",
     "Red (RGB)": "93%",
     "Green (RGB)": "48%",
@@ -8296,6 +8965,7 @@
   },
   {
     "Name": "Rose red",
+    "searchKey": "rosered",
     "Hex (RGB)": "#C21E56",
     "Red (RGB)": "76%",
     "Green (RGB)": "12%",
@@ -8308,6 +8978,7 @@
   },
   {
     "Name": "Rose taupe",
+    "searchKey": "rosetaupe",
     "Hex (RGB)": "#905D5D",
     "Red (RGB)": "56%",
     "Green (RGB)": "36%",
@@ -8320,6 +8991,7 @@
   },
   {
     "Name": "Rose vale",
+    "searchKey": "rosevale",
     "Hex (RGB)": "#AB4E52",
     "Red (RGB)": "67%",
     "Green (RGB)": "31%",
@@ -8332,6 +9004,7 @@
   },
   {
     "Name": "Rosewood",
+    "searchKey": "rosewood",
     "Hex (RGB)": "#65000B",
     "Red (RGB)": "40%",
     "Green (RGB)": "0%",
@@ -8344,6 +9017,7 @@
   },
   {
     "Name": "Rosso corsa",
+    "searchKey": "rossocorsa",
     "Hex (RGB)": "#D40000",
     "Red (RGB)": "83%",
     "Green (RGB)": "0%",
@@ -8356,6 +9030,7 @@
   },
   {
     "Name": "Rosy brown",
+    "searchKey": "rosybrown",
     "Hex (RGB)": "#BC8F8F",
     "Red (RGB)": "74%",
     "Green (RGB)": "56%",
@@ -8368,6 +9043,7 @@
   },
   {
     "Name": "Royal blue (dark)",
+    "searchKey": "royalblue",
     "Hex (RGB)": "#002366",
     "Red (RGB)": "0%",
     "Green (RGB)": "14%",
@@ -8380,6 +9056,7 @@
   },
   {
     "Name": "Royal blue (light)",
+    "searchKey": "royalblue",
     "Hex (RGB)": "#4169E1",
     "Red (RGB)": "25%",
     "Green (RGB)": "41%",
@@ -8392,6 +9069,7 @@
   },
   {
     "Name": "Royal purple",
+    "searchKey": "royalpurple",
     "Hex (RGB)": "#7851A9",
     "Red (RGB)": "47%",
     "Green (RGB)": "32%",
@@ -8404,6 +9082,7 @@
   },
   {
     "Name": "Royal yellow",
+    "searchKey": "royalyellow",
     "Hex (RGB)": "#FADA5E",
     "Red (RGB)": "98%",
     "Green (RGB)": "85%",
@@ -8416,6 +9095,7 @@
   },
   {
     "Name": "Ruber",
+    "searchKey": "ruber",
     "Hex (RGB)": "#CE4676",
     "Red (RGB)": "81%",
     "Green (RGB)": "27%",
@@ -8428,6 +9108,7 @@
   },
   {
     "Name": "Rubine red",
+    "searchKey": "rubinered",
     "Hex (RGB)": "#D10056",
     "Red (RGB)": "82%",
     "Green (RGB)": "0%",
@@ -8440,6 +9121,7 @@
   },
   {
     "Name": "Ruby",
+    "searchKey": "ruby",
     "Hex (RGB)": "#E0115F",
     "Red (RGB)": "88%",
     "Green (RGB)": "7%",
@@ -8452,6 +9134,7 @@
   },
   {
     "Name": "Ruby red",
+    "searchKey": "rubyred",
     "Hex (RGB)": "#9B111E",
     "Red (RGB)": "61%",
     "Green (RGB)": "7%",
@@ -8464,6 +9147,7 @@
   },
   {
     "Name": "Rufous",
+    "searchKey": "rufous",
     "Hex (RGB)": "#A81C07",
     "Red (RGB)": "66%",
     "Green (RGB)": "11%",
@@ -8476,6 +9160,7 @@
   },
   {
     "Name": "Russet",
+    "searchKey": "russet",
     "Hex (RGB)": "#80461B",
     "Red (RGB)": "50%",
     "Green (RGB)": "27%",
@@ -8488,6 +9173,7 @@
   },
   {
     "Name": "Russian green",
+    "searchKey": "russiangreen",
     "Hex (RGB)": "#679267",
     "Red (RGB)": "40%",
     "Green (RGB)": "57%",
@@ -8500,6 +9186,7 @@
   },
   {
     "Name": "Russian violet",
+    "searchKey": "russianviolet",
     "Hex (RGB)": "#32174D",
     "Red (RGB)": "20%",
     "Green (RGB)": "9%",
@@ -8512,6 +9199,7 @@
   },
   {
     "Name": "Rust",
+    "searchKey": "rust",
     "Hex (RGB)": "#B7410E",
     "Red (RGB)": "72%",
     "Green (RGB)": "25%",
@@ -8524,6 +9212,7 @@
   },
   {
     "Name": "Rusty red",
+    "searchKey": "rustyred",
     "Hex (RGB)": "#DA2C43",
     "Red (RGB)": "85%",
     "Green (RGB)": "17%",
@@ -8536,6 +9225,7 @@
   },
   {
     "Name": "Sacramento State green",
+    "searchKey": "sacramentostategreen",
     "Hex (RGB)": "#043927",
     "Red (RGB)": "2%",
     "Green (RGB)": "22%",
@@ -8548,6 +9238,7 @@
   },
   {
     "Name": "Saddle brown",
+    "searchKey": "saddlebrown",
     "Hex (RGB)": "#8B4513",
     "Red (RGB)": "55%",
     "Green (RGB)": "27%",
@@ -8560,6 +9251,7 @@
   },
   {
     "Name": "Safety orange",
+    "searchKey": "safetyorange",
     "Hex (RGB)": "#FF7800",
     "Red (RGB)": "100%",
     "Green (RGB)": "47%",
@@ -8572,6 +9264,7 @@
   },
   {
     "Name": "Safety orange (blaze orange)",
+    "searchKey": "safetyorange",
     "Hex (RGB)": "#FF6700",
     "Red (RGB)": "100%",
     "Green (RGB)": "40%",
@@ -8584,6 +9277,7 @@
   },
   {
     "Name": "Safety yellow",
+    "searchKey": "safetyyellow",
     "Hex (RGB)": "#EED202",
     "Red (RGB)": "93%",
     "Green (RGB)": "82%",
@@ -8596,6 +9290,7 @@
   },
   {
     "Name": "Saffron",
+    "searchKey": "saffron",
     "Hex (RGB)": "#F4C430",
     "Red (RGB)": "96%",
     "Green (RGB)": "77%",
@@ -8608,6 +9303,7 @@
   },
   {
     "Name": "Sage",
+    "searchKey": "sage",
     "Hex (RGB)": "#BCB88A",
     "Red (RGB)": "74%",
     "Green (RGB)": "72%",
@@ -8620,6 +9316,7 @@
   },
   {
     "Name": "St. Patrick's blue",
+    "searchKey": "st.patricksblue",
     "Hex (RGB)": "#23297A",
     "Red (RGB)": "14%",
     "Green (RGB)": "16%",
@@ -8632,6 +9329,7 @@
   },
   {
     "Name": "Salmon",
+    "searchKey": "salmon",
     "Hex (RGB)": "#FA8072",
     "Red (RGB)": "98%",
     "Green (RGB)": "50%",
@@ -8644,6 +9342,7 @@
   },
   {
     "Name": "Salmon pink",
+    "searchKey": "salmonpink",
     "Hex (RGB)": "#FF91A4",
     "Red (RGB)": "100%",
     "Green (RGB)": "57%",
@@ -8656,6 +9355,7 @@
   },
   {
     "Name": "Sand",
+    "searchKey": "sand",
     "Hex (RGB)": "#C2B280",
     "Red (RGB)": "76%",
     "Green (RGB)": "70%",
@@ -8668,6 +9368,7 @@
   },
   {
     "Name": "Sand dune",
+    "searchKey": "sanddune",
     "Hex (RGB)": "#967117",
     "Red (RGB)": "59%",
     "Green (RGB)": "44%",
@@ -8680,6 +9381,7 @@
   },
   {
     "Name": "Sandy brown",
+    "searchKey": "sandybrown",
     "Hex (RGB)": "#F4A460",
     "Red (RGB)": "96%",
     "Green (RGB)": "64%",
@@ -8692,6 +9394,7 @@
   },
   {
     "Name": "Sap green",
+    "searchKey": "sapgreen",
     "Hex (RGB)": "#507D2A",
     "Red (RGB)": "31%",
     "Green (RGB)": "49%",
@@ -8704,6 +9407,7 @@
   },
   {
     "Name": "Sapphire",
+    "searchKey": "sapphire",
     "Hex (RGB)": "#0F52BA",
     "Red (RGB)": "6%",
     "Green (RGB)": "32%",
@@ -8716,6 +9420,7 @@
   },
   {
     "Name": "Sapphire blue",
+    "searchKey": "sapphireblue",
     "Hex (RGB)": "#0067A5",
     "Red (RGB)": "0%",
     "Green (RGB)": "40%",
@@ -8728,6 +9433,7 @@
   },
   {
     "Name": "Sapphire (Crayola)",
+    "searchKey": "sapphire",
     "Hex (RGB)": "#2D5DA1",
     "Red (RGB)": "18%",
     "Green (RGB)": "36%",
@@ -8740,6 +9446,7 @@
   },
   {
     "Name": "Satin sheen gold",
+    "searchKey": "satinsheengold",
     "Hex (RGB)": "#CBA135",
     "Red (RGB)": "80%",
     "Green (RGB)": "63%",
@@ -8752,6 +9459,7 @@
   },
   {
     "Name": "Scarlet",
+    "searchKey": "scarlet",
     "Hex (RGB)": "#FF2400",
     "Red (RGB)": "100%",
     "Green (RGB)": "14%",
@@ -8764,6 +9472,7 @@
   },
   {
     "Name": "Schauss pink",
+    "searchKey": "schausspink",
     "Hex (RGB)": "#FF91AF",
     "Red (RGB)": "100%",
     "Green (RGB)": "57%",
@@ -8776,6 +9485,7 @@
   },
   {
     "Name": "School bus yellow",
+    "searchKey": "schoolbusyellow",
     "Hex (RGB)": "#FFD800",
     "Red (RGB)": "100%",
     "Green (RGB)": "85%",
@@ -8788,6 +9498,7 @@
   },
   {
     "Name": "Screamin' Green",
+    "searchKey": "screamingreen",
     "Hex (RGB)": "#66FF66",
     "Red (RGB)": "40%",
     "Green (RGB)": "100%",
@@ -8800,6 +9511,7 @@
   },
   {
     "Name": "Sea green",
+    "searchKey": "seagreen",
     "Hex (RGB)": "#2E8B57",
     "Red (RGB)": "18%",
     "Green (RGB)": "55%",
@@ -8812,6 +9524,7 @@
   },
   {
     "Name": "Sea green (Crayola)",
+    "searchKey": "seagreen",
     "Hex (RGB)": "#00FFCD",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -8824,6 +9537,7 @@
   },
   {
     "Name": "Seance",
+    "searchKey": "seance",
     "Hex (RGB)": "#612086",
     "Red (RGB)": "38%",
     "Green (RGB)": "13%",
@@ -8836,6 +9550,7 @@
   },
   {
     "Name": "Seal brown",
+    "searchKey": "sealbrown",
     "Hex (RGB)": "#59260B",
     "Red (RGB)": "20%",
     "Green (RGB)": "8%",
@@ -8848,6 +9563,7 @@
   },
   {
     "Name": "Seashell",
+    "searchKey": "seashell",
     "Hex (RGB)": "#FFF5EE",
     "Red (RGB)": "100%",
     "Green (RGB)": "96%",
@@ -8860,6 +9576,7 @@
   },
   {
     "Name": "Secret",
+    "searchKey": "secret",
     "Hex (RGB)": "#764374",
     "Red (RGB)": "46%",
     "Green (RGB)": "26%",
@@ -8872,6 +9589,7 @@
   },
   {
     "Name": "Selective yellow",
+    "searchKey": "selectiveyellow",
     "Hex (RGB)": "#FFBA00",
     "Red (RGB)": "100%",
     "Green (RGB)": "73%",
@@ -8884,6 +9602,7 @@
   },
   {
     "Name": "Sepia",
+    "searchKey": "sepia",
     "Hex (RGB)": "#704214",
     "Red (RGB)": "44%",
     "Green (RGB)": "26%",
@@ -8896,6 +9615,7 @@
   },
   {
     "Name": "Shadow",
+    "searchKey": "shadow",
     "Hex (RGB)": "#8A795D",
     "Red (RGB)": "54%",
     "Green (RGB)": "47%",
@@ -8908,6 +9628,7 @@
   },
   {
     "Name": "Shadow blue",
+    "searchKey": "shadowblue",
     "Hex (RGB)": "#778BA5",
     "Red (RGB)": "47%",
     "Green (RGB)": "55%",
@@ -8920,6 +9641,7 @@
   },
   {
     "Name": "Shamrock green",
+    "searchKey": "shamrockgreen",
     "Hex (RGB)": "#009E60",
     "Red (RGB)": "0%",
     "Green (RGB)": "62%",
@@ -8932,6 +9654,7 @@
   },
   {
     "Name": "Sheen green",
+    "searchKey": "sheengreen",
     "Hex (RGB)": "#8FD400",
     "Red (RGB)": "56%",
     "Green (RGB)": "83%",
@@ -8944,6 +9667,7 @@
   },
   {
     "Name": "Shimmering Blush",
+    "searchKey": "shimmeringblush",
     "Hex (RGB)": "#D98695",
     "Red (RGB)": "85%",
     "Green (RGB)": "53%",
@@ -8956,6 +9680,7 @@
   },
   {
     "Name": "Shiny Shamrock",
+    "searchKey": "shinyshamrock",
     "Hex (RGB)": "#5FA778",
     "Red (RGB)": "37%",
     "Green (RGB)": "65%",
@@ -8968,6 +9693,7 @@
   },
   {
     "Name": "Shocking pink",
+    "searchKey": "shockingpink",
     "Hex (RGB)": "#FC0FC0",
     "Red (RGB)": "99%",
     "Green (RGB)": "6%",
@@ -8980,6 +9706,7 @@
   },
   {
     "Name": "Shocking pink (Crayola)",
+    "searchKey": "shockingpink",
     "Hex (RGB)": "#FF6FFF",
     "Red (RGB)": "100%",
     "Green (RGB)": "44%",
@@ -8992,6 +9719,7 @@
   },
   {
     "Name": "Sienna",
+    "searchKey": "sienna",
     "Hex (RGB)": "#882D17",
     "Red (RGB)": "53%",
     "Green (RGB)": "18%",
@@ -9004,6 +9732,7 @@
   },
   {
     "Name": "Silver",
+    "searchKey": "silver",
     "Hex (RGB)": "#C0C0C0",
     "Red (RGB)": "75%",
     "Green (RGB)": "75%",
@@ -9016,6 +9745,7 @@
   },
   {
     "Name": "Silver (Crayola)",
+    "searchKey": "silver",
     "Hex (RGB)": "#C9C0BB",
     "Red (RGB)": "79%",
     "Green (RGB)": "75%",
@@ -9028,6 +9758,7 @@
   },
   {
     "Name": "Silver (Metallic)",
+    "searchKey": "silver",
     "Hex (RGB)": "#AAA9AD",
     "Red (RGB)": "67%",
     "Green (RGB)": "66%",
@@ -9040,6 +9771,7 @@
   },
   {
     "Name": "Silver chalice",
+    "searchKey": "silverchalice",
     "Hex (RGB)": "#ACACAC",
     "Red (RGB)": "67%",
     "Green (RGB)": "67%",
@@ -9052,6 +9784,7 @@
   },
   {
     "Name": "Silver pink",
+    "searchKey": "silverpink",
     "Hex (RGB)": "#C4AEAD",
     "Red (RGB)": "77%",
     "Green (RGB)": "68%",
@@ -9064,6 +9797,7 @@
   },
   {
     "Name": "Silver sand",
+    "searchKey": "silversand",
     "Hex (RGB)": "#BFC1C2",
     "Red (RGB)": "75%",
     "Green (RGB)": "76%",
@@ -9076,6 +9810,7 @@
   },
   {
     "Name": "Sinopia",
+    "searchKey": "sinopia",
     "Hex (RGB)": "#CB410B",
     "Red (RGB)": "80%",
     "Green (RGB)": "25%",
@@ -9088,6 +9823,7 @@
   },
   {
     "Name": "Sizzling Red",
+    "searchKey": "sizzlingred",
     "Hex (RGB)": "#FF3855",
     "Red (RGB)": "100%",
     "Green (RGB)": "22%",
@@ -9100,6 +9836,7 @@
   },
   {
     "Name": "Sizzling Sunrise",
+    "searchKey": "sizzlingsunrise",
     "Hex (RGB)": "#FFDB00",
     "Red (RGB)": "100%",
     "Green (RGB)": "86%",
@@ -9112,6 +9849,7 @@
   },
   {
     "Name": "Skobeloff",
+    "searchKey": "skobeloff",
     "Hex (RGB)": "#007474",
     "Red (RGB)": "0%",
     "Green (RGB)": "45%",
@@ -9124,6 +9862,7 @@
   },
   {
     "Name": "Skin color",
+    "searchKey": "skincolor",
     "Hex (RGB)": "#FFDEAD",
     "Red (RGB)": "100%",
     "Green (RGB)": "87%",
@@ -9136,6 +9875,7 @@
   },
   {
     "Name": "Sky blue",
+    "searchKey": "skyblue",
     "Hex (RGB)": "#87CEEB",
     "Red (RGB)": "53%",
     "Green (RGB)": "81%",
@@ -9148,6 +9888,7 @@
   },
   {
     "Name": "Sky blue (Crayola)",
+    "searchKey": "skyblue",
     "Hex (RGB)": "#76D7EA",
     "Red (RGB)": "46%",
     "Green (RGB)": "84%",
@@ -9160,6 +9901,7 @@
   },
   {
     "Name": "Sky magenta",
+    "searchKey": "skymagenta",
     "Hex (RGB)": "#CF71AF",
     "Red (RGB)": "81%",
     "Green (RGB)": "44%",
@@ -9172,6 +9914,7 @@
   },
   {
     "Name": "Slate blue",
+    "searchKey": "slateblue",
     "Hex (RGB)": "#6A5ACD",
     "Red (RGB)": "42%",
     "Green (RGB)": "35%",
@@ -9184,6 +9927,7 @@
   },
   {
     "Name": "Slate gray",
+    "searchKey": "slategray",
     "Hex (RGB)": "#708090",
     "Red (RGB)": "44%",
     "Green (RGB)": "50%",
@@ -9196,6 +9940,7 @@
   },
   {
     "Name": "Slimy green",
+    "searchKey": "slimygreen",
     "Hex (RGB)": "#299617",
     "Red (RGB)": "16%",
     "Green (RGB)": "59%",
@@ -9208,6 +9953,7 @@
   },
   {
     "Name": "Smitten",
+    "searchKey": "smitten",
     "Hex (RGB)": "#C84186",
     "Red (RGB)": "78%",
     "Green (RGB)": "25%",
@@ -9220,6 +9966,7 @@
   },
   {
     "Name": "Smoky black",
+    "searchKey": "smokyblack",
     "Hex (RGB)": "#100C08",
     "Red (RGB)": "6%",
     "Green (RGB)": "5%",
@@ -9232,6 +9979,7 @@
   },
   {
     "Name": "Snow",
+    "searchKey": "snow",
     "Hex (RGB)": "#FFFAFA",
     "Red (RGB)": "100%",
     "Green (RGB)": "98%",
@@ -9244,6 +9992,7 @@
   },
   {
     "Name": "Solid pink",
+    "searchKey": "solidpink",
     "Hex (RGB)": "#893843",
     "Red (RGB)": "54%",
     "Green (RGB)": "22%",
@@ -9256,6 +10005,7 @@
   },
   {
     "Name": "Sonic silver",
+    "searchKey": "sonicsilver",
     "Hex (RGB)": "#757575",
     "Red (RGB)": "46%",
     "Green (RGB)": "46%",
@@ -9268,6 +10018,7 @@
   },
   {
     "Name": "Space cadet",
+    "searchKey": "spacecadet",
     "Hex (RGB)": "#1D2951",
     "Red (RGB)": "11%",
     "Green (RGB)": "16%",
@@ -9280,6 +10031,7 @@
   },
   {
     "Name": "Spanish bistre",
+    "searchKey": "spanishbistre",
     "Hex (RGB)": "#807532",
     "Red (RGB)": "50%",
     "Green (RGB)": "46%",
@@ -9292,6 +10044,7 @@
   },
   {
     "Name": "Spanish blue",
+    "searchKey": "spanishblue",
     "Hex (RGB)": "#0070B8",
     "Red (RGB)": "0%",
     "Green (RGB)": "44%",
@@ -9304,6 +10057,7 @@
   },
   {
     "Name": "Spanish carmine",
+    "searchKey": "spanishcarmine",
     "Hex (RGB)": "#D10047",
     "Red (RGB)": "82%",
     "Green (RGB)": "0%",
@@ -9316,6 +10070,7 @@
   },
   {
     "Name": "Spanish gray",
+    "searchKey": "spanishgray",
     "Hex (RGB)": "#989898",
     "Red (RGB)": "60%",
     "Green (RGB)": "60%",
@@ -9328,6 +10083,7 @@
   },
   {
     "Name": "Spanish green",
+    "searchKey": "spanishgreen",
     "Hex (RGB)": "#009150",
     "Red (RGB)": "0%",
     "Green (RGB)": "57%",
@@ -9340,6 +10096,7 @@
   },
   {
     "Name": "Spanish orange",
+    "searchKey": "spanishorange",
     "Hex (RGB)": "#E86100",
     "Red (RGB)": "91%",
     "Green (RGB)": "38%",
@@ -9352,6 +10109,7 @@
   },
   {
     "Name": "Spanish pink",
+    "searchKey": "spanishpink",
     "Hex (RGB)": "#F7BFBE",
     "Red (RGB)": "97%",
     "Green (RGB)": "75%",
@@ -9364,6 +10122,7 @@
   },
   {
     "Name": "Spanish red",
+    "searchKey": "spanishred",
     "Hex (RGB)": "#E60026",
     "Red (RGB)": "90%",
     "Green (RGB)": "0%",
@@ -9376,6 +10135,7 @@
   },
   {
     "Name": "Spanish sky blue",
+    "searchKey": "spanishskyblue",
     "Hex (RGB)": "#00FFFE",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -9388,6 +10148,7 @@
   },
   {
     "Name": "Spanish violet",
+    "searchKey": "spanishviolet",
     "Hex (RGB)": "#4C2882",
     "Red (RGB)": "30%",
     "Green (RGB)": "16%",
@@ -9400,6 +10161,7 @@
   },
   {
     "Name": "Spanish viridian",
+    "searchKey": "spanishviridian",
     "Hex (RGB)": "#007F5C",
     "Red (RGB)": "0%",
     "Green (RGB)": "50%",
@@ -9412,6 +10174,7 @@
   },
   {
     "Name": "Spring bud",
+    "searchKey": "springbud",
     "Hex (RGB)": "#A7FC00",
     "Red (RGB)": "65%",
     "Green (RGB)": "99%",
@@ -9424,6 +10187,7 @@
   },
   {
     "Name": "Spring Frost",
+    "searchKey": "springfrost",
     "Hex (RGB)": "#87FF2A",
     "Red (RGB)": "53%",
     "Green (RGB)": "100%",
@@ -9436,6 +10200,7 @@
   },
   {
     "Name": "Spring green",
+    "searchKey": "springgreen",
     "Hex (RGB)": "#00FF80",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -9448,6 +10213,7 @@
   },
   {
     "Name": "Spring green (Crayola)",
+    "searchKey": "springgreen",
     "Hex (RGB)": "#ECEBBD",
     "Red (RGB)": "93%",
     "Green (RGB)": "92%",
@@ -9460,6 +10226,7 @@
   },
   {
     "Name": "Star command blue",
+    "searchKey": "starcommandblue",
     "Hex (RGB)": "#007BB8",
     "Red (RGB)": "0%",
     "Green (RGB)": "48%",
@@ -9472,6 +10239,7 @@
   },
   {
     "Name": "Steel blue",
+    "searchKey": "steelblue",
     "Hex (RGB)": "#4682B4",
     "Red (RGB)": "27%",
     "Green (RGB)": "51%",
@@ -9484,6 +10252,7 @@
   },
   {
     "Name": "Steel pink",
+    "searchKey": "steelpink",
     "Hex (RGB)": "#CC33CC",
     "Red (RGB)": "80%",
     "Green (RGB)": "20%",
@@ -9496,6 +10265,7 @@
   },
   {
     "Name": "Stil de grain yellow",
+    "searchKey": "stildegrainyellow",
     "Hex (RGB)": "#FADA5E",
     "Red (RGB)": "98%",
     "Green (RGB)": "85%",
@@ -9508,6 +10278,7 @@
   },
   {
     "Name": "Straw",
+    "searchKey": "straw",
     "Hex (RGB)": "#E4D96F",
     "Red (RGB)": "89%",
     "Green (RGB)": "85%",
@@ -9520,6 +10291,7 @@
   },
   {
     "Name": "Strawberry",
+    "searchKey": "strawberry",
     "Hex (RGB)": "#FA5053",
     "Red (RGB)": "98%",
     "Green (RGB)": "31%",
@@ -9532,6 +10304,7 @@
   },
   {
     "Name": "Strawberry Blonde",
+    "searchKey": "strawberryblonde",
     "Hex (RGB)": "#FF9361",
     "Red (RGB)": "100%",
     "Green (RGB)": "58%",
@@ -9544,6 +10317,7 @@
   },
   {
     "Name": "Strong Lime Green",
+    "searchKey": "stronglimegreen",
     "Hex (RGB)": "#33CC33",
     "Red (RGB)": "20%",
     "Green (RGB)": "80%",
@@ -9556,6 +10330,7 @@
   },
   {
     "Name": "Sugar Plum",
+    "searchKey": "sugarplum",
     "Hex (RGB)": "#914E75",
     "Red (RGB)": "57%",
     "Green (RGB)": "31%",
@@ -9568,6 +10343,7 @@
   },
   {
     "Name": "Sunglow",
+    "searchKey": "sunglow",
     "Hex (RGB)": "#FFCC33",
     "Red (RGB)": "100%",
     "Green (RGB)": "80%",
@@ -9580,6 +10356,7 @@
   },
   {
     "Name": "Sunray",
+    "searchKey": "sunray",
     "Hex (RGB)": "#E3AB57",
     "Red (RGB)": "89%",
     "Green (RGB)": "67%",
@@ -9592,6 +10369,7 @@
   },
   {
     "Name": "Sunset",
+    "searchKey": "sunset",
     "Hex (RGB)": "#FAD6A5",
     "Red (RGB)": "98%",
     "Green (RGB)": "84%",
@@ -9604,6 +10382,7 @@
   },
   {
     "Name": "Super pink",
+    "searchKey": "superpink",
     "Hex (RGB)": "#CF6BA9",
     "Red (RGB)": "81%",
     "Green (RGB)": "42%",
@@ -9616,6 +10395,7 @@
   },
   {
     "Name": "Sweet Brown",
+    "searchKey": "sweetbrown",
     "Hex (RGB)": "#A83731",
     "Red (RGB)": "66%",
     "Green (RGB)": "22%",
@@ -9628,6 +10408,7 @@
   },
   {
     "Name": "Syracuse Orange",
+    "searchKey": "syracuseorange",
     "Hex (RGB)": "#D44500",
     "Red (RGB)": "83%",
     "Green (RGB)": "27%",
@@ -9640,6 +10421,7 @@
   },
   {
     "Name": "Tan",
+    "searchKey": "tan",
     "Hex (RGB)": "#D2B48C",
     "Red (RGB)": "82%",
     "Green (RGB)": "71%",
@@ -9652,6 +10434,7 @@
   },
   {
     "Name": "Tan (Crayola)",
+    "searchKey": "tan",
     "Hex (RGB)": "#D99A6C",
     "Red (RGB)": "85%",
     "Green (RGB)": "60%",
@@ -9664,6 +10447,7 @@
   },
   {
     "Name": "Tangerine",
+    "searchKey": "tangerine",
     "Hex (RGB)": "#F28500",
     "Red (RGB)": "95%",
     "Green (RGB)": "52%",
@@ -9676,6 +10460,7 @@
   },
   {
     "Name": "Tango pink",
+    "searchKey": "tangopink",
     "Hex (RGB)": "#E4717A",
     "Red (RGB)": "89%",
     "Green (RGB)": "44%",
@@ -9688,6 +10473,7 @@
   },
   {
     "Name": "Tart Orange",
+    "searchKey": "tartorange",
     "Hex (RGB)": "#FB4D46",
     "Red (RGB)": "98%",
     "Green (RGB)": "30%",
@@ -9700,6 +10486,7 @@
   },
   {
     "Name": "Taupe",
+    "searchKey": "taupe",
     "Hex (RGB)": "#483C32",
     "Red (RGB)": "28%",
     "Green (RGB)": "24%",
@@ -9712,6 +10499,7 @@
   },
   {
     "Name": "Taupe gray",
+    "searchKey": "taupegray",
     "Hex (RGB)": "#8B8589",
     "Red (RGB)": "55%",
     "Green (RGB)": "52%",
@@ -9724,6 +10512,7 @@
   },
   {
     "Name": "Tea green",
+    "searchKey": "teagreen",
     "Hex (RGB)": "#D0F0C0",
     "Red (RGB)": "82%",
     "Green (RGB)": "94%",
@@ -9736,6 +10525,7 @@
   },
   {
     "Name": "Tea rose",
+    "searchKey": "tearose",
     "Hex (RGB)": "#F4C2C2",
     "Red (RGB)": "96%",
     "Green (RGB)": "76%",
@@ -9748,6 +10538,7 @@
   },
   {
     "Name": "Teal",
+    "searchKey": "teal",
     "Hex (RGB)": "#008080",
     "Red (RGB)": "0%",
     "Green (RGB)": "50%",
@@ -9760,6 +10551,7 @@
   },
   {
     "Name": "Teal blue",
+    "searchKey": "tealblue",
     "Hex (RGB)": "#367588",
     "Red (RGB)": "21%",
     "Green (RGB)": "46%",
@@ -9772,6 +10564,7 @@
   },
   {
     "Name": "Technobotanica",
+    "searchKey": "technobotanica",
     "Hex (RGB)": "#00FFBF",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -9784,6 +10577,7 @@
   },
   {
     "Name": "Telemagenta",
+    "searchKey": "telemagenta",
     "Hex (RGB)": "#CF3476",
     "Red (RGB)": "81%",
     "Green (RGB)": "20%",
@@ -9796,6 +10590,7 @@
   },
   {
     "Name": "Tenné (tawny)",
+    "searchKey": "tenné",
     "Hex (RGB)": "#CD5700",
     "Red (RGB)": "80%",
     "Green (RGB)": "34%",
@@ -9808,6 +10603,7 @@
   },
   {
     "Name": "Terra cotta",
+    "searchKey": "terracotta",
     "Hex (RGB)": "#E2725B",
     "Red (RGB)": "89%",
     "Green (RGB)": "45%",
@@ -9820,6 +10616,7 @@
   },
   {
     "Name": "Thistle",
+    "searchKey": "thistle",
     "Hex (RGB)": "#D8BFD8",
     "Red (RGB)": "85%",
     "Green (RGB)": "75%",
@@ -9832,6 +10629,7 @@
   },
   {
     "Name": "Thulian pink",
+    "searchKey": "thulianpink",
     "Hex (RGB)": "#DE6FA1",
     "Red (RGB)": "87%",
     "Green (RGB)": "44%",
@@ -9844,6 +10642,7 @@
   },
   {
     "Name": "Tickle Me Pink",
+    "searchKey": "ticklemepink",
     "Hex (RGB)": "#FC89AC",
     "Red (RGB)": "99%",
     "Green (RGB)": "54%",
@@ -9856,6 +10655,7 @@
   },
   {
     "Name": "Tiffany Blue",
+    "searchKey": "tiffanyblue",
     "Hex (RGB)": "#0ABAB5",
     "Red (RGB)": "4%",
     "Green (RGB)": "73%",
@@ -9868,6 +10668,7 @@
   },
   {
     "Name": "Timberwolf",
+    "searchKey": "timberwolf",
     "Hex (RGB)": "#DBD7D2",
     "Red (RGB)": "86%",
     "Green (RGB)": "84%",
@@ -9880,6 +10681,7 @@
   },
   {
     "Name": "Titanium yellow",
+    "searchKey": "titaniumyellow",
     "Hex (RGB)": "#EEE600",
     "Red (RGB)": "93%",
     "Green (RGB)": "90%",
@@ -9892,6 +10694,7 @@
   },
   {
     "Name": "Tomato",
+    "searchKey": "tomato",
     "Hex (RGB)": "#FF6347",
     "Red (RGB)": "100%",
     "Green (RGB)": "39%",
@@ -9904,6 +10707,7 @@
   },
   {
     "Name": "Tourmaline",
+    "searchKey": "tourmaline",
     "Hex (RGB)": "#86A1A9",
     "Red (RGB)": "53%",
     "Green (RGB)": "63%",
@@ -9916,6 +10720,7 @@
   },
   {
     "Name": "Tropical rainforest",
+    "searchKey": "tropicalrainforest",
     "Hex (RGB)": "#00755E",
     "Red (RGB)": "0%",
     "Green (RGB)": "46%",
@@ -9928,6 +10733,7 @@
   },
   {
     "Name": "True Blue",
+    "searchKey": "trueblue",
     "Hex (RGB)": "#2D68C4",
     "Red (RGB)": "0%",
     "Green (RGB)": "45%",
@@ -9940,6 +10746,7 @@
   },
   {
     "Name": "Trypan Blue",
+    "searchKey": "trypanblue",
     "Hex (RGB)": "#1C05B3",
     "Red (RGB)": "11%",
     "Green (RGB)": "2%",
@@ -9952,6 +10759,7 @@
   },
   {
     "Name": "Tufts blue",
+    "searchKey": "tuftsblue",
     "Hex (RGB)": "#3E8EDE",
     "Red (RGB)": "24%",
     "Green (RGB)": "56%",
@@ -9964,6 +10772,7 @@
   },
   {
     "Name": "Tumbleweed",
+    "searchKey": "tumbleweed",
     "Hex (RGB)": "#DEAA88",
     "Red (RGB)": "87%",
     "Green (RGB)": "67%",
@@ -9976,6 +10785,7 @@
   },
   {
     "Name": "Turquoise",
+    "searchKey": "turquoise",
     "Hex (RGB)": "#40E0D0",
     "Red (RGB)": "25%",
     "Green (RGB)": "88%",
@@ -9988,6 +10798,7 @@
   },
   {
     "Name": "Turquoise blue",
+    "searchKey": "turquoiseblue",
     "Hex (RGB)": "#00FFEF",
     "Red (RGB)": "0%",
     "Green (RGB)": "100%",
@@ -10000,6 +10811,7 @@
   },
   {
     "Name": "Turquoise green",
+    "searchKey": "turquoisegreen",
     "Hex (RGB)": "#A0D6B4",
     "Red (RGB)": "63%",
     "Green (RGB)": "84%",
@@ -10012,6 +10824,7 @@
   },
   {
     "Name": "Turtle green",
+    "searchKey": "turtlegreen",
     "Hex (RGB)": "#8A9A5B",
     "Red (RGB)": "54%",
     "Green (RGB)": "60%",
@@ -10024,6 +10837,7 @@
   },
   {
     "Name": "Tuscan",
+    "searchKey": "tuscan",
     "Hex (RGB)": "#FAD6A5",
     "Red (RGB)": "98%",
     "Green (RGB)": "84%",
@@ -10036,6 +10850,7 @@
   },
   {
     "Name": "Tuscan brown",
+    "searchKey": "tuscanbrown",
     "Hex (RGB)": "#6F4E37",
     "Red (RGB)": "44%",
     "Green (RGB)": "31%",
@@ -10048,6 +10863,7 @@
   },
   {
     "Name": "Tuscan red",
+    "searchKey": "tuscanred",
     "Hex (RGB)": "#7C4848",
     "Red (RGB)": "49%",
     "Green (RGB)": "28%",
@@ -10060,6 +10876,7 @@
   },
   {
     "Name": "Tuscan tan",
+    "searchKey": "tuscantan",
     "Hex (RGB)": "#A67B5B",
     "Red (RGB)": "65%",
     "Green (RGB)": "48%",
@@ -10072,6 +10889,7 @@
   },
   {
     "Name": "Tuscany",
+    "searchKey": "tuscany",
     "Hex (RGB)": "#C09999",
     "Red (RGB)": "75%",
     "Green (RGB)": "60%",
@@ -10084,6 +10902,7 @@
   },
   {
     "Name": "Twilight lavender",
+    "searchKey": "twilightlavender",
     "Hex (RGB)": "#8A496B",
     "Red (RGB)": "54%",
     "Green (RGB)": "29%",
@@ -10096,6 +10915,7 @@
   },
   {
     "Name": "Tyrian purple",
+    "searchKey": "tyrianpurple",
     "Hex (RGB)": "#66023C",
     "Red (RGB)": "40%",
     "Green (RGB)": "1%",
@@ -10108,6 +10928,7 @@
   },
   {
     "Name": "UA blue",
+    "searchKey": "uablue",
     "Hex (RGB)": "#0033AA",
     "Red (RGB)": "0%",
     "Green (RGB)": "20%",
@@ -10120,6 +10941,7 @@
   },
   {
     "Name": "UA red",
+    "searchKey": "uared",
     "Hex (RGB)": "#D9004C",
     "Red (RGB)": "85%",
     "Green (RGB)": "0%",
@@ -10132,6 +10954,7 @@
   },
   {
     "Name": "Ultramarine",
+    "searchKey": "ultramarine",
     "Hex (RGB)": "#3F00FF",
     "Red (RGB)": "7%",
     "Green (RGB)": "4%",
@@ -10144,6 +10967,7 @@
   },
   {
     "Name": "Ultramarine blue",
+    "searchKey": "ultramarineblue",
     "Hex (RGB)": "#4166F5",
     "Red (RGB)": "25%",
     "Green (RGB)": "40%",
@@ -10156,6 +10980,7 @@
   },
   {
     "Name": "Ultra pink",
+    "searchKey": "ultrapink",
     "Hex (RGB)": "#FF6FFF",
     "Red (RGB)": "100%",
     "Green (RGB)": "44%",
@@ -10168,6 +10993,7 @@
   },
   {
     "Name": "Ultra red",
+    "searchKey": "ultrared",
     "Hex (RGB)": "#FC6C85",
     "Red (RGB)": "99%",
     "Green (RGB)": "42%",
@@ -10180,6 +11006,7 @@
   },
   {
     "Name": "Umber",
+    "searchKey": "umber",
     "Hex (RGB)": "#635147",
     "Red (RGB)": "39%",
     "Green (RGB)": "32%",
@@ -10192,6 +11019,7 @@
   },
   {
     "Name": "Unbleached silk",
+    "searchKey": "unbleachedsilk",
     "Hex (RGB)": "#FFDDCA",
     "Red (RGB)": "100%",
     "Green (RGB)": "87%",
@@ -10204,6 +11032,7 @@
   },
   {
     "Name": "United Nations blue",
+    "searchKey": "unitednationsblue",
     "Hex (RGB)": "#009EDB",
     "Red (RGB)": "0%",
     "Green (RGB)": "62%",
@@ -10216,6 +11045,7 @@
   },
   {
     "Name": "University of Pennsylvania red",
+    "searchKey": "universityofpennsylvaniared",
     "Hex (RGB)": "#A50021",
     "Red (RGB)": "65%",
     "Green (RGB)": "0%",
@@ -10228,6 +11058,7 @@
   },
   {
     "Name": "Unmellow yellow",
+    "searchKey": "unmellowyellow",
     "Hex (RGB)": "#FFFF66",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -10240,6 +11071,7 @@
   },
   {
     "Name": "UP Forest green",
+    "searchKey": "upforestgreen",
     "Hex (RGB)": "#014421",
     "Red (RGB)": "0%",
     "Green (RGB)": "27%",
@@ -10252,6 +11084,7 @@
   },
   {
     "Name": "UP maroon",
+    "searchKey": "upmaroon",
     "Hex (RGB)": "#7B1113",
     "Red (RGB)": "48%",
     "Green (RGB)": "7%",
@@ -10264,6 +11097,7 @@
   },
   {
     "Name": "Upsdell red",
+    "searchKey": "upsdellred",
     "Hex (RGB)": "#AE2029",
     "Red (RGB)": "68%",
     "Green (RGB)": "13%",
@@ -10276,6 +11110,7 @@
   },
   {
     "Name": "Uranian blue",
+    "searchKey": "uranianblue",
     "Hex (RGB)": "#AFDBF5",
     "Red (RGB)": "69%",
     "Green (RGB)": "86%",
@@ -10288,6 +11123,7 @@
   },
   {
     "Name": "USAFA blue",
+    "searchKey": "usafablue",
     "Hex (RGB)": "#004F98",
     "Red (RGB)": "0%",
     "Green (RGB)": "31%",
@@ -10300,6 +11136,7 @@
   },
   {
     "Name": "Van Dyke brown",
+    "searchKey": "vandykebrown",
     "Hex (RGB)": "#664228",
     "Red (RGB)": "40%",
     "Green (RGB)": "26%",
@@ -10312,6 +11149,7 @@
   },
   {
     "Name": "Vanilla",
+    "searchKey": "vanilla",
     "Hex (RGB)": "#F3E5AB",
     "Red (RGB)": "95%",
     "Green (RGB)": "90%",
@@ -10324,6 +11162,7 @@
   },
   {
     "Name": "Vanilla ice",
+    "searchKey": "vanillaice",
     "Hex (RGB)": "#F38FA9",
     "Red (RGB)": "95%",
     "Green (RGB)": "56%",
@@ -10336,6 +11175,7 @@
   },
   {
     "Name": "Vantg blue",
+    "searchKey": "vantgblue",
     "Hex (RGB)": "#5271FF",
     "Red (RGB)": "32%",
     "Green (RGB)": "44%",
@@ -10348,6 +11188,7 @@
   },
   {
     "Name": "Vegas gold",
+    "searchKey": "vegasgold",
     "Hex (RGB)": "#C5B358",
     "Red (RGB)": "77%",
     "Green (RGB)": "70%",
@@ -10360,6 +11201,7 @@
   },
   {
     "Name": "Venetian red",
+    "searchKey": "venetianred",
     "Hex (RGB)": "#C80815",
     "Red (RGB)": "78%",
     "Green (RGB)": "3%",
@@ -10372,6 +11214,7 @@
   },
   {
     "Name": "Verdigris",
+    "searchKey": "verdigris",
     "Hex (RGB)": "#43B3AE",
     "Red (RGB)": "26%",
     "Green (RGB)": "70%",
@@ -10384,6 +11227,7 @@
   },
   {
     "Name": "Vermilion",
+    "searchKey": "vermilion",
     "Hex (RGB)": "#E34234",
     "Red (RGB)": "89%",
     "Green (RGB)": "26%",
@@ -10396,6 +11240,7 @@
   },
   {
     "Name": "Vermilion",
+    "searchKey": "vermilion",
     "Hex (RGB)": "#D9381E",
     "Red (RGB)": "85%",
     "Green (RGB)": "22%",
@@ -10408,6 +11253,7 @@
   },
   {
     "Name": "Veronica",
+    "searchKey": "veronica",
     "Hex (RGB)": "#A020F0",
     "Red (RGB)": "63%",
     "Green (RGB)": "13%",
@@ -10420,6 +11266,7 @@
   },
   {
     "Name": "Violet",
+    "searchKey": "violet",
     "Hex (RGB)": "#8000FF",
     "Red (RGB)": "50%",
     "Green (RGB)": "0%",
@@ -10432,6 +11279,7 @@
   },
   {
     "Name": "Electric Violet (RGB)",
+    "searchKey": "electricviolet",
     "Hex (RGB)": "#8F00FF",
     "Red (RGB)": "56%",
     "Green (RGB)": "0%",
@@ -10444,6 +11292,7 @@
   },
   {
     "Name": "Violet (crayola)",
+    "searchKey": "violet",
     "Hex (RGB)": "#963D7F",
     "Red (RGB)": "59%",
     "Green (RGB)": "24%",
@@ -10456,6 +11305,7 @@
   },
   {
     "Name": "Violet (RYB)",
+    "searchKey": "violet",
     "Hex (RGB)": "#8601AF",
     "Red (RGB)": "53%",
     "Green (RGB)": "0%",
@@ -10468,6 +11318,7 @@
   },
   {
     "Name": "Violet (web)",
+    "searchKey": "violet",
     "Hex (RGB)": "#EE82EE",
     "Red (RGB)": "93%",
     "Green (RGB)": "51%",
@@ -10480,6 +11331,7 @@
   },
   {
     "Name": "Violet-blue",
+    "searchKey": "violetblue",
     "Hex (RGB)": "#324AB2",
     "Red (RGB)": "20%",
     "Green (RGB)": "29%",
@@ -10492,6 +11344,7 @@
   },
   {
     "Name": "Violet-blue (Crayola)",
+    "searchKey": "violetblue",
     "Hex (RGB)": "#766EC8",
     "Red (RGB)": "46%",
     "Green (RGB)": "43%",
@@ -10504,6 +11357,7 @@
   },
   {
     "Name": "Violet-red",
+    "searchKey": "violetred",
     "Hex (RGB)": "#F75394",
     "Red (RGB)": "97%",
     "Green (RGB)": "33%",
@@ -10516,6 +11370,7 @@
   },
   {
     "Name": "Violet-red(PerBang)",
+    "searchKey": "violetred",
     "Hex (RGB)": "#F0599C",
     "Red (RGB)": "94%",
     "Green (RGB)": "35%",
@@ -10528,6 +11383,7 @@
   },
   {
     "Name": "Viridian",
+    "searchKey": "viridian",
     "Hex (RGB)": "#40826D",
     "Red (RGB)": "25%",
     "Green (RGB)": "51%",
@@ -10540,6 +11396,7 @@
   },
   {
     "Name": "Viridian green",
+    "searchKey": "viridiangreen",
     "Hex (RGB)": "#009698",
     "Red (RGB)": "0%",
     "Green (RGB)": "59%",
@@ -10552,6 +11409,7 @@
   },
   {
     "Name": "Vivid burgundy",
+    "searchKey": "vividburgundy",
     "Hex (RGB)": "#9F1D35",
     "Red (RGB)": "62%",
     "Green (RGB)": "11%",
@@ -10564,6 +11422,7 @@
   },
   {
     "Name": "Vivid sky blue",
+    "searchKey": "vividskyblue",
     "Hex (RGB)": "#00CCFF",
     "Red (RGB)": "0%",
     "Green (RGB)": "80%",
@@ -10576,6 +11435,7 @@
   },
   {
     "Name": "Vivid tangerine",
+    "searchKey": "vividtangerine",
     "Hex (RGB)": "#FFA089",
     "Red (RGB)": "100%",
     "Green (RGB)": "63%",
@@ -10588,6 +11448,7 @@
   },
   {
     "Name": "Vivid violet",
+    "searchKey": "vividviolet",
     "Hex (RGB)": "#9F00FF",
     "Red (RGB)": "62%",
     "Green (RGB)": "0%",
@@ -10600,6 +11461,7 @@
   },
   {
     "Name": "Volt",
+    "searchKey": "volt",
     "Hex (RGB)": "#CEFF00",
     "Red (RGB)": "80%",
     "Green (RGB)": "100%",
@@ -10612,6 +11474,7 @@
   },
   {
     "Name": "Warm black",
+    "searchKey": "warmblack",
     "Hex (RGB)": "#004242",
     "Red (RGB)": "0%",
     "Green (RGB)": "26%",
@@ -10624,6 +11487,7 @@
   },
   {
     "Name": "Weezy Blue",
+    "searchKey": "weezyblue",
     "Hex (RGB)": "#189BCC",
     "Red (RGB)": "9%",
     "Green (RGB)": "61%",
@@ -10636,6 +11500,7 @@
   },
   {
     "Name": "Wheat",
+    "searchKey": "wheat",
     "Hex (RGB)": "#F5DEB3",
     "Red (RGB)": "96%",
     "Green (RGB)": "87%",
@@ -10648,6 +11513,7 @@
   },
   {
     "Name": "White",
+    "searchKey": "white",
     "Hex (RGB)": "#FFFFFF",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -10660,6 +11526,7 @@
   },
   {
     "Name": "Wild blue yonder",
+    "searchKey": "wildblueyonder",
     "Hex (RGB)": "#A2ADD0",
     "Red (RGB)": "64%",
     "Green (RGB)": "68%",
@@ -10672,6 +11539,7 @@
   },
   {
     "Name": "Wild orchid",
+    "searchKey": "wildorchid",
     "Hex (RGB)": "#D470A2",
     "Red (RGB)": "83%",
     "Green (RGB)": "44%",
@@ -10684,6 +11552,7 @@
   },
   {
     "Name": "Wild Strawberry",
+    "searchKey": "wildstrawberry",
     "Hex (RGB)": "#FF43A4",
     "Red (RGB)": "100%",
     "Green (RGB)": "26%",
@@ -10696,6 +11565,7 @@
   },
   {
     "Name": "Wild watermelon",
+    "searchKey": "wildwatermelon",
     "Hex (RGB)": "#FC6C85",
     "Red (RGB)": "99%",
     "Green (RGB)": "42%",
@@ -10708,6 +11578,7 @@
   },
   {
     "Name": "Willpower orange",
+    "searchKey": "willpowerorange",
     "Hex (RGB)": "#FD5800",
     "Red (RGB)": "99%",
     "Green (RGB)": "35%",
@@ -10720,6 +11591,7 @@
   },
   {
     "Name": "Windsor tan",
+    "searchKey": "windsortan",
     "Hex (RGB)": "#A75502",
     "Red (RGB)": "65%",
     "Green (RGB)": "33%",
@@ -10732,6 +11604,7 @@
   },
   {
     "Name": "Wine",
+    "searchKey": "wine",
     "Hex (RGB)": "#722F37",
     "Red (RGB)": "45%",
     "Green (RGB)": "18%",
@@ -10744,6 +11617,7 @@
   },
   {
     "Name": "Wine Red",
+    "searchKey": "winered",
     "Hex (RGB)": "#B11226",
     "Red (RGB)": "69%",
     "Green (RGB)": "7%",
@@ -10756,6 +11630,7 @@
   },
   {
     "Name": "Wine dregs",
+    "searchKey": "winedregs",
     "Hex (RGB)": "#673147",
     "Red (RGB)": "40%",
     "Green (RGB)": "19%",
@@ -10768,6 +11643,7 @@
   },
   {
     "Name": "Winter Sky",
+    "searchKey": "wintersky",
     "Hex (RGB)": "#FF007C",
     "Red (RGB)": "100%",
     "Green (RGB)": "0%",
@@ -10780,6 +11656,7 @@
   },
   {
     "Name": "Wintergreen Dream",
+    "searchKey": "wintergreendream",
     "Hex (RGB)": "#56887D",
     "Red (RGB)": "34%",
     "Green (RGB)": "53%",
@@ -10792,6 +11669,7 @@
   },
   {
     "Name": "Wisteria",
+    "searchKey": "wisteria",
     "Hex (RGB)": "#C9A0DC",
     "Red (RGB)": "79%",
     "Green (RGB)": "63%",
@@ -10804,6 +11682,7 @@
   },
   {
     "Name": "Wood brown",
+    "searchKey": "woodbrown",
     "Hex (RGB)": "#C19A6B",
     "Red (RGB)": "76%",
     "Green (RGB)": "60%",
@@ -10816,6 +11695,7 @@
   },
   {
     "Name": "Xanadu",
+    "searchKey": "xanadu",
     "Hex (RGB)": "#738678",
     "Red (RGB)": "45%",
     "Green (RGB)": "53%",
@@ -10828,6 +11708,7 @@
   },
   {
     "Name": "Xander",
+    "searchKey": "xander",
     "Hex (RGB)": "#44500C",
     "Red (RGB)": "27%",
     "Green (RGB)": "31%",
@@ -10840,6 +11721,7 @@
   },
   {
     "Name": "Xanthic",
+    "searchKey": "xanthic",
     "Hex (RGB)": "#EEED09",
     "Red (RGB)": "93%",
     "Green (RGB)": "93%",
@@ -10852,6 +11734,7 @@
   },
   {
     "Name": "Xanthous",
+    "searchKey": "xanthous",
     "Hex (RGB)": "#F1B42F",
     "Red (RGB)": "95%",
     "Green (RGB)": "71%",
@@ -10864,6 +11747,7 @@
   },
   {
     "Name": "Xbox green",
+    "searchKey": "xboxgreen",
     "Hex (RGB)": "#0E7A0D",
     "Red (RGB)": "5%",
     "Green (RGB)": "48%",
@@ -10876,6 +11760,7 @@
   },
   {
     "Name": "Xiaomi orange",
+    "searchKey": "xiaomiorange",
     "Hex (RGB)": "#FD4900",
     "Red (RGB)": "99%",
     "Green (RGB)": "29%",
@@ -10888,6 +11773,7 @@
   },
   {
     "Name": "Xumo",
+    "searchKey": "xumo",
     "Hex (RGB)": "#413639",
     "Red (RGB)": "25%",
     "Green (RGB)": "21%",
@@ -10900,6 +11786,7 @@
   },
   {
     "Name": "Yale Blue",
+    "searchKey": "yaleblue",
     "Hex (RGB)": "#00356B",
     "Red (RGB)": "0%",
     "Green (RGB)": "21%",
@@ -10912,6 +11799,7 @@
   },
   {
     "Name": "Yellow",
+    "searchKey": "yellow",
     "Hex (RGB)": "#FFFF00",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -10924,6 +11812,7 @@
   },
   {
     "Name": "Yellow (Crayola)",
+    "searchKey": "yellow",
     "Hex (RGB)": "#FCE883",
     "Red (RGB)": "99%",
     "Green (RGB)": "91%",
@@ -10936,6 +11825,7 @@
   },
   {
     "Name": "Yellow (Munsell)",
+    "searchKey": "yellow",
     "Hex (RGB)": "#EFCC00",
     "Red (RGB)": "94%",
     "Green (RGB)": "80%",
@@ -10948,6 +11838,7 @@
   },
   {
     "Name": "Yellow (NCS)",
+    "searchKey": "yellow",
     "Hex (RGB)": "#FFD300",
     "Red (RGB)": "100%",
     "Green (RGB)": "83%",
@@ -10960,6 +11851,7 @@
   },
   {
     "Name": "Yellow (Pantone)",
+    "searchKey": "yellow",
     "Hex (RGB)": "#FEDF00",
     "Red (RGB)": "100%",
     "Green (RGB)": "87%",
@@ -10972,6 +11864,7 @@
   },
   {
     "Name": "Yellow (process)",
+    "searchKey": "yellow",
     "Hex (RGB)": "#FFEF00",
     "Red (RGB)": "100%",
     "Green (RGB)": "94%",
@@ -10984,6 +11877,7 @@
   },
   {
     "Name": "Yellow (RYB)",
+    "searchKey": "yellow",
     "Hex (RGB)": "#FEFE33",
     "Red (RGB)": "100%",
     "Green (RGB)": "100%",
@@ -10996,6 +11890,7 @@
   },
   {
     "Name": "Yellow-green",
+    "searchKey": "yellowgreen",
     "Hex (RGB)": "#9ACD32",
     "Red (RGB)": "60%",
     "Green (RGB)": "80%",
@@ -11008,6 +11903,7 @@
   },
   {
     "Name": "Yellow-green (Crayola)",
+    "searchKey": "yellowgreen",
     "Hex (RGB)": "#C5E384",
     "Red (RGB)": "77%",
     "Green (RGB)": "89%",
@@ -11020,6 +11916,7 @@
   },
   {
     "Name": "Yellow-green (Color Wheel)",
+    "searchKey": "yellowgreen",
     "Hex (RGB)": "#30B21A",
     "Red (RGB)": "19%",
     "Green (RGB)": "70%",
@@ -11032,6 +11929,7 @@
   },
   {
     "Name": "Yellow Orange",
+    "searchKey": "yelloworange",
     "Hex (RGB)": "#FFAE42",
     "Red (RGB)": "100%",
     "Green (RGB)": "68%",
@@ -11044,6 +11942,7 @@
   },
   {
     "Name": "Yellow Orange (Color Wheel)",
+    "searchKey": "yelloworange",
     "Hex (RGB)": "#FF9505",
     "Red (RGB)": "100%",
     "Green (RGB)": "58%",
@@ -11056,6 +11955,7 @@
   },
   {
     "Name": "Yellow Rose",
+    "searchKey": "yellowrose",
     "Hex (RGB)": "#FFF000",
     "Red (RGB)": "100%",
     "Green (RGB)": "94%",
@@ -11068,6 +11968,7 @@
   },
   {
     "Name": "Yellow Sunshine",
+    "searchKey": "yellowsunshine",
     "Hex (RGB)": "#FFF700",
     "Red (RGB)": "100%",
     "Green (RGB)": "97%",
@@ -11080,6 +11981,7 @@
   },
   {
     "Name": "YInMn Blue",
+    "searchKey": "yinmnblue",
     "Hex (RGB)": "#2E5090",
     "Red (RGB)": "18%",
     "Green (RGB)": "31%",
@@ -11092,6 +11994,7 @@
   },
   {
     "Name": "Zaffer (Zaffre)",
+    "searchKey": "zaffer",
     "Hex (RGB)": "#0014A8",
     "Red (RGB)": "0%",
     "Green (RGB)": "8%",
@@ -11104,6 +12007,7 @@
   },
   {
     "Name": "Zarqa",
+    "searchKey": "zarqa",
     "Hex (RGB)": "#FF4500",
     "Red (RGB)": "100%",
     "Green (RGB)": "27%",
@@ -11116,6 +12020,7 @@
   },
   {
     "Name": "Zeal",
+    "searchKey": "zeal",
     "Hex (RGB)": "#91E0B7",
     "Red (RGB)": "57%",
     "Green (RGB)": "88%",
@@ -11128,6 +12033,7 @@
   },
   {
     "Name": "Zebra White",
+    "searchKey": "zebrawhite",
     "Hex (RGB)": "#F5F5F5",
     "Red (RGB)": "96%",
     "Green (RGB)": "96%",
@@ -11140,6 +12046,7 @@
   },
   {
     "Name": "Zinc gray",
+    "searchKey": "zincgray",
     "Hex (RGB)": "#655B55",
     "Red (RGB)": "40%",
     "Green (RGB)": "36%",
@@ -11152,6 +12059,7 @@
   },
   {
     "Name": "Zinc white",
+    "searchKey": "zincwhite",
     "Hex (RGB)": "#FDF8FF",
     "Red (RGB)": "99%",
     "Green (RGB)": "97%",
@@ -11164,6 +12072,7 @@
   },
   {
     "Name": "Zinnwaldite brown",
+    "searchKey": "zinnwalditebrown",
     "Hex (RGB)": "#2C1608",
     "Red (RGB)": "17%",
     "Green (RGB)": "9%",
@@ -11176,6 +12085,7 @@
   },
   {
     "Name": "Zinzolin",
+    "searchKey": "zinzolin",
     "Hex (RGB)": "#6C0277",
     "Red (RGB)": "42%",
     "Green (RGB)": "1%",
@@ -11188,6 +12098,7 @@
   },
   {
     "Name": "Zircon gray",
+    "searchKey": "zircongray",
     "Hex (RGB)": "#807473",
     "Red (RGB)": "50%",
     "Green (RGB)": "45%",
@@ -11200,6 +12111,7 @@
   },
   {
     "Name": "Zomp",
+    "searchKey": "zomp",
     "Hex (RGB)": "#39A78E",
     "Red (RGB)": "22%",
     "Green (RGB)": "65%",
@@ -11212,6 +12124,7 @@
   },
   {
     "Name": "Zydeco",
+    "searchKey": "zydeco",
     "Hex (RGB)": "#20483F",
     "Red (RGB)": "13%",
     "Green (RGB)": "28%",
