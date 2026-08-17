@@ -42,7 +42,7 @@
 
     <script>
         let colorsGlobal = [];
-        // Store canonical searchKey strings (e.g., "bluegray") to reliably track unique finds
+        // Store searchKey strings to reliably unique finds
         const userFoundColors = new Set(); 
 
         async function loadJSONData() {
@@ -124,10 +124,10 @@
             const foundColor = colorsGlobal.find(color => color["searchKey"] === searchKey);
 
             if (foundColor) {
-                // Save key to prevent future duplicates regardless of input phrasing
+                // Save key to prevent future duplicates 
                 userFoundColors.add(searchKey);
                 
-                // Visual feedback & UI updates
+                // Visual feedback 
                 colorInput.classList.remove('border', 'border-danger');
                 counterEl.textContent = userFoundColors.size;
 
