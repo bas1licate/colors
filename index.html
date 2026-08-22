@@ -40,15 +40,15 @@
     </div>
 
     <div class="modal" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content d-flex justify-content-center">
             <div class="modal-body">
-                <h5>Congrats! You reached 100 Colors!</h5>
-                <p>Honestly, I don't know how you got here.</p>
+                <h5 class="text-center">Congrats! You reached 100 Colors!</h5>
+                <p class="text-center">Honestly, I don't know how you got here. Good job, though.</p>
             </div>
-            <div class="modal-footer">
+            <div class="modal-footer d-flex justify-content-center align-items-center">
                 <button type="button" class="results btn btn-primary" data-dismiss="modal">View Results</button>
-                <button type="button" class="continue btn btn-secondary" data-dismiss="modal">Continue</button>
+                <button type="button" class="continue btn btn-secondary" data-dismiss="modal">Keep Playing</button>
             </div>
             </div>
         </div>
@@ -154,8 +154,9 @@
                 colorInput.value = '';
             }
 
-            // feedback when user gets to 50 colors
-            if (userFoundColors.size === 50) {
+            // feedback when user gets to 100 colors
+            if (userFoundColors.size === 100) {
+                confetti();
                 $('.modal').modal('show');
 
                 // User chooses to view results, locks the input field
@@ -175,5 +176,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.4/dist/confetti.browser.min.js"></script>
+
 </body>
 </html>
