@@ -6858,8 +6858,8 @@
     "Value (HSV)": "100%"
   },
   {
-    "Name": "Ocher (Ochre)",
-    "searchKey": "ocher",
+    "Name": "Ochre",
+    "searchKey": "ochre",
     "Hex (RGB)": "#CC7722",
     "Red (RGB)": "80%",
     "Green (RGB)": "47%",
@@ -8626,8 +8626,8 @@
     "Value (HSV)": "100%"
   },
   {
-    "Name": "Red ocher (Red ochre)",
-    "searchKey": "redocher",
+    "Name": "Red ochre (Red ochre)",
+    "searchKey": "redochre",
     "Hex (RGB)": "#913831",
     "Red (RGB)": "57%",
     "Green (RGB)": "22%",
@@ -12134,5 +12134,115 @@
     "Light (HSL)": "20%",
     "Satur. (HSV)": "56%",
     "Value (HSV)": "28%"
+  }, 
+  {
+    "Name": "Seafoam Green",
+    "searchKey": "seafoamgreen",
+    "Hex (RGB)": "#93E9BE"
+  },
+  {
+    "Name": "Neon Yellow",
+    "searchKey": "neonyellow",
+    "Hex (RGB)": "#93E9BE"
+  },
+  {
+    "Name": "Electric Blue",
+    "searchKey": "electricblue",
+    "Hex (RGB)": "#7DF9FF"
+  },
+  {
+    "Name": "Electric Pink",
+    "searchKey": "electricpink",
+    "Hex (RGB)": "#FE2784"
+  },
+  {
+    "Name": "Pastel Blue",
+    "searchKey": "pastelblue",
+    "Hex (RGB)": "#bae1ff"
+  },
+  {
+    "Name": "Pastel Green",
+    "searchKey": "pastelgreen",
+    "Hex (RGB)": "#baffc9"
+  },
+  {
+    "Name": "Pastel Yellow",
+    "searchKey": "pastelyellow",
+    "Hex (RGB)": "#ffffba"
+  },
+  {
+    "Name": "Pastel Orange",
+    "searchKey": "pastelorange",
+    "Hex (RGB)": "#ffdfba"
+  },
+  {
+    "Name": "Pastel Red",
+    "searchKey": "pastelred",
+    "Hex (RGB)": "#ffb3ba"
+  },
+  {
+    "Name": "Pastel Purple",
+    "searchKey": "pastelpurple",
+    "Hex (RGB)": "#C3B1E1"
+  },
+  {
+    "Name": "Off-white",
+    "searchKey": "offwhite",
+    "Hex (RGB)": "#FAF9F6"
+  },
+  {
+    "Name": "Jade Green",
+    "searchKey": "jadegreen",
+    "Hex (RGB)": "#00A86B"
+  },
+  {
+    "Name": "Yves Klein Blue",
+    "searchKey": "yveskleinblue",
+    "Hex (RGB)": "#002FA7"
+  },
+  {
+    "Name": "Blackberry",
+    "searchKey": "blackberry",
+    "Hex (RGB)": "#4D0135"
+  },
+  {
+    "Name": "Buttercup Yellow",
+    "searchKey": "buttercupyellow",
+    "Hex (RGB)": "#F5B11A"
+  },
+  {
+    "Name": "Butterscotch",
+    "searchKey": "butterscotch",
+    "Hex (RGB)": "#FDB147"
+  },
+  {
+    "Name": "Caramel",
+    "searchKey": "caramel",
+    "Hex (RGB)": "#FFD59A"
+  },
+  {
+    "Name": "Walnut Brown",
+    "searchKey": "walnutbrown",
+    "Hex (RGB)": "#B28965"
+  },
+  {
+    "Name": "Cedar Brown",
+    "searchKey": "cedarbrown",
+    "Hex (RGB)": "#B28965"
+  },
+  {
+    "Name": "Army Green",
+    "searchKey": "armygreen",
+    "Hex (RGB)": "#4B5320"
+  },
+  {
+    "Name": "Fir Green",
+    "searchKey": "firgreen",
+    "Hex (RGB)": "#27362A"
+  },
+  {
+    "Name": "Yellow Ochre",
+    "searchKey": "yellowochre",
+    "Hex (RGB)": "#CB9D06"
   }
 ]
