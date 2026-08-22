@@ -39,8 +39,23 @@
         <ul id="color-list"></ul>
     </div>
 
+    <div class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            <div class="modal-body">
+                <h5>Congrats! You reached 100 Colors!</h5>
+                <p>Honestly, I don't know how you got here.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="results btn btn-primary" data-dismiss="modal">View Results</button>
+                <button type="button" class="continue btn btn-secondary" data-dismiss="modal">Continue</button>
+            </div>
+            </div>
+        </div>
+    </div>
 
     <script>
+
         let colorsGlobal = [];
         // Store searchKey strings to reliably unique finds
         const userFoundColors = new Set(); 
@@ -138,6 +153,23 @@
                 feedbackEl.textContent = "Color not found.";
                 colorInput.value = '';
             }
+
+            // feedback when user gets to 50 colors
+            if (userFoundColors.size === 50) {
+                $('.modal').modal('show');
+
+                // User chooses to view results, locks the input field
+                $('.results').on('click', function() {
+                    $('.form-control').prop('disabled', true);
+                });
+
+                // User chooses to continue to name as many colors as they can
+                $('.continue').on('click', function() {
+                    $('.form-control').prop('disabled', false);
+                });
+            }
+
+
         });
     </script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
