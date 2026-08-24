@@ -14,9 +14,9 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo01" style="display: flex; justify-content: space-between; align-items: center;">
-        <a class="navbar-brand" href="https://github.com/contrastquota/colors">
+        <a class="navbar-brand" href="https://sparessd.tumblr.com">
             <img src="pfp.png" width="30" height="30" class="d-inline-block align-top" alt="illustration of Namsan tower in Seoul, South Korea">
-            <span class="font-weight-light text-muted">github</span>
+            <span class="font-weight-light text-muted">tumblr</span>
         </a>
         
         <a href="https://nameawoman.co.uk/">Based on Name 100 Women</a>
@@ -26,6 +26,7 @@
     <div class="content">
         <h1 style="text-align: center;">Color Counter</h1>
         <p>Try to name as many colors as you can! Be sure to enter the <em>full</em> name (e.g. "Kelly Green").</p>
+        <p>This is a static site. If you reload the page, you <em>will</em> lose your progress.</p>
         
         <p>Colors Found: <span id="counter" class="badge badge-primary">0</span></p>
         
@@ -62,7 +63,7 @@
 
         async function loadJSONData() {
             try {
-                const response = await fetch('./colors.json');
+                const response = await fetch(`./colors.json?v=${Date.now()}`);
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status} (${response.statusText})`);
