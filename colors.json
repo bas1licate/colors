@@ -3431,7 +3431,7 @@
   },
   {
     "Name": "Fire engine red",
-    "searchKey": "fireenginered",
+    "searchKey": ["fireenginered", "firetruckred"],
     "Hex (RGB)": "#CE2029",
     "Red (RGB)": "81%",
     "Green (RGB)": "13%",
@@ -12270,9 +12270,64 @@
     "searchKey": "bubblegumpink",
     "Hex (RGB)": "#FFC1CC"
   },
-    {
+  {
     "Name": "Ginger",
     "searchKey": "ginger",
     "Hex (RGB)": "#B06500"
+  },
+  {
+    "Name": "Cinnamon",
+    "searchKey": "cinnamon",
+    "Hex (RGB)": "#D2691E"
+  },
+  {
+    "Name": "Dove Gray",
+    "searchKey": ["dovegray", "dovegrey"],
+    "Hex (RGB)": "#6D6C6C"
+  },
+  {
+    "Name": "Dove",
+    "searchKey": "dove",
+    "Hex (RGB)": "#FFFDF9"
+  },
+  {
+    "Name": "Hazel",
+    "searchKey": "hazel",
+    "Hex (RGB)": "#8E7618"
+  },
+  {
+    "Name": "Peacock Blue",
+    "searchKey": "peacockblue",
+    "Hex (RGB)": "#016795"
+  },
+  {
+    "Name": "Butter Yellow",
+    "searchKey": "butteryellow",
+    "Hex (RGB)": "#FFFD74"
+  },
+  {
+    "Name": "Ice Blue",
+    "searchKey": "iceblue",
+    "Hex (RGB)": "#97C1E6"
+  },
+  {
+    "Name": "Bottle Green",
+    "searchKey": "bottlegreen",
+    "Hex (RGB)": "#006A4E"
+  },
+  {
+    "Name": "Bordeaux",
+    "searchKey": "bordeaux",
+    "Hex (RGB)": "#5C0120"
+  },
+  {
+    "Name": "Dun",
+    "searchKey": "dun",
+    "Hex (RGB)": "#DEB587"
+  },
+  {
+    "Name": "Eigengrau",
+    "searchKey": "eigengrau",
+    "Hex (RGB)": "#16161D"
   }
 ]
