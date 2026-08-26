@@ -379,7 +379,7 @@
   },
   {
     "Name": "Ash gray",
-    "searchKey": "ashgray",
+    "searchKey": ["ashgray", "ashgrey"],
     "Hex (RGB)": "#B2BEB5",
     "Red (RGB)": "70%",
     "Green (RGB)": "75%",
@@ -953,7 +953,7 @@
   },
   {
     "Name": "Blue-gray (Crayola)",
-    "searchKey": "bluegray",
+    "searchKey": ["bluegray", "bluegrey"],
     "Hex (RGB)": "#6699CC",
     "Red (RGB)": "40%",
     "Green (RGB)": "60%",
@@ -2745,7 +2745,7 @@
   },
   {
     "Name": "Dark slate gray",
-    "searchKey": "darkslategray",
+    "searchKey": ["darkslategray", "darkslategrey"],
     "Hex (RGB)": "#2F4F4F",
     "Red (RGB)": "18%",
     "Green (RGB)": "31%",
@@ -2997,7 +2997,7 @@
   },
   {
     "Name": "Dim gray",
-    "searchKey": "dimgray",
+    "searchKey": ["dimgray", "dimgrey"],
     "Hex (RGB)": "#696969",
     "Red (RGB)": "41%",
     "Green (RGB)": "41%",
@@ -3947,7 +3947,7 @@
   },
   {
     "Name": "Granite gray",
-    "searchKey": "granitegray",
+    "searchKey": ["granitegray", "granitegrey"],
     "Hex (RGB)": "#676767",
     "Red (RGB)": "40%",
     "Green (RGB)": "40%",
@@ -3973,7 +3973,7 @@
   },
   {
     "Name": "Gray (web)",
-    "searchKey": "gray",
+    "searchKey": ["gray", "grey"],
     "Hex (RGB)": "#808080",
     "Red (RGB)": "50%",
     "Green (RGB)": "50%",
@@ -3986,7 +3986,7 @@
   },
   {
     "Name": "Gray (X11 gray)",
-    "searchKey": "gray",
+    "searchKey": ["gray", "grey"],
     "Hex (RGB)": "#BEBEBE",
     "Red (RGB)": "75%",
     "Green (RGB)": "75%",
@@ -4207,7 +4207,7 @@
   },
   {
     "Name": "Heliotrope gray",
-    "searchKey": "heliotropegray",
+    "searchKey": ["heliotropegray", "heliotropegrey"],
     "Hex (RGB)": "#AA98A9",
     "Red (RGB)": "67%",
     "Green (RGB)": "60%",
@@ -4857,7 +4857,7 @@
   },
   {
     "Name": "Lavender gray",
-    "searchKey": "lavendergray",
+    "searchKey": ["lavendergray", "lavendergrey"],
     "Hex (RGB)": "#C4C3D0",
     "Red (RGB)": "77%",
     "Green (RGB)": "76%",
@@ -5065,7 +5065,7 @@
   },
   {
     "Name": "Light gray",
-    "searchKey": "lightgray",
+    "searchKey": ["lightgray", "lightgrey"],
     "Hex (RGB)": "#D3D3D3",
     "Red (RGB)": "83%",
     "Green (RGB)": "83%",
@@ -5182,7 +5182,7 @@
   },
   {
     "Name": "Light slate gray",
-    "searchKey": "lightslategray",
+    "searchKey": ["lightslategray", "lightslategrey"],
     "Hex (RGB)": "#778899",
     "Red (RGB)": "47%",
     "Green (RGB)": "53%",
@@ -9927,7 +9927,7 @@
   },
   {
     "Name": "Slate gray",
-    "searchKey": "slategray",
+    "searchKey": ["slategray", "slategrey"],
     "Hex (RGB)": "#708090",
     "Red (RGB)": "44%",
     "Green (RGB)": "50%",
@@ -10070,7 +10070,7 @@
   },
   {
     "Name": "Spanish gray",
-    "searchKey": "spanishgray",
+    "searchKey": ["spanishgray", "spanishgrey"],
     "Hex (RGB)": "#989898",
     "Red (RGB)": "60%",
     "Green (RGB)": "60%",
@@ -10499,7 +10499,7 @@
   },
   {
     "Name": "Taupe gray",
-    "searchKey": "taupegray",
+    "searchKey": ["taupegray", "taupegrey"],
     "Hex (RGB)": "#8B8589",
     "Red (RGB)": "55%",
     "Green (RGB)": "52%",
@@ -11227,7 +11227,7 @@
   },
   {
     "Name": "Vermilion",
-    "searchKey": "vermilion",
+    "searchKey": ["vermilion", "vermillion"],
     "Hex (RGB)": "#E34234",
     "Red (RGB)": "89%",
     "Green (RGB)": "26%",
@@ -12046,7 +12046,7 @@
   },
   {
     "Name": "Zinc gray",
-    "searchKey": "zincgray",
+    "searchKey": ["zincgray", "zincgrey"],
     "Hex (RGB)": "#655B55",
     "Red (RGB)": "40%",
     "Green (RGB)": "36%",
@@ -12098,7 +12098,7 @@
   },
   {
     "Name": "Zircon gray",
-    "searchKey": "zircongray",
+    "searchKey": ["zircongray", "zircongrey"],
     "Hex (RGB)": "#807473",
     "Red (RGB)": "50%",
     "Green (RGB)": "45%",
