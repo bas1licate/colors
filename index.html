@@ -26,7 +26,7 @@
     <div class="content">
         <h1 style="text-align: center;">Color Counter</h1>
         <p>Can you name 100 colors? Try to list as many as you can! Be sure to enter the <em>full</em> name (e.g. "Kelly Green").</p>
-        <p>Warning: If you reload the page, you <em>will</em> lose your progress.</p>
+        <p><small>Warning: if you reload the page, you <em>will</em> lose your progress.</small></p>
         
         <p>Colors Found: <span id="counter" class="badge badge-primary">0</span> / 100</p>
         
@@ -56,9 +56,7 @@
     </div>
 
     <script>
-
         let colorsGlobal = [];
-        // Store searchKey strings to reliably unique finds
         const userFoundColors = new Set(); 
 
         async function loadJSONData() {
@@ -74,7 +72,6 @@
             } catch (error) {
                 console.error("Error loading the JSON file:", error);
                 
-                // Show visible error on screen for testing
                 const feedbackEl = document.querySelector('.feedback');
                 if (feedbackEl) {
                     feedbackEl.textContent = `Failed to load color database: ${error.message}`;
@@ -85,41 +82,18 @@
 
         loadJSONData();
 
-        // Utility function to convert raw input to the searchKey format
         function normalizeInput(input) {
             return input.split('(')[0].trim().toLowerCase().replace(/[\s\-_/']+/g, '');
         }
 
-        // Render the list of found colors in alphabetical order
-        function displayFoundColorsAlphabetical() {
-            const listContainer = document.getElementById('color-list');
-            listContainer.innerHTML = '';
-
-            // Retrieve matched objects from global array and sort by official Name
-            const foundObjects = Array.from(userFoundColors)
-                .map(key => colorsGlobal.find(c => c.searchKey === key))
-                .filter(Boolean)
-                .sort((a, b) => a.Name.localeCompare(b.Name));
-
-            foundObjects.forEach(color => {
-                const listItem = document.createElement('li');
-                listItem.innerHTML = `
-                    <div class='color-list-item'>
-                        <div class='color-swatch' style='background-color: ${color["Hex (RGB)"]};'></div>
-                        <div>${color["Name"]} - ${color["Hex (RGB)"]}</div>
-                    </div>
-                `;
-                listContainer.appendChild(listItem);
-            });
-        }
-
-        // display last found item first, descending to first found
-        function displayFoundColorsReverse() {
+        function displayFoundColors() {
             const listContainer = document.getElementById('color-list');
             listContainer.innerHTML = "";
 
-            // Retrieve matched objects from global array and sort by official Name
-            const foundObjects = Array.from(userFoundColors).map(key => colorsGlobal.find(c => c.searchKey === key));
+            // matches stored Name strings
+            const foundObjects = Array.from(userFoundColors)
+                .map(name => colorsGlobal.find(c => c.Name === name))
+                .filter(Boolean);
             
             foundObjects.reverse();
 
@@ -133,10 +107,8 @@
                 `;
                 listContainer.appendChild(listItem);
             });
-
         }
 
-        // Form submit handler
         document.getElementById('color-form').addEventListener("submit", (event) => {
             event.preventDefault();
             
@@ -151,26 +123,29 @@
 
             if (!searchKey) return;
 
-            // Check if user already found this color 
-            if (userFoundColors.has(searchKey)) {
-                colorInput.classList.add('border', 'border-danger');
-                feedbackEl.textContent = "You already found this color!";
-                colorInput.value = '';
-                return;
-            }
-
-            // Look up matching entry by searchKey
-            const foundColor = colorsGlobal.find(color => color["searchKey"] === searchKey);
+            // Look up entry by normalized searchKey
+            const foundColor = colorsGlobal.find(color => {
+                if (Array.isArray(color.searchKey)) {
+                    return color.searchKey.includes(searchKey);
+                }
+                return color.searchKey === searchKey;
+            });
 
             if (foundColor) {
-                // Save key to prevent future duplicates 
-                userFoundColors.add(searchKey);
+                // Prevent duplicates
+                if (userFoundColors.has(foundColor.Name)) {
+                    colorInput.classList.add('border', 'border-danger');
+                    feedbackEl.textContent = "You already found this color!";
+                    colorInput.value = '';
+                    return;
+                }
+
+                userFoundColors.add(foundColor.Name);
                 
-                // Visual feedback 
                 colorInput.classList.remove('border', 'border-danger');
                 counterEl.textContent = userFoundColors.size;
 
-                displayFoundColorsReverse();
+                displayFoundColors();
                 colorInput.value = '';
             } else {
                 colorInput.classList.add('border', 'border-danger');
@@ -178,23 +153,14 @@
                 colorInput.value = '';
             }
 
-            // feedback when user gets to 100 colors
             if (userFoundColors.size === 100) {
                 confetti();
                 $('.modal').modal('show');
 
-                // User chooses to view results, locks the input field
-                $('.results').on('click', function() {
-                    $('.form-control').prop('disabled', true);
-                });
-
-                // User chooses to continue to name as many colors as they can
                 $('.continue').on('click', function() {
                     $('.form-control').prop('disabled', false);
                 });
             }
-
-
         });
     </script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
