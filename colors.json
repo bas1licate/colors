@@ -1331,7 +1331,7 @@
   },
   {
     "Name": "Cadet grey",
-    "searchKey": "cadetgrey",
+    "searchKey": ["cadetgrey", "cadetgray"],
     "Hex (RGB)": "#91A3B0",
     "Red (RGB)": "57%",
     "Green (RGB)": "64%",
