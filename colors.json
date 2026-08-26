@@ -12244,5 +12244,35 @@
     "Name": "Yellow Ochre",
     "searchKey": "yellowochre",
     "Hex (RGB)": "#CB9D06"
+  },
+  {
+    "Name": "Cobalt Blue",
+    "searchKey": "cobaltblue",
+    "Hex (RGB)": "#0047AB"
+  },
+  {
+    "Name": "Cadmium Yellow",
+    "searchKey": "cadmiumyellow",
+    "Hex (RGB)": "#FFF600"
+  },
+  {
+    "Name": "Cadmium Red",
+    "searchKey": "cadmiumred",
+    "Hex (RGB)": "#E30022"
+  },
+  {
+    "Name": "Cherry Red",
+    "searchKey": "cherryred",
+    "Hex (RGB)": "#D2042D"
+  },
+  {
+    "Name": "Bubblegum Pink",
+    "searchKey": "bubblegumpink",
+    "Hex (RGB)": "#FFC1CC"
+  },
+    {
+    "Name": "Ginger",
+    "searchKey": "ginger",
+    "Hex (RGB)": "#B06500"
   }
 ]

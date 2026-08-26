@@ -14,9 +14,9 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo01" style="display: flex; justify-content: space-between; align-items: center;">
-        <a class="navbar-brand" href="https://sparessd.tumblr.com">
+        <a class="navbar-brand" href="https://github.com/contrastquota/colors/blob/main/README.md">
             <img src="pfp.png" width="30" height="30" class="d-inline-block align-top" alt="illustration of Namsan tower in Seoul, South Korea">
-            <span class="font-weight-light text-muted">tumblr</span>
+            <span class="font-weight-light text-muted">github</span>
         </a>
         
         <a href="https://nameawoman.co.uk/">Based on Name 100 Women</a>
@@ -25,10 +25,10 @@
 
     <div class="content">
         <h1 style="text-align: center;">Color Counter</h1>
-        <p>Try to name as many colors as you can! Be sure to enter the <em>full</em> name (e.g. "Kelly Green").</p>
-        <p>This is a static site. If you reload the page, you <em>will</em> lose your progress.</p>
+        <p>Can you name 100 colors? Try to list as many as you can! Be sure to enter the <em>full</em> name (e.g. "Kelly Green").</p>
+        <p>Warning: this is a static site. If you reload the page, you <em>will</em> lose your progress.</p>
         
-        <p>Colors Found: <span id="counter" class="badge badge-primary">0</span></p>
+        <p>Colors Found: <span id="counter" class="badge badge-primary">0</span> / 100</p>
         
         <div class="form-group">
             <form id="color-form">
@@ -45,10 +45,10 @@
             <div class="modal-content d-flex justify-content-center">
             <div class="modal-body">
                 <h5 class="text-center">Congrats! You reached 100 Colors!</h5>
-                <p class="text-center">Honestly, I don't know how you got here. Good job, though.</p>
+                <p class="text-center">Good Job!!! Either you played a lot of Pokemon as a kid or you're an artist.</p>
             </div>
             <div class="modal-footer d-flex justify-content-center align-items-center">
-                <button type="button" class="results btn btn-primary" data-dismiss="modal">View Results</button>
+                <!-- <button type="button" class="results btn btn-primary" data-dismiss="modal">View Results</button> -->
                 <button type="button" class="continue btn btn-secondary" data-dismiss="modal">Keep Playing</button>
             </div>
             </div>
@@ -91,7 +91,7 @@
         }
 
         // Render the list of found colors in alphabetical order
-        function displayFoundColors() {
+        function displayFoundColorsAlphabetical() {
             const listContainer = document.getElementById('color-list');
             listContainer.innerHTML = '';
 
@@ -111,6 +111,29 @@
                 `;
                 listContainer.appendChild(listItem);
             });
+        }
+
+        // display last found item first, descending to first found
+        function displayFoundColorsReverse() {
+            const listContainer = document.getElementById('color-list');
+            listContainer.innerHTML = "";
+
+            // Retrieve matched objects from global array and sort by official Name
+            const foundObjects = Array.from(userFoundColors).map(key => colorsGlobal.find(c => c.searchKey === key));
+            
+            foundObjects.reverse();
+
+            foundObjects.forEach(color => {
+                const listItem = document.createElement('li');
+                listItem.innerHTML = `
+                    <div class='color-list-item'>
+                        <div class='color-swatch' style='background-color: ${color["Hex (RGB)"]};'></div>
+                        <div>${color["Name"]} - ${color["Hex (RGB)"]}</div>
+                    </div>
+                `;
+                listContainer.appendChild(listItem);
+            });
+
         }
 
         // Form submit handler
@@ -147,7 +170,7 @@
                 colorInput.classList.remove('border', 'border-danger');
                 counterEl.textContent = userFoundColors.size;
 
-                displayFoundColors();
+                displayFoundColorsReverse();
                 colorInput.value = '';
             } else {
                 colorInput.classList.add('border', 'border-danger');
