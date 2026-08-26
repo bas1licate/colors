@@ -12329,5 +12329,20 @@
     "Name": "Eigengrau",
     "searchKey": "eigengrau",
     "Hex (RGB)": "#16161D"
+  },
+  {
+    "Name": "Light Brown",
+    "searchKey": "lightbrown",
+    "Hex (RGB)": "#C4A484"
+  },
+  {
+    "Name": "Dark Blue",
+    "searchKey": "darkblue",
+    "Hex (RGB)": "#00008B"
+  },
+  {
+    "Name": "Dark Gray",
+    "searchKey": ["darkgray", "darkgrey"],
+    "Hex (RGB)": "#A9A9A9"
   }
 ]
