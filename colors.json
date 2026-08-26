@@ -12344,5 +12344,10 @@
     "Name": "Dark Gray",
     "searchKey": ["darkgray", "darkgrey"],
     "Hex (RGB)": "#A9A9A9"
+  },
+  {
+    "Name": "Dark Yellow",
+    "searchKey": "darkyellow",
+    "Hex (RGB)": "#8B8000"
   }
 ]
