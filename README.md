@@ -1,4 +1,4 @@
-A simple site that allows you to test your knowledge of color names! All colors were taken from the list of colors on Wikipedia.
+A simple site that allows you to test your knowledge of color names! *Most* colors were taken from the list of colors on Wikipedia.
 
 TODO: 
 - Add Timer
