@@ -4025,7 +4025,7 @@
   },
   {
     "Name": "Green (web)",
-    "searchKey": "green",
+    "searchKey": ["green", "webgreen"],
     "Hex (RGB)": "#008000",
     "Red (RGB)": "0%",
     "Green (RGB)": "50%",
