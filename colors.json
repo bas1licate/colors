@@ -4128,20 +4128,6 @@
     "Value (HSV)": "68%"
   },
   {
-    "Name": "Green-yellow",
-    "searchKey": "greenyellow",
-    "Hex (RGB)": "#ADFF2F",
-    "Red (RGB)": "68%",
-    "Green (RGB)": "100%",
-    "Blue (RGB)": "18%",
-    "Hue (HSL/HSV)": "84°",
-    "Satur. (HSL)": "100%",
-    "Light (HSL)": "59%",
-    "Satur. (HSV)": "82%",
-    "Value (HSV)": "100%",
-    "Source": "X11"
-  },
-  {
     "Name": "Gunmetal",
     "searchKey": "gunmetal",
     "Hex (RGB)": "#2a3439",
@@ -4244,20 +4230,6 @@
     "Light (HSL)": "48%",
     "Satur. (HSV)": "100%",
     "Value (HSV)": "96%"
-  },
-  {
-    "Name": "Honeydew",
-    "searchKey": "honeydew",
-    "Hex (RGB)": "#F0FFF0",
-    "Red (RGB)": "94%",
-    "Green (RGB)": "100%",
-    "Blue (RGB)": "94%",
-    "Hue (HSL/HSV)": "120°",
-    "Satur. (HSL)": "100%",
-    "Light (HSL)": "97%",
-    "Satur. (HSV)": "6%",
-    "Value (HSV)": "100%",
-    "Source": "X11"
   },
   {
     "Name": "Honolulu blue",
@@ -7406,34 +7378,6 @@
     "Value (HSV)": "92%"
   },
   {
-    "Name": "Pale Goldenrod",
-    "searchKey": "palegoldenrod",
-    "Hex (RGB)": "#EEE8AA",
-    "Red (RGB)": "93%",
-    "Green (RGB)": "91%",
-    "Blue (RGB)": "67%",
-    "Hue (HSL/HSV)": "55°",
-    "Satur. (HSL)": "67%",
-    "Light (HSL)": "80%",
-    "Satur. (HSV)": "29%",
-    "Value (HSV)": "93%",
-    "Source": "X11"
-  },
-  {
-    "Name": "Pale Green",
-    "searchKey": "palegreen",
-    "Hex (RGB)": "#98FB98",
-    "Red (RGB)": "60%",
-    "Green (RGB)": "98%",
-    "Blue (RGB)": "60%",
-    "Hue (HSL/HSV)": "120°",
-    "Satur. (HSL)": "93%",
-    "Light (HSL)": "79%",
-    "Satur. (HSV)": "39%",
-    "Value (HSV)": "98%",
-    "Source": "X11"
-  },
-  {
     "Name": "Pale pink",
     "searchKey": "palepink",
     "Hex (RGB)": "#FADADD",
@@ -7471,34 +7415,6 @@
     "Light (HSL)": "83%",
     "Satur. (HSV)": "20%",
     "Value (HSV)": "93%"
-  },
-  {
-    "Name": "Pale Turquoise",
-    "searchKey": "paleturquoise",
-    "Hex (RGB)": "#AFEEEE",
-    "Red (RGB)": "69%",
-    "Green (RGB)": "93%",
-    "Blue (RGB)": "93%",
-    "Hue (HSL/HSV)": "180°",
-    "Satur. (HSL)": "65%",
-    "Light (HSL)": "81%",
-    "Satur. (HSV)": "26%",
-    "Value (HSV)": "93%",
-    "Source": "X11"
-  },
-  {
-    "Name": "Pale Violet Red",
-    "searchKey": "palevioletred",
-    "Hex (RGB)": "#DB7093",
-    "Red (RGB)": "86%",
-    "Green (RGB)": "44%",
-    "Blue (RGB)": "58%",
-    "Hue (HSL/HSV)": "340°",
-    "Satur. (HSL)": "60%",
-    "Light (HSL)": "65%",
-    "Satur. (HSV)": "49%",
-    "Value (HSV)": "86%",
-    "Source": "X11"
   },
   {
     "Name": "Pansy purple",
@@ -7850,20 +7766,6 @@
     "Light (HSL)": "46%",
     "Satur. (HSV)": "100%",
     "Value (HSV)": "93%"
-  },
-  {
-    "Name": "Peru",
-    "searchKey": "peru",
-    "Hex (RGB)": "#CD853F",
-    "Red (RGB)": "80%",
-    "Green (RGB)": "52%",
-    "Blue (RGB)": "25%",
-    "Hue (HSL/HSV)": "30°",
-    "Satur. (HSL)": "59%",
-    "Light (HSL)": "53%",
-    "Satur. (HSV)": "69%",
-    "Value (HSV)": "80%",
-    "Source": "X11"
   },
   {
     "Name": "Petunia",
@@ -11623,20 +11525,6 @@
     "Value (HSV)": "100%"
   },
   {
-    "Name": "White Smoke",
-    "searchKey": "whitesmoke",
-    "Hex (RGB)": "#F5F5F5",
-    "Red (RGB)": "96%",
-    "Green (RGB)": "96%",
-    "Blue (RGB)": "96%",
-    "Hue (HSL/HSV)": "0°",
-    "Satur. (HSL)": "0%",
-    "Light (HSL)": "96%",
-    "Satur. (HSV)": "0%",
-    "Value (HSV)": "96%",
-    "Source": "X11"
-  },
-  {
     "Name": "Wild blue yonder",
     "searchKey": "wildblueyonder",
     "Hex (RGB)": "#A2ADD0",
@@ -12461,5 +12349,117 @@
     "Name": "Dark Yellow",
     "searchKey": "darkyellow",
     "Hex (RGB)": "#8B8000"
+  },
+  {
+    "Name": "Green-yellow",
+    "searchKey": "greenyellow",
+    "Hex (RGB)": "#ADFF2F",
+    "Red (RGB)": "68%",
+    "Green (RGB)": "100%",
+    "Blue (RGB)": "18%",
+    "Hue (HSL/HSV)": "84°",
+    "Satur. (HSL)": "100%",
+    "Light (HSL)": "59%",
+    "Satur. (HSV)": "82%",
+    "Value (HSV)": "100%",
+    "Source": "X11"
+  },
+  {
+    "Name": "Honeydew",
+    "searchKey": "honeydew",
+    "Hex (RGB)": "#F0FFF0",
+    "Red (RGB)": "94%",
+    "Green (RGB)": "100%",
+    "Blue (RGB)": "94%",
+    "Hue (HSL/HSV)": "120°",
+    "Satur. (HSL)": "100%",
+    "Light (HSL)": "97%",
+    "Satur. (HSV)": "6%",
+    "Value (HSV)": "100%",
+    "Source": "X11"
+  },
+  {
+    "Name": "Pale Goldenrod",
+    "searchKey": "palegoldenrod",
+    "Hex (RGB)": "#EEE8AA",
+    "Red (RGB)": "93%",
+    "Green (RGB)": "91%",
+    "Blue (RGB)": "67%",
+    "Hue (HSL/HSV)": "55°",
+    "Satur. (HSL)": "67%",
+    "Light (HSL)": "80%",
+    "Satur. (HSV)": "29%",
+    "Value (HSV)": "93%",
+    "Source": "X11"
+  },
+  {
+    "Name": "Pale Green",
+    "searchKey": "palegreen",
+    "Hex (RGB)": "#98FB98",
+    "Red (RGB)": "60%",
+    "Green (RGB)": "98%",
+    "Blue (RGB)": "60%",
+    "Hue (HSL/HSV)": "120°",
+    "Satur. (HSL)": "93%",
+    "Light (HSL)": "79%",
+    "Satur. (HSV)": "39%",
+    "Value (HSV)": "98%",
+    "Source": "X11"
+  },
+  {
+    "Name": "Pale Turquoise",
+    "searchKey": "paleturquoise",
+    "Hex (RGB)": "#AFEEEE",
+    "Red (RGB)": "69%",
+    "Green (RGB)": "93%",
+    "Blue (RGB)": "93%",
+    "Hue (HSL/HSV)": "180°",
+    "Satur. (HSL)": "65%",
+    "Light (HSL)": "81%",
+    "Satur. (HSV)": "26%",
+    "Value (HSV)": "93%",
+    "Source": "X11"
+  },
+  {
+    "Name": "Pale Violet Red",
+    "searchKey": "palevioletred",
+    "Hex (RGB)": "#DB7093",
+    "Red (RGB)": "86%",
+    "Green (RGB)": "44%",
+    "Blue (RGB)": "58%",
+    "Hue (HSL/HSV)": "340°",
+    "Satur. (HSL)": "60%",
+    "Light (HSL)": "65%",
+    "Satur. (HSV)": "49%",
+    "Value (HSV)": "86%",
+    "Source": "X11"
+  },
+  {
+    "Name": "Peru",
+    "searchKey": "peru",
+    "Hex (RGB)": "#CD853F",
+    "Red (RGB)": "80%",
+    "Green (RGB)": "52%",
+    "Blue (RGB)": "25%",
+    "Hue (HSL/HSV)": "30°",
+    "Satur. (HSL)": "59%",
+    "Light (HSL)": "53%",
+    "Satur. (HSV)": "69%",
+    "Value (HSV)": "80%",
+    "Source": "X11"
+  },
+  {
+    "Name": "White Smoke",
+    "searchKey": "whitesmoke",
+    "Hex (RGB)": "#F5F5F5",
+    "Red (RGB)": "96%",
+    "Green (RGB)": "96%",
+    "Blue (RGB)": "96%",
+    "Hue (HSL/HSV)": "0°",
+    "Satur. (HSL)": "0%",
+    "Light (HSL)": "96%",
+    "Satur. (HSV)": "0%",
+    "Value (HSV)": "96%",
+    "Source": "X11"
   }
 ]
