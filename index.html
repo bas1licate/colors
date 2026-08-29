@@ -58,6 +58,7 @@
     <script>
         let colorsGlobal = [];
         const userFoundColors = new Set(); 
+        let winner = false;
 
         async function loadJSONData() {
             try {
@@ -153,13 +154,14 @@
                 colorInput.value = '';
             }
 
-            if (userFoundColors.size === 100) {
+            if (userFoundColors.size === 100 && !winner) {
                 confetti();
                 $('.modal').modal('show');
 
                 $('.continue').on('click', function() {
                     $('.form-control').prop('disabled', false);
                 });
+                winner = true
             }
         });
     </script>
