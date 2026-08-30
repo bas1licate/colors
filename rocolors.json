@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "White (Roblox)",
+    "searchKey": [
+      "white",
+      "robloxwhite"
+    ],
+    "Hex (RGB)": "#f2f3f3",
+    "Red (RGB)": 0.950,
+    "Green (RGB)": 0.950,
+    "Blue (RGB)": 0.953,
+    "Palette": 87
+  },
+  {
+    "Name": "Grey (Roblox)",
+    "searchKey": [
+      "grey",
+      "robloxgrey",
+      "gray",
+      "robloxgray"
+    ],
+    "Hex (RGB)": "#a1a5a2",
+    "Red (RGB)": 0.632,
+    "Green (RGB)": 0.648,
+    "Blue (RGB)": 0.636,
+    "Palette": null
+  },
+  {
+    "Name": "Light yellow (Roblox)",
+    "searchKey": [
+      "lightyellow",
+      "robloxlightyellow"
+    ],
+    "Hex (RGB)": "#f9e999",
+    "Red (RGB)": 0.977,
+    "Green (RGB)": 0.914,
+    "Blue (RGB)": 0.600,
+    "Palette": null
+  },
+  {"Name": null, "searchKey": [null]},
+  {
+    "Name": "Brick yellow",
+    "searchKey": [
+      "brickyellow"
+    ],
+    "Hex (RGB)": "#d7c59a",
+    "Red (RGB)": 0.844,
+    "Green (RGB)": 0.773,
+    "Blue (RGB)": 0.604,
+    "Palette": 109
+  }
+]
