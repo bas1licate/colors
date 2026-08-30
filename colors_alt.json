@@ -500,8 +500,8 @@
     "Name": "Azure (X11/web color)",
     "searchKey": [
       "azure",
-      "x11",
-      "webcolor"
+      "x11azure",
+      "webazure"
     ],
     "Hex (RGB)": "#F0FFFF",
     "Red (RGB)": "94%",
