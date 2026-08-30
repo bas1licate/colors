@@ -3954,7 +3954,8 @@
   {
     "Name": "Fire engine red",
     "searchKey": [
-      "fireenginered"
+      "fireenginered",
+      "firetruckred"
     ],
     "Hex (RGB)": "#CE2029",
     "Red (RGB)": "81%",
@@ -13078,7 +13079,8 @@
   {
     "Name": "Vermilion",
     "searchKey": [
-      "vermilion"
+      "vermilion",
+      "vermillion"
     ],
     "Hex (RGB)": "#E34234",
     "Red (RGB)": "89%",
