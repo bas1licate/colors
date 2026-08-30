@@ -1034,7 +1034,8 @@
     "Name": "Blue (NCS)",
     "searchKey": [
       "blue",
-      "ncs"
+      "bluencs",
+      "ncsblue"
     ],
     "Hex (RGB)": "#0087BD",
     "Red (RGB)": "0%",
