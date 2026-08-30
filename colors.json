@@ -3973,7 +3973,7 @@
   },
   {
     "Name": "Gray (web)",
-    "searchKey": ["gray", "grey"],
+    "searchKey": ["gray", "grey", "webgray", "webgrey"],
     "Hex (RGB)": "#808080",
     "Red (RGB)": "50%",
     "Green (RGB)": "50%",
@@ -5728,7 +5728,7 @@
   },
   {
     "Name": "Maroon (web)",
-    "searchKey": "maroon",
+    "searchKey": ["maroon", "webmaroon"],
     "Hex (RGB)": "#800000",
     "Red (RGB)": "50%",
     "Green (RGB)": "0%",
@@ -8224,7 +8224,7 @@
   },
   {
     "Name": "Purple (web)",
-    "searchKey": "purple",
+    "searchKey": ["purple","webpurple"],
     "Hex (RGB)": "#800080",
     "Red (RGB)": "50%",
     "Green (RGB)": "0%",
