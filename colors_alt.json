@@ -5873,7 +5873,8 @@
   {
     "Name": "Light gray",
     "searchKey": [
-      "lightgray"
+      "lightgray",
+      "lightgrey"
     ],
     "Hex (RGB)": "#D3D3D3",
     "Red (RGB)": "83%",
