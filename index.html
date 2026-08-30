@@ -29,7 +29,20 @@
         <p><small>Warning: if you reload the page, you <em>will</em> lose your progress.</small></p>
         
         <p class="d-inline-flex align-items-center gap-1">Colors Found: <span id="counter" class="badge badge-primary mx-1">0</span> / 100</p>
-        
+        <ul class="nav nav-tabs mb-2">
+            <li class="nav-item">
+                <a class="nav-link active" id="nav-reverse-chrono" aria-current="page" href="#">Reverse Chronological</a>
+            </li>
+            <li class="nav-item" >
+                <a class="nav-link" id="nav-alphabetical" href="#">Alphabetical</a>
+            </li>
+            <li class="nav-item" >
+                <a class="nav-link" id="nav-hex" href="#">Hex</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="nav-palette" href="#">Palette View</a>
+            </li>
+        </ul>
         <div class="form-group">
             <form id="color-form">
                 <input class="form-control" type="text" id="color-input" name="color-input" required autofocus placeholder="Enter a color name...">
@@ -37,6 +50,7 @@
                 <p class="feedback"></p>
             </form>
         </div>
+
         <ul id="color-list"></ul>
     </div>
 
@@ -59,6 +73,9 @@
         let colorsGlobal = [];
         const userFoundColors = new Set(); 
         let winner = false;
+        let currentSort = 'nav-reverse-chrono'; 
+
+        const listContainer = document.getElementById('color-list');
 
         async function loadJSONData() {
             try {
@@ -67,9 +84,9 @@
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status} (${response.statusText})`);
                 }
-
+                
                 colorsGlobal = await response.json();
-                console.log(`Successfully loaded ${colorsGlobal.length} colors.`);
+            
             } catch (error) {
                 console.error("Error loading the JSON file:", error);
                 
@@ -87,17 +104,9 @@
             return input.split('(')[0].trim().toLowerCase().replace(/[\s\-_/']+/g, '');
         }
 
-        function displayFoundColors() {
-            const listContainer = document.getElementById('color-list');
+        function renderList(foundObjects) {
+            listContainer.classList.remove('d-flex', 'flex-wrap');
             listContainer.innerHTML = "";
-
-            // matches stored Name strings
-            const foundObjects = Array.from(userFoundColors)
-                .map(name => colorsGlobal.find(c => c.Name === name))
-                .filter(Boolean);
-            
-            foundObjects.reverse();
-
             foundObjects.forEach(color => {
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `
@@ -110,6 +119,82 @@
             });
         }
 
+        function displayFoundColorsReverseChronologically() {
+            const foundObjects = Array.from(userFoundColors)
+                .map(name => colorsGlobal.find(c => c.Name === name))
+                .filter(Boolean);
+            foundObjects.reverse();
+            renderList(foundObjects);
+        }
+
+        function displayFoundColorsAlphabetically() {
+            const foundObjects = Array.from(userFoundColors)
+                .map(name => colorsGlobal.find(c => c.Name === name))
+                .filter(Boolean);
+            foundObjects.sort((a, b) => a.Name.localeCompare(b.Name));
+            renderList(foundObjects);
+        }
+
+        function displayFoundColorsByHex() {
+            const foundObjects = Array.from(userFoundColors)
+                .map(name => colorsGlobal.find(c => c.Name === name))
+                .filter(Boolean);
+            foundObjects.sort((a, b) => a["Hex (RGB)"].localeCompare(b["Hex (RGB)"]));
+            renderList(foundObjects);
+        }
+
+        function displayFoundColorsPaletteView() {
+            const foundObjects = Array.from(userFoundColors)
+                .map(name => colorsGlobal.find(c => c.Name === name))
+                .filter(Boolean);
+
+            foundObjects.sort((a, b) => a["Hex (RGB)"].localeCompare(b["Hex (RGB)"]));
+            listContainer.innerHTML = "";
+
+            // Make the list container a flex container with wrapping
+            listContainer.classList.add('d-flex', 'flex-wrap');
+            listContainer.style.listStyle = 'none';
+            listContainer.style.paddingLeft = '0';
+
+            foundObjects.forEach(color => {
+                const listItem = document.createElement('li');
+                listItem.classList.add('m-1');
+                listItem.innerHTML = `
+                    <div class='color-swatch' 
+                        style='background-color: ${color["Hex (RGB)"]};' 
+                        title='${color["Name"]} (${color["Hex (RGB)"]})'>
+                    </div>
+                `;
+                listContainer.appendChild(listItem);
+            });
+        }
+
+        // Refreshes the list based on whichever tab is currently active
+        function updateListView() {
+            if (currentSort === 'nav-alphabetical') {
+                displayFoundColorsAlphabetically();
+            } else if (currentSort === 'nav-hex') {
+                displayFoundColorsByHex();
+            } else if (currentSort === 'nav-palette') {
+                displayFoundColorsPaletteView();
+            } else {
+                displayFoundColorsReverseChronologically();
+            }
+        }
+
+        function setActiveNavItem(selectedId) {
+            currentSort = selectedId;
+            ['nav-reverse-chrono', 'nav-alphabetical', 'nav-hex', 'nav-palette'].forEach(id => {
+                const el = document.getElementById(id);
+                if (id === selectedId) {
+                    el.classList.add('active');
+                } else {
+                    el.classList.remove('active');
+                }
+            });
+        }
+
+        // Handle form submission
         document.getElementById('color-form').addEventListener("submit", (event) => {
             event.preventDefault();
             
@@ -121,10 +206,8 @@
             const searchKey = normalizeInput(rawInput);
             
             feedbackEl.textContent = "";
-
             if (!searchKey) return;
 
-            // Look up entry by normalized searchKey
             const foundColor = colorsGlobal.find(color => {
                 if (Array.isArray(color.searchKey)) {
                     return color.searchKey.includes(searchKey);
@@ -133,7 +216,6 @@
             });
 
             if (foundColor) {
-                // Prevent duplicates
                 if (userFoundColors.has(foundColor.Name)) {
                     colorInput.classList.add('border', 'border-danger');
                     feedbackEl.textContent = "You already found this color!";
@@ -142,11 +224,11 @@
                 }
 
                 userFoundColors.add(foundColor.Name);
-                
                 colorInput.classList.remove('border', 'border-danger');
                 counterEl.textContent = userFoundColors.size;
 
-                displayFoundColors();
+                // Updates the list using the current active tab WITHOUT switching tabs
+                updateListView();
                 colorInput.value = '';
             } else {
                 colorInput.classList.add('border', 'border-danger');
@@ -161,8 +243,33 @@
                 $('.continue').on('click', function() {
                     $('.form-control').prop('disabled', false);
                 });
-                winner = true
+                winner = true;
             }
+        });
+
+        // Tab Click Listeners
+        document.getElementById('nav-reverse-chrono').addEventListener('click', (e) => {
+            e.preventDefault();
+            setActiveNavItem('nav-reverse-chrono');
+            displayFoundColorsReverseChronologically();
+        });
+
+        document.getElementById('nav-alphabetical').addEventListener('click', (e) => {
+            e.preventDefault();
+            setActiveNavItem('nav-alphabetical');
+            displayFoundColorsAlphabetically();
+        });
+
+        document.getElementById('nav-hex').addEventListener('click', (e) => {
+            e.preventDefault();
+            setActiveNavItem('nav-hex');
+            displayFoundColorsByHex();
+        });
+
+        document.getElementById('nav-palette').addEventListener('click', (e) => {
+            e.preventDefault();
+            setActiveNavItem('nav-palette');
+            displayFoundColorsPaletteView();
         });
     </script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
