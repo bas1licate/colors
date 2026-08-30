@@ -3169,7 +3169,8 @@
   {
     "Name": "Dark slate gray",
     "searchKey": [
-      "darkslategray"
+      "darkslategray",
+      "darkslategrey"
     ],
     "Hex (RGB)": "#2F4F4F",
     "Red (RGB)": "18%",
@@ -6006,7 +6007,8 @@
   {
     "Name": "Light slate gray",
     "searchKey": [
-      "lightslategray"
+      "lightslategray",
+      "lightslategrey"
     ],
     "Hex (RGB)": "#778899",
     "Red (RGB)": "47%",
