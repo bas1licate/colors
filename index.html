@@ -62,7 +62,7 @@
 
         async function loadJSONData() {
             try {
-                const response = await fetch(`./colors.json?v=${Date.now()}`);
+                const response = await fetch(`./colors_alt.json?v=${Date.now()}`);
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status} (${response.statusText})`);
