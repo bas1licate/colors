@@ -14659,5 +14659,15 @@
     "Name": "Titanium White",
     "searchKey": ["titaniumwhite"],
     "Hex (RGB)": "#E4E4E4"
+  },
+  {
+    "Name": "Royal Blue",
+    "searchKey": ["royalblue"],
+    "Hex (RGB)": "#4169E1"
+  },
+  {
+    "Name": "Obsidian",
+    "searchKey": ["obsidian"],
+    "Hex (RGB)": "#0B0B0B"
   }
 ]
