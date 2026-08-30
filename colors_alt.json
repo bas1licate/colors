@@ -10538,8 +10538,7 @@
   {
     "Name": "Royal blue (dark)",
     "searchKey": [
-      "royalblue",
-      "dark"
+      "darkroyalblue"
     ],
     "Hex (RGB)": "#002366",
     "Red (RGB)": "0%",
@@ -10554,8 +10553,7 @@
   {
     "Name": "Royal blue (light)",
     "searchKey": [
-      "royalblue",
-      "light"
+      "lightroyalblue"
     ],
     "Hex (RGB)": "#4169E1",
     "Red (RGB)": "25%",
@@ -11572,7 +11570,8 @@
   {
     "Name": "Slate gray",
     "searchKey": [
-      "slategray"
+      "slategray",
+      "slategrey"
     ],
     "Hex (RGB)": "#708090",
     "Red (RGB)": "44%",
