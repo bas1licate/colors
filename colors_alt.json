@@ -3497,6 +3497,7 @@
     "Name": "Drab dark brown",
     "searchKey": [
       "drabdarkbrown"
+      "pantone448c"
     ],
     "Hex (RGB)": "#4A412A",
     "Red (RGB)": "29%",
@@ -4423,7 +4424,7 @@
     "Name": "Gold (metallic)",
     "searchKey": [
       "gold",
-      "metallic"
+      "metallicgold"
     ],
     "Hex (RGB)": "#D4AF37",
     "Red (RGB)": "83%",
