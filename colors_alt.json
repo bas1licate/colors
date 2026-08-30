@@ -434,7 +434,8 @@
   {
     "Name": "Ash gray",
     "searchKey": [
-      "ashgray"
+      "ashgray",
+      "ashgrey"
     ],
     "Hex (RGB)": "#B2BEB5",
     "Red (RGB)": "70%",
@@ -1103,7 +1104,10 @@
     "searchKey": [
       "bluegray",
       "crayolabluegray",
-      "bluegraycrayola"
+      "bluegraycrayola",
+      "bluegreycrayola",
+      "bluegrey",
+      "crayolabluegrey"
     ],
     "Hex (RGB)": "#6699CC",
     "Red (RGB)": "40%",
@@ -3458,7 +3462,8 @@
   {
     "Name": "Dim gray",
     "searchKey": [
-      "dimgray"
+      "dimgray",
+      "dimgrey"
     ],
     "Hex (RGB)": "#696969",
     "Red (RGB)": "41%",
@@ -4557,7 +4562,8 @@
   {
     "Name": "Granite gray",
     "searchKey": [
-      "granitegray"
+      "granitegray",
+      "granitegrey"
     ],
     "Hex (RGB)": "#676767",
     "Red (RGB)": "40%",
@@ -4589,7 +4595,10 @@
     "searchKey": [
       "gray",
       "webgray",
-      "grayweb"
+      "grayweb",
+      "greyweb",
+      "grey",
+      "webgrey"
     ],
     "Hex (RGB)": "#808080",
     "Red (RGB)": "50%",
@@ -4605,7 +4614,10 @@
     "Name": "Gray (X11 gray)",
     "searchKey": [
       "gray",
-      "x11gray"
+      "x11gray",
+      "x11grey",
+      "greyx11",
+      "grayx11"
     ],
     "Hex (RGB)": "#BEBEBE",
     "Red (RGB)": "75%",
@@ -4871,7 +4883,8 @@
   {
     "Name": "Heliotrope gray",
     "searchKey": [
-      "heliotropegray"
+      "heliotropegray",
+      "heliotropegrey"
     ],
     "Hex (RGB)": "#AA98A9",
     "Red (RGB)": "67%",
@@ -5631,7 +5644,8 @@
   {
     "Name": "Lavender gray",
     "searchKey": [
-      "lavendergray"
+      "lavendergray",
+      "lavendergrey"
     ],
     "Hex (RGB)": "#C4C3D0",
     "Red (RGB)": "77%",
@@ -11740,7 +11754,8 @@
   {
     "Name": "Spanish gray",
     "searchKey": [
-      "spanishgray"
+      "spanishgray",
+      "spanishgrey"
     ],
     "Hex (RGB)": "#989898",
     "Red (RGB)": "60%",
@@ -12239,7 +12254,8 @@
   {
     "Name": "Taupe gray",
     "searchKey": [
-      "taupegray"
+      "taupegray",
+      "taupegrey"
     ],
     "Hex (RGB)": "#8B8589",
     "Red (RGB)": "55%",
@@ -14049,7 +14065,8 @@
   {
     "Name": "Zinc gray",
     "searchKey": [
-      "zincgray"
+      "zincgray",
+      "zincgrey"
     ],
     "Hex (RGB)": "#655B55",
     "Red (RGB)": "40%",
@@ -14109,7 +14126,8 @@
   {
     "Name": "Zircon gray",
     "searchKey": [
-      "zircongray"
+      "zircongray",
+      "zircongrey"
     ],
     "Hex (RGB)": "#807473",
     "Red (RGB)": "50%",
@@ -14359,7 +14377,7 @@
   {
     "Name": "Dark Gray",
     "searchKey": ["darkgray", "darkgrey"],
-    "Hex (RGB)": "#A9A9A9"
+    "Hex (RGB)": "#363737"
   },
   {
     "Name": "Dark Yellow",
