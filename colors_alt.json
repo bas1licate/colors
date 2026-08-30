@@ -8130,7 +8130,7 @@
     "Name": "Olive Drab (#3)",
     "searchKey": [
       "olivedrab",
-      "3"
+      "olivedrab3"
     ],
     "Hex (RGB)": "#6B8E23",
     "Red (RGB)": "42%",
@@ -9996,7 +9996,7 @@
     "Name": "Red (NCS)",
     "searchKey": [
       "red",
-      "ncs"
+      "ncsred"
     ],
     "Hex (RGB)": "#C40233",
     "Red (RGB)": "77%",
@@ -10046,7 +10046,8 @@
     "Name": "Red (RYB)",
     "searchKey": [
       "red",
-      "ryb"
+      "rybred",
+      "redryb"
     ],
     "Hex (RGB)": "#FE2712",
     "Red (RGB)": "100%",
@@ -10110,7 +10111,8 @@
     "Name": "Red-orange (Color wheel)",
     "searchKey": [
       "redorange",
-      "colorwheel"
+      "colorwheelredorange",
+      "redorangecolorwheel"
     ],
     "Hex (RGB)": "#FF4500",
     "Red (RGB)": "100%",
@@ -10188,7 +10190,7 @@
     "Name": "Red-violet (Color wheel)",
     "searchKey": [
       "redviolet",
-      "colorwheel"
+      "colorwheelredviolet"
     ],
     "Hex (RGB)": "#922B3E",
     "Red (RGB)": "57%",
@@ -10264,7 +10266,8 @@
     "Name": "Rich black (FOGRA29)",
     "searchKey": [
       "richblack",
-      "fogra29"
+      "fogra29",
+      "fogra29richblack"
     ],
     "Hex (RGB)": "#010B13",
     "Red (RGB)": "0%",
@@ -11400,7 +11403,8 @@
     "Name": "Silver (Metallic)",
     "searchKey": [
       "silver",
-      "metallic"
+      "metallicsilver",
+      "silvermetallic"
     ],
     "Hex (RGB)": "#AAA9AD",
     "Red (RGB)": "67%",
@@ -12370,6 +12374,7 @@
     "Name": "Tenné (tawny)",
     "searchKey": [
       "tenn",
+      "tenne",
       "tawny"
     ],
     "Hex (RGB)": "#CD5700",
@@ -12895,7 +12900,8 @@
   {
     "Name": "University of Pennsylvania red",
     "searchKey": [
-      "universityofpennsylvaniared"
+      "universityofpennsylvaniared",
+      "upennred"
     ],
     "Hex (RGB)": "#A50021",
     "Red (RGB)": "65%",
@@ -13167,7 +13173,8 @@
     "Name": "Electric Violet (RGB)",
     "searchKey": [
       "electricviolet",
-      "rgb"
+      "rgbelectricviolet",
+      "electricvioletrgb"
     ],
     "Hex (RGB)": "#8F00FF",
     "Red (RGB)": "56%",
@@ -13200,7 +13207,8 @@
     "Name": "Violet (RYB)",
     "searchKey": [
       "violet",
-      "ryb"
+      "rybviolet",
+      "violetryb"
     ],
     "Hex (RGB)": "#8601AF",
     "Red (RGB)": "53%",
@@ -13280,7 +13288,8 @@
     "Name": "Violet-red(PerBang)",
     "searchKey": [
       "violetred",
-      "perbang"
+      "perbangvioletred",
+      "violetredperbang"
     ],
     "Hex (RGB)": "#F0599C",
     "Red (RGB)": "94%",
@@ -13825,7 +13834,8 @@
     "Name": "Yellow (NCS)",
     "searchKey": [
       "yellow",
-      "ncs"
+      "ncsyellow",
+      "yellowncs"
     ],
     "Hex (RGB)": "#FFD300",
     "Red (RGB)": "100%",
@@ -13858,7 +13868,7 @@
     "Name": "Yellow (process)",
     "searchKey": [
       "yellow",
-      "process"
+      "processyellow"
     ],
     "Hex (RGB)": "#FFEF00",
     "Red (RGB)": "100%",
@@ -13874,7 +13884,8 @@
     "Name": "Yellow (RYB)",
     "searchKey": [
       "yellow",
-      "ryb"
+      "rybyellow",
+      "yellowryb"
     ],
     "Hex (RGB)": "#FEFE33",
     "Red (RGB)": "100%",
@@ -13922,7 +13933,7 @@
     "Name": "Yellow-green (Color Wheel)",
     "searchKey": [
       "yellowgreen",
-      "colorwheel"
+      "colorwheelyellowgreen"
     ],
     "Hex (RGB)": "#30B21A",
     "Red (RGB)": "19%",
@@ -13953,7 +13964,7 @@
     "Name": "Yellow Orange (Color Wheel)",
     "searchKey": [
       "yelloworange",
-      "colorwheel"
+      "colorwheelyelloworange"
     ],
     "Hex (RGB)": "#FF9505",
     "Red (RGB)": "100%",
