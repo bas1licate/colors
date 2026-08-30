@@ -101,7 +101,7 @@
         loadJSONData();
 
         function normalizeInput(input) {
-            return input.split('(')[0].trim().toLowerCase().replace(/[\s\-_/'\.]+/g, '');
+            return input.split('(')[0].trim().toLowerCase().replace(/[\s\-_/'\.#]+/g, '');
         }
 
         function renderList(foundObjects) {
