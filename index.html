@@ -99,10 +99,8 @@
         }
 
         loadJSONData();
+        const normalizeInput = input => input.toUpperCase().toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}]+/gu, '');
 
-        function normalizeInput(input) {
-            return input.toLowerCase().replace(/[\s\-_/'\.#]+/g, '');
-        }
 
         function renderList(foundObjects) {
             listContainer.classList.remove('d-flex', 'flex-wrap');
