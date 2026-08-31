@@ -107,7 +107,7 @@
             listContainer.classList.remove('d-flex', 'flex-wrap');
             listContainer.innerHTML = "";
             foundObjects.forEach(color => {
-                listContainer.appendChild(Object.assign(document.createElement('li'),{innerHTML: `
+                const listItem = listContainer.appendChild(Object.assign(document.createElement('li'),{innerHTML: `
                     <div class='color-list-item'>
                         <div class='color-swatch' style='background-color: ${color["Hex (RGB)"]};'></div>
                         <div>${color["Name"]} - ${color["Hex (RGB)"]}</div>
@@ -154,15 +154,12 @@
             listContainer.style.paddingLeft = '0';
 
             foundObjects.forEach(color => {
-                const listItem = document.createElement('li');
-                listItem.classList.add('m-1');
-                listItem.innerHTML = `
+                const listItem = listContainer.appendChild(Object.assign(document.createElement('li'),{className: 'm-1', innerHTML: `
                     <div class='color-swatch' 
                         style='background-color: ${color["Hex (RGB)"]};' 
                         title='${color["Name"]} (${color["Hex (RGB)"]})'>
                     </div>
-                `;
-                listContainer.appendChild(listItem);
+                `}));
             });
         }
 
