@@ -99,7 +99,7 @@
         }
 
         loadJSONData();
-        const normalizeInput = input => input.split(/[\(\)]/).join("").toUpperCase().toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}]+/gu, '');
+        const normalizeInput = input => input.toUpperCase().toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}]+/gu, '');
 
 
         function renderList(foundObjects) {
