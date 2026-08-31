@@ -500,8 +500,8 @@
     "Name": "Azure (X11/web color)",
     "searchKey": [
       "azure",
-      "x11",
-      "webcolor"
+      "x11azure",
+      "webazure"
     ],
     "Hex (RGB)": "#F0FFFF",
     "Red (RGB)": "94%",
@@ -1034,7 +1034,8 @@
     "Name": "Blue (NCS)",
     "searchKey": [
       "blue",
-      "ncs"
+      "bluencs",
+      "ncsblue"
     ],
     "Hex (RGB)": "#0087BD",
     "Red (RGB)": "0%",
@@ -2981,7 +2982,8 @@
     "Name": "Dark liver (horses)",
     "searchKey": [
       "darkliver",
-      "horses"
+      "horsesdarkliver",
+      "darkliverhorses"
     ],
     "Hex (RGB)": "#543D37",
     "Red (RGB)": "33%",
@@ -3496,6 +3498,7 @@
     "Name": "Drab dark brown",
     "searchKey": [
       "drabdarkbrown"
+      "pantone448c"
     ],
     "Hex (RGB)": "#4A412A",
     "Red (RGB)": "29%",
@@ -4422,7 +4425,7 @@
     "Name": "Gold (metallic)",
     "searchKey": [
       "gold",
-      "metallic"
+      "metallicgold"
     ],
     "Hex (RGB)": "#D4AF37",
     "Red (RGB)": "83%",
@@ -4699,7 +4702,7 @@
     "Name": "Green (NCS)",
     "searchKey": [
       "green",
-      "ncs"
+      "ncsgreen"
     ],
     "Hex (RGB)": "#009F6B",
     "Red (RGB)": "0%",
@@ -5155,7 +5158,8 @@
     "Name": "International orange (engineering)",
     "searchKey": [
       "internationalorange",
-      "engineering"
+      "internationalorangeengineering",
+      "engineeringinternationalorange"
     ],
     "Hex (RGB)": "#BA160C",
     "Red (RGB)": "73%",
@@ -5171,7 +5175,9 @@
     "Name": "International orange (Golden Gate Bridge)",
     "searchKey": [
       "internationalorange",
-      "goldengatebridge"
+      "goldengatebridge",
+      "goldengatebridgeinternationalorange",
+      "internationalorangegoldengatebridge"
     ],
     "Hex (RGB)": "#C0362C",
     "Red (RGB)": "75%",
@@ -6100,7 +6106,8 @@
     "Name": "Lime (color wheel)",
     "searchKey": [
       "lime",
-      "colorwheel"
+      "colorwheellime",
+      "limecolorwheel"
     ],
     "Hex (RGB)": "#BFFF00",
     "Red (RGB)": "75%",
@@ -6239,7 +6246,8 @@
     "Name": "Liver (dogs)",
     "searchKey": [
       "liver",
-      "dogs"
+      "dogsliver",
+      "liverdogs"
     ],
     "Hex (RGB)": "#B86D29",
     "Red (RGB)": "72%",
@@ -6255,7 +6263,8 @@
     "Name": "Liver (organ)",
     "searchKey": [
       "liver",
-      "organ"
+      "organliver",
+      "liverorgan"
     ],
     "Hex (RGB)": "#6C2E1F",
     "Red (RGB)": "42%",
@@ -6363,7 +6372,8 @@
     "Name": "Magenta (dye)",
     "searchKey": [
       "magenta",
-      "dye"
+      "magentadye",
+      "dyemagenta"
     ],
     "Hex (RGB)": "#CA1F7B",
     "Red (RGB)": "79%",
@@ -6396,7 +6406,7 @@
     "Name": "Magenta (process)",
     "searchKey": [
       "magenta",
-      "process"
+      "processmagenta"
     ],
     "Hex (RGB)": "#FF0090",
     "Red (RGB)": "100%",
@@ -8121,7 +8131,7 @@
     "Name": "Olive Drab (#3)",
     "searchKey": [
       "olivedrab",
-      "3"
+      "olivedrab3"
     ],
     "Hex (RGB)": "#6B8E23",
     "Red (RGB)": "42%",
@@ -9987,7 +9997,7 @@
     "Name": "Red (NCS)",
     "searchKey": [
       "red",
-      "ncs"
+      "ncsred"
     ],
     "Hex (RGB)": "#C40233",
     "Red (RGB)": "77%",
@@ -10037,7 +10047,8 @@
     "Name": "Red (RYB)",
     "searchKey": [
       "red",
-      "ryb"
+      "rybred",
+      "redryb"
     ],
     "Hex (RGB)": "#FE2712",
     "Red (RGB)": "100%",
@@ -10101,7 +10112,8 @@
     "Name": "Red-orange (Color wheel)",
     "searchKey": [
       "redorange",
-      "colorwheel"
+      "colorwheelredorange",
+      "redorangecolorwheel"
     ],
     "Hex (RGB)": "#FF4500",
     "Red (RGB)": "100%",
@@ -10179,7 +10191,7 @@
     "Name": "Red-violet (Color wheel)",
     "searchKey": [
       "redviolet",
-      "colorwheel"
+      "colorwheelredviolet"
     ],
     "Hex (RGB)": "#922B3E",
     "Red (RGB)": "57%",
@@ -10255,7 +10267,8 @@
     "Name": "Rich black (FOGRA29)",
     "searchKey": [
       "richblack",
-      "fogra29"
+      "fogra29",
+      "fogra29richblack"
     ],
     "Hex (RGB)": "#010B13",
     "Red (RGB)": "0%",
@@ -11391,7 +11404,8 @@
     "Name": "Silver (Metallic)",
     "searchKey": [
       "silver",
-      "metallic"
+      "metallicsilver",
+      "silvermetallic"
     ],
     "Hex (RGB)": "#AAA9AD",
     "Red (RGB)": "67%",
@@ -12361,6 +12375,8 @@
     "Name": "Tenné (tawny)",
     "searchKey": [
       "tenn",
+      "tenne",
+      "tenné",
       "tawny"
     ],
     "Hex (RGB)": "#CD5700",
@@ -12886,7 +12902,8 @@
   {
     "Name": "University of Pennsylvania red",
     "searchKey": [
-      "universityofpennsylvaniared"
+      "universityofpennsylvaniared",
+      "upennred"
     ],
     "Hex (RGB)": "#A50021",
     "Red (RGB)": "65%",
@@ -13158,7 +13175,8 @@
     "Name": "Electric Violet (RGB)",
     "searchKey": [
       "electricviolet",
-      "rgb"
+      "rgbelectricviolet",
+      "electricvioletrgb"
     ],
     "Hex (RGB)": "#8F00FF",
     "Red (RGB)": "56%",
@@ -13191,7 +13209,8 @@
     "Name": "Violet (RYB)",
     "searchKey": [
       "violet",
-      "ryb"
+      "rybviolet",
+      "violetryb"
     ],
     "Hex (RGB)": "#8601AF",
     "Red (RGB)": "53%",
@@ -13271,7 +13290,8 @@
     "Name": "Violet-red(PerBang)",
     "searchKey": [
       "violetred",
-      "perbang"
+      "perbangvioletred",
+      "violetredperbang"
     ],
     "Hex (RGB)": "#F0599C",
     "Red (RGB)": "94%",
@@ -13816,7 +13836,8 @@
     "Name": "Yellow (NCS)",
     "searchKey": [
       "yellow",
-      "ncs"
+      "ncsyellow",
+      "yellowncs"
     ],
     "Hex (RGB)": "#FFD300",
     "Red (RGB)": "100%",
@@ -13849,7 +13870,7 @@
     "Name": "Yellow (process)",
     "searchKey": [
       "yellow",
-      "process"
+      "processyellow"
     ],
     "Hex (RGB)": "#FFEF00",
     "Red (RGB)": "100%",
@@ -13865,7 +13886,8 @@
     "Name": "Yellow (RYB)",
     "searchKey": [
       "yellow",
-      "ryb"
+      "rybyellow",
+      "yellowryb"
     ],
     "Hex (RGB)": "#FEFE33",
     "Red (RGB)": "100%",
@@ -13913,7 +13935,7 @@
     "Name": "Yellow-green (Color Wheel)",
     "searchKey": [
       "yellowgreen",
-      "colorwheel"
+      "colorwheelyellowgreen"
     ],
     "Hex (RGB)": "#30B21A",
     "Red (RGB)": "19%",
@@ -13944,7 +13966,7 @@
     "Name": "Yellow Orange (Color Wheel)",
     "searchKey": [
       "yelloworange",
-      "colorwheel"
+      "colorwheelyelloworange"
     ],
     "Hex (RGB)": "#FF9505",
     "Red (RGB)": "100%",
