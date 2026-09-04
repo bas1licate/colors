@@ -86,7 +86,8 @@
                     throw new Error(`HTTP error! Status: ${response.status} (${response.statusText})`);
                 }
                 
-                return await response.json();
+                let colorData = await response.json();
+                colorsGlobal.push(...colorData);
             
             } catch (error) {
                 console.error("Error loading the JSON file:", error);
@@ -96,11 +97,10 @@
                     feedbackEl.textContent = `Failed to load color database ${set}: ${error.message}`;
                     feedbackEl.style.color = "red";
                 }
-                return [];
             }
         }
 
-        const loadColSet = x => loadJSONData(x).then(data => colorsGlobal.push(...data)); loadColSet('colors_alt')
+        loadJSONData('colors_alt')
         const normalizeInput = input => input.toUpperCase().toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}]+/gu, '');
 
 
