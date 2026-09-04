@@ -71,7 +71,7 @@
     </div>
 
     <script>
-        let colorsGlobal = [];
+        const colorsGlobal = []; const LS = [];
         const userFoundColors = new Set(); 
         let winner = false;
         let currentSort = 'nav-reverse-chrono'; 
@@ -80,6 +80,7 @@
 
         async function loadJSONData(set) {
             try {
+                if (LS.includes(set)) {throw new Error(`A set of this name has already been loaded. As it is most likely this set, it cannot be loaded again.`)}
                 const response = await fetch(`./${set}.json?v=${Date.now()}`);
                 
                 if (!response.ok) {
@@ -87,7 +88,7 @@
                 }
                 
                 let colorData = await response.json();
-                colorsGlobal.push(...colorData);
+                colorsGlobal.push(...colorData); LS.push(set)
             
             } catch (error) {
                 console.error("Error loading the JSON file:", error);
