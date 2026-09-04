@@ -71,35 +71,37 @@
     </div>
 
     <script>
-        let colorsGlobal = [];
+        const colorsGlobal = []; const LS = [];
         const userFoundColors = new Set(); 
         let winner = false;
         let currentSort = 'nav-reverse-chrono'; 
 
         const listContainer = document.getElementById('color-list');
 
-        async function loadJSONData() {
+        async function loadJSONData(set) {
             try {
-                const response = await fetch(`./colors_alt.json?v=${Date.now()}`);
+                if (LS.includes(set)) {throw new Error(`A set of this name has already been loaded. As it is most likely this set, it cannot be loaded again.`)}
+                const response = await fetch(`./${set}.json?v=${Date.now()}`);
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status} (${response.statusText})`);
                 }
                 
-                colorsGlobal = await response.json();
+                let colorData = await response.json();
+                colorsGlobal.push(...colorData); LS.push(set)
             
             } catch (error) {
                 console.error("Error loading the JSON file:", error);
                 
                 const feedbackEl = document.querySelector('.feedback');
                 if (feedbackEl) {
-                    feedbackEl.textContent = `Failed to load color database: ${error.message}`;
+                    feedbackEl.textContent = `Failed to load color database ${set}: ${error.message}`;
                     feedbackEl.style.color = "red";
                 }
             }
         }
 
-        loadJSONData();
+        loadJSONData('colors_alt')
         const normalizeInput = input => input.toUpperCase().toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}]+/gu, '');
 
 
