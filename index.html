@@ -100,7 +100,7 @@
             }
         }
 
-        loadJSONData('colors_alt').then(data => colorsGlobal.push(...data))
+        const loadColSet = x => loadJSONData(x).then(data => colorsGlobal.push(...data)); loadColSet('colors_alt')
         const normalizeInput = input => input.toUpperCase().toLowerCase().normalize("NFKD").replace(/[^\p{L}\p{N}]+/gu, '');
 
 
