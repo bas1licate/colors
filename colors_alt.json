@@ -1442,8 +1442,7 @@
     "Satur. (HSL)": "26%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "41%",
-    "Value (HSV)": "63%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "63%"
   },
   {
     "Name": "Cadet grey",
@@ -1458,8 +1457,7 @@
     "Satur. (HSL)": "16%",
     "Light (HSL)": "63%",
     "Satur. (HSV)": "18%",
-    "Value (HSV)": "69%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "69%"
   },
   {
     "Name": "Cadmium green",
@@ -1474,8 +1472,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "21%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "42%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "42%"
   },
   {
     "Name": "Cadmium orange",
@@ -1490,8 +1487,7 @@
     "Satur. (HSL)": "84%",
     "Light (HSL)": "55%",
     "Satur. (HSV)": "81%",
-    "Value (HSV)": "93%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "93%"
   },
   {
     "Name": "Café au lait",
@@ -1506,8 +1502,7 @@
     "Satur. (HSL)": "30%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "45%",
-    "Value (HSV)": "65%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "65%"
   },
   {
     "Name": "Café noir",
@@ -1522,8 +1517,7 @@
     "Satur. (HSL)": "39%",
     "Light (HSL)": "21%",
     "Satur. (HSV)": "56%",
-    "Value (HSV)": "29%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "29%"
   },
   {
     "Name": "Cambridge blue",
@@ -1538,8 +1532,7 @@
     "Satur. (HSL)": "20%",
     "Light (HSL)": "70%",
     "Satur. (HSV)": "16%",
-    "Value (HSV)": "76%",
-    "Source": "University of Cambridge[citation needed]"
+    "Value (HSV)": "76%"
   },
   {
     "Name": "Camel",
@@ -1554,8 +1547,7 @@
     "Satur. (HSL)": "41%",
     "Light (HSL)": "59%",
     "Satur. (HSV)": "45%",
-    "Value (HSV)": "76%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "76%"
   },
   {
     "Name": "Cameo pink",
@@ -1570,8 +1562,7 @@
     "Satur. (HSL)": "62%",
     "Light (HSL)": "84%",
     "Satur. (HSV)": "22%",
-    "Value (HSV)": "94%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "94%"
   },
   {
     "Name": "Canary",
@@ -1586,8 +1577,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "80%",
     "Satur. (HSV)": "40%",
-    "Value (HSV)": "100%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Canary yellow",
@@ -1602,8 +1592,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "CMYK color model[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Candy pink",
@@ -1618,8 +1607,7 @@
     "Satur. (HSL)": "68%",
     "Light (HSL)": "67%",
     "Satur. (HSV)": "50%",
-    "Value (HSV)": "89%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "89%"
   },
   {
     "Name": "Cardinal",
@@ -1634,8 +1622,7 @@
     "Satur. (HSL)": "74%",
     "Light (HSL)": "44%",
     "Satur. (HSV)": "85%",
-    "Value (HSV)": "77%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "77%"
   },
   {
     "Name": "Caribbean green",
@@ -1650,8 +1637,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "40%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "80%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "80%"
   },
   {
     "Name": "Carmine",
@@ -1666,8 +1652,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "29%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "59%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "59%"
   },
   {
     "Name": "Carmine (M&P)",
@@ -1683,8 +1668,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "42%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "84%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "84%"
   },
   {
     "Name": "Carnation pink",
@@ -1699,8 +1683,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "83%",
     "Satur. (HSV)": "35%",
-    "Value (HSV)": "100%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Carnelian",
@@ -1715,8 +1698,7 @@
     "Satur. (HSL)": "74%",
     "Light (HSL)": "40%",
     "Satur. (HSV)": "85%",
-    "Value (HSV)": "70%",
-    "Source": "Cornell University[citation needed]"
+    "Value (HSV)": "70%"
   },
   {
     "Name": "Carolina blue",
@@ -1731,8 +1713,7 @@
     "Satur. (HSL)": "59%",
     "Light (HSL)": "58%",
     "Satur. (HSV)": "59%",
-    "Value (HSV)": "83%",
-    "Source": "University of North Carolina[citation needed]"
+    "Value (HSV)": "83%"
   },
   {
     "Name": "Carrot orange",
@@ -1747,8 +1728,7 @@
     "Satur. (HSL)": "85%",
     "Light (HSL)": "53%",
     "Satur. (HSV)": "86%",
-    "Value (HSV)": "93%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "93%"
   },
   {
     "Name": "Catawba",
@@ -1763,8 +1743,7 @@
     "Satur. (HSL)": "35%",
     "Light (HSL)": "33%",
     "Satur. (HSV)": "52%",
-    "Value (HSV)": "44%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "44%"
   },
   {
     "Name": "Cedar Chest",
@@ -1779,8 +1758,7 @@
     "Satur. (HSL)": "54%",
     "Light (HSL)": "54%",
     "Satur. (HSV)": "64%",
-    "Value (HSV)": "79%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "79%"
   },
   {
     "Name": "Celadon",
@@ -1795,8 +1773,7 @@
     "Satur. (HSL)": "47%",
     "Light (HSL)": "78%",
     "Satur. (HSV)": "24%",
-    "Value (HSV)": "88%",
-    "Source": "encycolorpedia.com[citation needed]"
+    "Value (HSV)": "88%"
   },
   {
     "Name": "Celeste",
@@ -1811,8 +1788,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "85%",
     "Satur. (HSV)": "30%",
-    "Value (HSV)": "100%",
-    "Source": "Fantetti and Petracchi[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Cerise",
@@ -1827,8 +1803,7 @@
     "Satur. (HSL)": "72%",
     "Light (HSL)": "53%",
     "Satur. (HSV)": "78%",
-    "Value (HSV)": "87%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "87%"
   },
   {
     "Name": "Cerulean",
@@ -1843,8 +1818,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "33%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "65%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "65%"
   },
   {
     "Name": "Cerulean blue",
@@ -1859,8 +1833,7 @@
     "Satur. (HSL)": "64%",
     "Light (HSL)": "46%",
     "Satur. (HSV)": "78%",
-    "Value (HSV)": "75%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "75%"
   },
   {
     "Name": "Cerulean frost",
@@ -1875,8 +1848,7 @@
     "Satur. (HSL)": "42%",
     "Light (HSL)": "60%",
     "Satur. (HSV)": "44%",
-    "Value (HSV)": "76%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "76%"
   },
   {
     "Name": "Cerulean (Crayola)",
@@ -1893,8 +1865,7 @@
     "Satur. (HSL)": "76%",
     "Light (HSL)": "48%",
     "Satur. (HSV)": "86%",
-    "Value (HSV)": "84%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "84%"
   },
   {
     "Name": "Cerulean (RGB)",
@@ -1910,8 +1881,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Champagne",
@@ -1926,8 +1896,7 @@
     "Satur. (HSL)": "72%",
     "Light (HSL)": "89%",
     "Satur. (HSV)": "17%",
-    "Value (HSV)": "97%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "97%"
   },
   {
     "Name": "Champagne pink",
@@ -1942,8 +1911,7 @@
     "Satur. (HSL)": "55%",
     "Light (HSL)": "88%",
     "Satur. (HSV)": "14%",
-    "Value (HSV)": "95%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "95%"
   },
   {
     "Name": "Charcoal",
@@ -1958,8 +1926,7 @@
     "Satur. (HSL)": "19%",
     "Light (HSL)": "26%",
     "Satur. (HSV)": "32%",
-    "Value (HSV)": "31%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "31%"
   },
   {
     "Name": "Charm pink",
@@ -1974,8 +1941,7 @@
     "Satur. (HSL)": "64%",
     "Light (HSL)": "73%",
     "Satur. (HSV)": "38%",
-    "Value (HSV)": "90%",
-    "Source": "Plochere[citation needed]"
+    "Value (HSV)": "90%"
   },
   {
     "Name": "Chartreuse (web)",
@@ -1992,8 +1958,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "RGB color model[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Cherry blossom pink",
@@ -2008,8 +1973,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "86%",
     "Satur. (HSV)": "28%",
-    "Value (HSV)": "100%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Chestnut",
@@ -2024,8 +1988,7 @@
     "Satur. (HSL)": "48%",
     "Light (HSL)": "40%",
     "Satur. (HSV)": "64%",
-    "Value (HSV)": "58%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "58%"
   },
   {
     "Name": "Chili red",
@@ -2040,8 +2003,7 @@
     "Satur. (HSL)": "76%",
     "Light (HSL)": "52%",
     "Satur. (HSV)": "82%",
-    "Value (HSV)": "89%",
-    "Source": "Flag of South Africa[citation needed]"
+    "Value (HSV)": "89%"
   },
   {
     "Name": "China pink",
@@ -2056,8 +2018,7 @@
     "Satur. (HSL)": "63%",
     "Light (HSL)": "65%",
     "Satur. (HSV)": "50%",
-    "Value (HSV)": "87%",
-    "Source": "Plochere[citation needed]"
+    "Value (HSV)": "87%"
   },
   {
     "Name": "Chinese red",
@@ -2072,8 +2033,7 @@
     "Satur. (HSL)": "70%",
     "Light (HSL)": "39%",
     "Satur. (HSV)": "82%",
-    "Value (HSV)": "67%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "67%"
   },
   {
     "Name": "Chinese violet",
@@ -2088,8 +2048,7 @@
     "Satur. (HSL)": "17%",
     "Light (HSL)": "46%",
     "Satur. (HSV)": "29%",
-    "Value (HSV)": "53%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "53%"
   },
   {
     "Name": "Chinese yellow",
@@ -2104,8 +2063,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Chocolate (traditional)",
@@ -2121,8 +2079,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "24%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "48%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "48%"
   },
   {
     "Name": "Chocolate (web)",
@@ -2139,8 +2096,7 @@
     "Satur. (HSL)": "75%",
     "Light (HSL)": "47%",
     "Satur. (HSV)": "86%",
-    "Value (HSV)": "82%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "82%"
   },
   {
     "Name": "Cinereous",
@@ -2155,8 +2111,7 @@
     "Satur. (HSL)": "12%",
     "Light (HSL)": "54%",
     "Satur. (HSV)": "19%",
-    "Value (HSV)": "60%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "60%"
   },
   {
     "Name": "Cinnabar",
@@ -2171,8 +2126,7 @@
     "Satur. (HSL)": "76%",
     "Light (HSL)": "55%",
     "Satur. (HSV)": "77%",
-    "Value (HSV)": "89%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "89%"
   },
   {
     "Name": "Cinnamon Satin",
@@ -2187,8 +2141,7 @@
     "Satur. (HSL)": "52%",
     "Light (HSL)": "59%",
     "Satur. (HSV)": "53%",
-    "Value (HSV)": "80%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "80%"
   },
   {
     "Name": "Citrine",
@@ -2203,8 +2156,7 @@
     "Satur. (HSL)": "92%",
     "Light (HSL)": "47%",
     "Satur. (HSV)": "96%",
-    "Value (HSV)": "89%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "89%"
   },
   {
     "Name": "Citron",
@@ -2219,8 +2171,7 @@
     "Satur. (HSL)": "69%",
     "Light (HSL)": "39%",
     "Satur. (HSV)": "82%",
-    "Value (HSV)": "66%",
-    "Source": "Xona.com[citation needed]"
+    "Value (HSV)": "66%"
   },
   {
     "Name": "Claret",
@@ -2235,8 +2186,7 @@
     "Satur. (HSL)": "69%",
     "Light (HSL)": "29%",
     "Satur. (HSV)": "82%",
-    "Value (HSV)": "50%",
-    "Source": "Xona.com[citation needed]"
+    "Value (HSV)": "50%"
   },
   {
     "Name": "Coffee",
@@ -2251,8 +2201,7 @@
     "Satur. (HSL)": "34%",
     "Light (HSL)": "33%",
     "Satur. (HSV)": "50%",
-    "Value (HSV)": "44%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "44%"
   },
   {
     "Name": "Columbia Blue",
@@ -2267,8 +2216,7 @@
     "Satur. (HSL)": "56%",
     "Light (HSL)": "82%",
     "Satur. (HSV)": "21%",
-    "Value (HSV)": "92%",
-    "Source": "Columbia University[citation needed]"
+    "Value (HSV)": "92%"
   },
   {
     "Name": "Congo pink",
@@ -2283,8 +2231,7 @@
     "Satur. (HSL)": "90%",
     "Light (HSL)": "72%",
     "Satur. (HSV)": "51%",
-    "Value (HSV)": "97%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "97%"
   },
   {
     "Name": "Connor's Lakefront",
@@ -2299,8 +2246,7 @@
     "Satur. (HSL)": "65%",
     "Light (HSL)": "26%",
     "Satur. (HSV)": "79%",
-    "Value (HSV)": "42%",
-    "Source": "Sherwin-Williams[citation needed]"
+    "Value (HSV)": "42%"
   },
   {
     "Name": "Cool grey",
@@ -2315,8 +2261,7 @@
     "Satur. (HSL)": "16%",
     "Light (HSL)": "61%",
     "Satur. (HSV)": "19%",
-    "Value (HSV)": "67%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "67%"
   },
   {
     "Name": "Copper",
@@ -2331,8 +2276,7 @@
     "Satur. (HSL)": "57%",
     "Light (HSL)": "46%",
     "Satur. (HSV)": "72%",
-    "Value (HSV)": "72%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "72%"
   },
   {
     "Name": "Copper (Crayola)",
@@ -2349,8 +2293,7 @@
     "Satur. (HSL)": "61%",
     "Light (HSL)": "63%",
     "Satur. (HSV)": "53%",
-    "Value (HSV)": "85%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "85%"
   },
   {
     "Name": "Copper penny",
@@ -2365,8 +2308,7 @@
     "Satur. (HSL)": "29%",
     "Light (HSL)": "55%",
     "Satur. (HSV)": "39%",
-    "Value (HSV)": "68%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "68%"
   },
   {
     "Name": "Copper red",
@@ -2381,8 +2323,7 @@
     "Satur. (HSL)": "54%",
     "Light (HSL)": "56%",
     "Satur. (HSV)": "60%",
-    "Value (HSV)": "80%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "80%"
   },
   {
     "Name": "Copper rose",
@@ -2397,8 +2338,7 @@
     "Satur. (HSL)": "20%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "33%",
-    "Value (HSV)": "60%",
-    "Source": "99colors.net"
+    "Value (HSV)": "60%"
   },
   {
     "Name": "Coquelicot",
@@ -2413,8 +2353,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "ColorHexa[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Coral",
@@ -2429,8 +2368,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "66%",
     "Satur. (HSV)": "69%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Coral pink",
@@ -2445,8 +2383,7 @@
     "Satur. (HSL)": "90%",
     "Light (HSL)": "72%",
     "Satur. (HSV)": "51%",
-    "Value (HSV)": "97%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "97%"
   },
   {
     "Name": "Cordovan",
@@ -2461,8 +2398,7 @@
     "Satur. (HSL)": "37%",
     "Light (HSL)": "39%",
     "Satur. (HSV)": "54%",
-    "Value (HSV)": "54%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "54%"
   },
   {
     "Name": "Corn",
@@ -2477,8 +2413,7 @@
     "Satur. (HSL)": "95%",
     "Light (HSL)": "68%",
     "Satur. (HSV)": "63%",
-    "Value (HSV)": "98%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "98%"
   },
   {
     "Name": "Cornflower blue",
@@ -2493,8 +2428,7 @@
     "Satur. (HSL)": "79%",
     "Light (HSL)": "66%",
     "Satur. (HSV)": "58%",
-    "Value (HSV)": "93%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "93%"
   },
   {
     "Name": "Cornsilk",
@@ -2509,8 +2443,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "93%",
     "Satur. (HSV)": "14%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Cosmic cobalt",
@@ -2525,8 +2458,7 @@
     "Satur. (HSL)": "50%",
     "Light (HSL)": "36%",
     "Satur. (HSV)": "67%",
-    "Value (HSV)": "53%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "53%"
   },
   {
     "Name": "Cosmic latte",
@@ -2541,8 +2473,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "95%",
     "Satur. (HSV)": "9%",
-    "Value (HSV)": "100%",
-    "Source": "Glazebrook and Baldry[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Coyote brown",
@@ -2557,8 +2488,7 @@
     "Satur. (HSL)": "37%",
     "Light (HSL)": "37%",
     "Satur. (HSV)": "52%",
-    "Value (HSV)": "51%",
-    "Source": "colorcode.is[citation needed]"
+    "Value (HSV)": "51%"
   },
   {
     "Name": "Cotton candy",
@@ -2573,8 +2503,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "87%",
     "Satur. (HSV)": "26%",
-    "Value (HSV)": "100%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Cream",
@@ -2589,8 +2518,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "91%",
     "Satur. (HSV)": "18%",
-    "Value (HSV)": "100%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Crimson",
@@ -2605,8 +2533,7 @@
     "Satur. (HSL)": "83%",
     "Light (HSL)": "47%",
     "Satur. (HSV)": "91%",
-    "Value (HSV)": "86%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "86%"
   },
   {
     "Name": "Crimson (UA)",
@@ -2622,8 +2549,7 @@
     "Satur. (HSL)": "71%",
     "Light (HSL)": "36%",
     "Satur. (HSV)": "83%",
-    "Value (HSV)": "62%",
-    "Source": "University of Alabama[citation needed]"
+    "Value (HSV)": "62%"
   },
   {
     "Name": "Cultured Pearl",
@@ -2638,8 +2564,7 @@
     "Satur. (HSL)": "0%",
     "Light (HSL)": "96%",
     "Satur. (HSV)": "0%",
-    "Value (HSV)": "96%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "96%"
   },
   {
     "Name": "Cyan",
@@ -2654,8 +2579,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Cyan (process)",
@@ -2671,8 +2595,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "46%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "92%",
-    "Source": "CMYK color model[citation needed]"
+    "Value (HSV)": "92%"
   },
   {
     "Name": "Cyber grape",
@@ -2687,8 +2610,7 @@
     "Satur. (HSL)": "31%",
     "Light (HSL)": "37%",
     "Satur. (HSV)": "47%",
-    "Value (HSV)": "49%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "49%"
   },
   {
     "Name": "Cyber yellow",
@@ -2703,8 +2625,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Cyclamen",
@@ -2719,8 +2640,7 @@
     "Satur. (HSL)": "87%",
     "Light (HSL)": "70%",
     "Satur. (HSV)": "54%",
-    "Value (HSV)": "96%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "96%"
   },
   {
     "Name": "Dandelion",
@@ -2735,8 +2655,7 @@
     "Satur. (HSL)": "99%",
     "Light (HSL)": "68%",
     "Satur. (HSV)": "63%",
-    "Value (HSV)": "100%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Dark brown",
@@ -2751,8 +2670,7 @@
     "Satur. (HSL)": "51%",
     "Light (HSL)": "26%",
     "Satur. (HSV)": "67%",
-    "Value (HSV)": "40%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "40%"
   },
   {
     "Name": "Dark byzantium",
@@ -2767,8 +2685,7 @@
     "Satur. (HSL)": "24%",
     "Light (HSL)": "29%",
     "Satur. (HSV)": "39%",
-    "Value (HSV)": "36%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "36%"
   },
   {
     "Name": "Dark cyan",
@@ -2783,8 +2700,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "27%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "55%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "55%"
   },
   {
     "Name": "Dark electric blue",
@@ -2799,8 +2715,7 @@
     "Satur. (HSL)": "18%",
     "Light (HSL)": "40%",
     "Satur. (HSV)": "31%",
-    "Value (HSV)": "47%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "47%"
   },
   {
     "Name": "Dark goldenrod",
@@ -2815,8 +2730,7 @@
     "Satur. (HSL)": "89%",
     "Light (HSL)": "38%",
     "Satur. (HSV)": "94%",
-    "Value (HSV)": "72%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "72%"
   },
   {
     "Name": "Dark green (X11)",
@@ -2833,8 +2747,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "20%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "39%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "39%"
   },
   {
     "Name": "Dark jungle green",
@@ -2849,8 +2762,7 @@
     "Satur. (HSL)": "16%",
     "Light (HSL)": "12%",
     "Satur. (HSV)": "28%",
-    "Value (HSV)": "14%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "14%"
   },
   {
     "Name": "Dark khaki",
@@ -2865,8 +2777,7 @@
     "Satur. (HSL)": "38%",
     "Light (HSL)": "58%",
     "Satur. (HSV)": "43%",
-    "Value (HSV)": "74%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "74%"
   },
   {
     "Name": "Dark lava",
@@ -2881,8 +2792,7 @@
     "Satur. (HSL)": "18%",
     "Light (HSL)": "24%",
     "Satur. (HSV)": "31%",
-    "Value (HSV)": "28%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "28%"
   },
   {
     "Name": "Dark liver (horses)",
@@ -2899,8 +2809,7 @@
     "Satur. (HSL)": "21%",
     "Light (HSL)": "27%",
     "Satur. (HSV)": "35%",
-    "Value (HSV)": "33%",
-    "Source": "University of California, Davis[citation needed]"
+    "Value (HSV)": "33%"
   },
   {
     "Name": "Dark magenta",
@@ -2915,8 +2824,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "27%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "55%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "55%"
   },
   {
     "Name": "Dark olive green",
@@ -2931,8 +2839,7 @@
     "Satur. (HSL)": "39%",
     "Light (HSL)": "30%",
     "Satur. (HSV)": "56%",
-    "Value (HSV)": "42%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "42%"
   },
   {
     "Name": "Dark orange",
@@ -2947,8 +2854,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Dark orchid",
@@ -2963,8 +2869,7 @@
     "Satur. (HSL)": "61%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "75%",
-    "Value (HSV)": "80%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "80%"
   },
   {
     "Name": "Dark purple",
@@ -2979,8 +2884,7 @@
     "Satur. (HSL)": "35%",
     "Light (HSL)": "15%",
     "Satur. (HSV)": "51%",
-    "Value (HSV)": "20%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "20%"
   },
   {
     "Name": "Dark red",
@@ -2995,8 +2899,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "27%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "55%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "55%"
   },
   {
     "Name": "Dark salmon",
@@ -3011,8 +2914,7 @@
     "Satur. (HSL)": "72%",
     "Light (HSL)": "70%",
     "Satur. (HSV)": "48%",
-    "Value (HSV)": "91%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "91%"
   },
   {
     "Name": "Dark sea green",
@@ -3027,8 +2929,7 @@
     "Satur. (HSL)": "25%",
     "Light (HSL)": "65%",
     "Satur. (HSV)": "24%",
-    "Value (HSV)": "74%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "74%"
   },
   {
     "Name": "Dark sienna",
@@ -3043,8 +2944,7 @@
     "Satur. (HSL)": "50%",
     "Light (HSL)": "16%",
     "Satur. (HSV)": "67%",
-    "Value (HSV)": "24%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "24%"
   },
   {
     "Name": "Dark sky blue",
@@ -3059,8 +2959,7 @@
     "Satur. (HSL)": "47%",
     "Light (HSL)": "69%",
     "Satur. (HSV)": "35%",
-    "Value (HSV)": "84%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "84%"
   },
   {
     "Name": "Dark slate blue",
@@ -3075,8 +2974,7 @@
     "Satur. (HSL)": "39%",
     "Light (HSL)": "39%",
     "Satur. (HSV)": "56%",
-    "Value (HSV)": "55%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "55%"
   },
   {
     "Name": "Dark slate gray",
@@ -3092,8 +2990,7 @@
     "Satur. (HSL)": "25%",
     "Light (HSL)": "25%",
     "Satur. (HSV)": "41%",
-    "Value (HSV)": "31%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "31%"
   },
   {
     "Name": "Dark spring green",
@@ -3108,8 +3005,7 @@
     "Satur. (HSL)": "66%",
     "Light (HSL)": "27%",
     "Satur. (HSV)": "80%",
-    "Value (HSV)": "45%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "45%"
   },
   {
     "Name": "Dark turquoise",
@@ -3124,8 +3020,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "41%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "82%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "82%"
   },
   {
     "Name": "Dark violet",
@@ -3140,8 +3035,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "41%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "83%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "83%"
   },
   {
     "Name": "Davy's grey",
@@ -3156,8 +3050,7 @@
     "Satur. (HSL)": "0%",
     "Light (HSL)": "33%",
     "Satur. (HSV)": "0%",
-    "Value (HSV)": "33%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "33%"
   },
   {
     "Name": "Deep cerise",
@@ -3172,8 +3065,7 @@
     "Satur. (HSL)": "69%",
     "Light (HSL)": "53%",
     "Satur. (HSV)": "77%",
-    "Value (HSV)": "85%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "85%"
   },
   {
     "Name": "Deep champagne",
@@ -3188,8 +3080,7 @@
     "Satur. (HSL)": "90%",
     "Light (HSL)": "81%",
     "Satur. (HSV)": "34%",
-    "Value (HSV)": "98%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "98%"
   },
   {
     "Name": "Deep chestnut",
@@ -3204,8 +3095,7 @@
     "Satur. (HSL)": "45%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "61%",
-    "Value (HSV)": "73%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "73%"
   },
   {
     "Name": "Deep jungle green",
@@ -3220,8 +3110,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "15%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "29%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "29%"
   },
   {
     "Name": "Deep pink",
@@ -3236,8 +3125,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "54%",
     "Satur. (HSV)": "92%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Deep saffron",
@@ -3252,8 +3140,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "60%",
     "Satur. (HSV)": "80%",
-    "Value (HSV)": "100%",
-    "Source": "Flag of India[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Deep sky blue",
@@ -3268,8 +3155,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Deep Space Sparkle",
@@ -3284,8 +3170,7 @@
     "Satur. (HSL)": "19%",
     "Light (HSL)": "36%",
     "Satur. (HSV)": "31%",
-    "Value (HSV)": "42%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "42%"
   },
   {
     "Name": "Deep taupe",
@@ -3300,8 +3185,7 @@
     "Satur. (HSL)": "15%",
     "Light (HSL)": "43%",
     "Satur. (HSV)": "25%",
-    "Value (HSV)": "49%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "49%"
   },
   {
     "Name": "Denim",
@@ -3316,8 +3200,7 @@
     "Satur. (HSL)": "80%",
     "Light (HSL)": "41%",
     "Satur. (HSV)": "89%",
-    "Value (HSV)": "74%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "74%"
   },
   {
     "Name": "Denim blue",
@@ -3332,8 +3215,7 @@
     "Satur. (HSL)": "69%",
     "Light (HSL)": "42%",
     "Satur. (HSV)": "81%",
-    "Value (HSV)": "71%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "71%"
   },
   {
     "Name": "Desert",
@@ -3348,8 +3230,7 @@
     "Satur. (HSL)": "41%",
     "Light (HSL)": "59%",
     "Satur. (HSV)": "45%",
-    "Value (HSV)": "76%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "76%"
   },
   {
     "Name": "Desert sand",
@@ -3364,8 +3245,7 @@
     "Satur. (HSL)": "63%",
     "Light (HSL)": "81%",
     "Satur. (HSV)": "26%",
-    "Value (HSV)": "93%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "93%"
   },
   {
     "Name": "Dim gray",
@@ -3381,8 +3261,7 @@
     "Satur. (HSL)": "0%",
     "Light (HSL)": "41%",
     "Satur. (HSV)": "0%",
-    "Value (HSV)": "41%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "41%"
   },
   {
     "Name": "Dodger blue",
@@ -3397,8 +3276,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "56%",
     "Satur. (HSV)": "88%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Drab dark brown",
@@ -3414,8 +3292,7 @@
     "Satur. (HSL)": "28%",
     "Light (HSL)": "23%",
     "Satur. (HSV)": "43%",
-    "Value (HSV)": "29%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "29%"
   },
   {
     "Name": "Duke blue",
@@ -3430,8 +3307,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "31%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "61%",
-    "Source": "Duke University[citation needed]"
+    "Value (HSV)": "61%"
   },
   {
     "Name": "Dutch white",
@@ -3446,8 +3322,7 @@
     "Satur. (HSL)": "62%",
     "Light (HSL)": "84%",
     "Satur. (HSV)": "22%",
-    "Value (HSV)": "94%",
-    "Source": "Resene[citation needed]"
+    "Value (HSV)": "94%"
   },
   {
     "Name": "Ebony",
@@ -3462,8 +3337,7 @@
     "Satur. (HSL)": "8%",
     "Light (HSL)": "34%",
     "Satur. (HSV)": "14%",
-    "Value (HSV)": "36%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "36%"
   },
   {
     "Name": "Ecru",
@@ -3478,8 +3352,7 @@
     "Satur. (HSL)": "35%",
     "Light (HSL)": "63%",
     "Satur. (HSV)": "34%",
-    "Value (HSV)": "76%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "76%"
   },
   {
     "Name": "Eerie black",
@@ -3494,8 +3367,7 @@
     "Satur. (HSL)": "0%",
     "Light (HSL)": "11%",
     "Satur. (HSV)": "0%",
-    "Value (HSV)": "11%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "11%"
   },
   {
     "Name": "Eggplant",
@@ -3510,8 +3382,7 @@
     "Satur. (HSL)": "21%",
     "Light (HSL)": "32%",
     "Satur. (HSV)": "34%",
-    "Value (HSV)": "38%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "38%"
   },
   {
     "Name": "Eggshell",
@@ -3526,8 +3397,7 @@
     "Satur. (HSL)": "46%",
     "Light (HSL)": "89%",
     "Satur. (HSV)": "11%",
-    "Value (HSV)": "94%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "94%"
   },
   {
     "Name": "Electric lime",
@@ -3542,8 +3412,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Electric purple",
@@ -3558,8 +3427,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Electric violet",
@@ -3574,8 +3442,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Emerald",
@@ -3590,8 +3457,7 @@
     "Satur. (HSL)": "52%",
     "Light (HSL)": "55%",
     "Satur. (HSV)": "60%",
-    "Value (HSV)": "78%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "78%"
   },
   {
     "Name": "Eminence",
@@ -3606,8 +3472,7 @@
     "Satur. (HSL)": "46%",
     "Light (HSL)": "35%",
     "Satur. (HSV)": "63%",
-    "Value (HSV)": "51%",
-    "Source": "Xona.com[citation needed]"
+    "Value (HSV)": "51%"
   },
   {
     "Name": "English lavender",
@@ -3622,8 +3487,7 @@
     "Satur. (HSL)": "25%",
     "Light (HSL)": "61%",
     "Satur. (HSV)": "27%",
-    "Value (HSV)": "71%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "71%"
   },
   {
     "Name": "English red",
@@ -3638,8 +3502,7 @@
     "Satur. (HSL)": "39%",
     "Light (HSL)": "48%",
     "Satur. (HSV)": "56%",
-    "Value (HSV)": "67%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "67%"
   },
   {
     "Name": "English vermillion",
@@ -3654,8 +3517,7 @@
     "Satur. (HSL)": "57%",
     "Light (HSL)": "54%",
     "Satur. (HSV)": "65%",
-    "Value (HSV)": "80%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "80%"
   },
   {
     "Name": "English violet",
@@ -3670,8 +3532,7 @@
     "Satur. (HSL)": "21%",
     "Light (HSL)": "30%",
     "Satur. (HSV)": "35%",
-    "Value (HSV)": "36%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "36%"
   },
   {
     "Name": "Erin",
@@ -3686,8 +3547,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Eton blue",
@@ -3702,8 +3562,7 @@
     "Satur. (HSL)": "31%",
     "Light (HSL)": "69%",
     "Satur. (HSV)": "25%",
-    "Value (HSV)": "78%",
-    "Source": "Eton College[citation needed]"
+    "Value (HSV)": "78%"
   },
   {
     "Name": "Fallow",
@@ -3718,8 +3577,7 @@
     "Satur. (HSL)": "41%",
     "Light (HSL)": "59%",
     "Satur. (HSV)": "45%",
-    "Value (HSV)": "76%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "76%"
   },
   {
     "Name": "Falu red",
@@ -3734,8 +3592,7 @@
     "Satur. (HSL)": "68%",
     "Light (HSL)": "30%",
     "Satur. (HSV)": "81%",
-    "Value (HSV)": "50%",
-    "Source": "ColorHexa[citation needed]"
+    "Value (HSV)": "50%"
   },
   {
     "Name": "Fandango",
@@ -3750,8 +3607,7 @@
     "Satur. (HSL)": "56%",
     "Light (HSL)": "46%",
     "Satur. (HSV)": "72%",
-    "Value (HSV)": "71%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "71%"
   },
   {
     "Name": "Fandango pink",
@@ -3766,8 +3622,7 @@
     "Satur. (HSL)": "68%",
     "Light (HSL)": "60%",
     "Satur. (HSV)": "63%",
-    "Value (HSV)": "87%",
-    "Source": "Pantone[citation needed]"
+    "Value (HSV)": "87%"
   },
   {
     "Name": "Fawn",
@@ -3782,8 +3637,7 @@
     "Satur. (HSL)": "69%",
     "Light (HSL)": "67%",
     "Satur. (HSV)": "51%",
-    "Value (HSV)": "90%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "90%"
   },
   {
     "Name": "Fern green",
@@ -3798,8 +3652,7 @@
     "Satur. (HSL)": "29%",
     "Light (HSL)": "37%",
     "Satur. (HSV)": "45%",
-    "Value (HSV)": "47%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "47%"
   },
   {
     "Name": "Field drab",
@@ -3814,8 +3667,7 @@
     "Satur. (HSL)": "57%",
     "Light (HSL)": "27%",
     "Satur. (HSV)": "72%",
-    "Value (HSV)": "42%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "42%"
   },
   {
     "Name": "Fiery rose",
@@ -3830,8 +3682,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "67%",
     "Satur. (HSV)": "67%",
-    "Value (HSV)": "100%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Finn",
@@ -3846,8 +3697,7 @@
     "Satur. (HSL)": "37%",
     "Light (HSL)": "30%",
     "Satur. (HSV)": "54%",
-    "Value (HSV)": "41%",
-    "Source": "hexcolor.co[citation needed]"
+    "Value (HSV)": "41%"
   },
   {
     "Name": "Firebrick",
@@ -3862,8 +3712,7 @@
     "Satur. (HSL)": "68%",
     "Light (HSL)": "42%",
     "Satur. (HSV)": "81%",
-    "Value (HSV)": "70%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "70%"
   },
   {
     "Name": "Fire engine red",
@@ -3879,8 +3728,7 @@
     "Satur. (HSL)": "73%",
     "Light (HSL)": "47%",
     "Satur. (HSV)": "84%",
-    "Value (HSV)": "81%",
-    "Source": "findthedata.com[citation needed]"
+    "Value (HSV)": "81%"
   },
   {
     "Name": "Flame",
@@ -3895,8 +3743,7 @@
     "Satur. (HSL)": "77%",
     "Light (HSL)": "51%",
     "Satur. (HSV)": "85%",
-    "Value (HSV)": "89%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "89%"
   },
   {
     "Name": "Flax",
@@ -3911,8 +3758,7 @@
     "Satur. (HSL)": "76%",
     "Light (HSL)": "72%",
     "Satur. (HSV)": "45%",
-    "Value (HSV)": "93%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "93%"
   },
   {
     "Name": "Flirt",
@@ -3927,8 +3773,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "32%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "64%",
-    "Source": "Xona.com[citation needed]"
+    "Value (HSV)": "64%"
   },
   {
     "Name": "Floral white",
@@ -3943,8 +3788,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "97%",
     "Satur. (HSV)": "6%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Forest green (web)",
@@ -3961,8 +3805,7 @@
     "Satur. (HSL)": "61%",
     "Light (HSL)": "34%",
     "Satur. (HSV)": "76%",
-    "Value (HSV)": "55%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "55%"
   },
   {
     "Name": "French beige",
@@ -3977,8 +3820,7 @@
     "Satur. (HSL)": "30%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "45%",
-    "Value (HSV)": "65%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "65%"
   },
   {
     "Name": "French bistre",
@@ -3993,8 +3835,7 @@
     "Satur. (HSL)": "27%",
     "Light (HSL)": "41%",
     "Satur. (HSV)": "42%",
-    "Value (HSV)": "52%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "52%"
   },
   {
     "Name": "French blue",
@@ -4009,8 +3850,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "37%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "73%",
-    "Source": "Maerz and Paul[citation needed]"
+    "Value (HSV)": "73%"
   },
   {
     "Name": "French fuchsia",
@@ -4025,8 +3865,7 @@
     "Satur. (HSL)": "98%",
     "Light (HSL)": "62%",
     "Satur. (HSV)": "75%",
-    "Value (HSV)": "99%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "99%"
   },
   {
     "Name": "French lilac",
@@ -4041,8 +3880,7 @@
     "Satur. (HSL)": "19%",
     "Light (HSL)": "47%",
     "Satur. (HSV)": "32%",
-    "Value (HSV)": "56%",
-    "Source": "ISCC-NBS[citation needed]"
+    "Value (HSV)": "56%"
   },
   {
     "Name": "French lime",
@@ -4057,8 +3895,7 @@
     "Satur. (HSL)": "98%",
     "Light (HSL)": "61%",
     "Satur. (HSV)": "78%",
-    "Value (HSV)": "99%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "99%"
   },
   {
     "Name": "French mauve",
@@ -4073,8 +3910,7 @@
     "Satur. (HSL)": "53%",
     "Light (HSL)": "64%",
     "Satur. (HSV)": "46%",
-    "Value (HSV)": "83%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "83%"
   },
   {
     "Name": "French pink",
@@ -4089,8 +3925,7 @@
     "Satur. (HSL)": "97%",
     "Light (HSL)": "71%",
     "Satur. (HSV)": "57%",
-    "Value (HSV)": "99%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "99%"
   },
   {
     "Name": "French raspberry",
@@ -4105,8 +3940,7 @@
     "Satur. (HSL)": "64%",
     "Light (HSL)": "48%",
     "Satur. (HSV)": "78%",
-    "Value (HSV)": "78%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "78%"
   },
   {
     "Name": "French sky blue",
@@ -4121,8 +3955,7 @@
     "Satur. (HSL)": "99%",
     "Light (HSL)": "73%",
     "Satur. (HSV)": "53%",
-    "Value (HSV)": "100%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "French violet",
@@ -4137,8 +3970,7 @@
     "Satur. (HSL)": "94%",
     "Light (HSL)": "42%",
     "Satur. (HSV)": "97%",
-    "Value (HSV)": "81%",
-    "Source": "Pourpre.com[citation needed]"
+    "Value (HSV)": "81%"
   },
   {
     "Name": "Frostbite",
@@ -4153,8 +3985,7 @@
     "Satur. (HSL)": "80%",
     "Light (HSL)": "56%",
     "Satur. (HSV)": "77%",
-    "Value (HSV)": "91%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "91%"
   },
   {
     "Name": "Fuchsia",
@@ -4169,8 +4000,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "50%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "100%",
-    "Source": "X11/Web[citation needed]"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Fuchsia (Crayola)",
@@ -4187,8 +4017,7 @@
     "Satur. (HSL)": "47%",
     "Light (HSL)": "54%",
     "Satur. (HSV)": "56%",
-    "Value (HSV)": "76%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "76%"
   },
   {
     "Name": "Fulvous",
@@ -4203,8 +4032,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "45%",
     "Satur. (HSV)": "100%",
-    "Value (HSV)": "89%",
-    "Source": "99colors.net"
+    "Value (HSV)": "89%"
   },
   {
     "Name": "Fuzzy Wuzzy",
@@ -4219,8 +4047,7 @@
     "Satur. (HSL)": "63%",
     "Light (HSL)": "33%",
     "Satur. (HSV)": "77%",
-    "Value (HSV)": "53%",
-    "Source": "Crayola[citation needed]"
+    "Value (HSV)": "53%"
   },
   {
     "Name": "Gainsboro",
@@ -14322,8 +14149,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "59%",
     "Satur. (HSV)": "82%",
-    "Value (HSV)": "100%",
-    "Source": "X11"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Honeydew",
@@ -14336,8 +14162,7 @@
     "Satur. (HSL)": "100%",
     "Light (HSL)": "97%",
     "Satur. (HSV)": "6%",
-    "Value (HSV)": "100%",
-    "Source": "X11"
+    "Value (HSV)": "100%"
   },
   {
     "Name": "Pale Goldenrod",
@@ -14350,8 +14175,7 @@
     "Satur. (HSL)": "67%",
     "Light (HSL)": "80%",
     "Satur. (HSV)": "29%",
-    "Value (HSV)": "93%",
-    "Source": "X11"
+    "Value (HSV)": "93%"
   },
   {
     "Name": "Pale Green",
@@ -14364,8 +14188,7 @@
     "Satur. (HSL)": "93%",
     "Light (HSL)": "79%",
     "Satur. (HSV)": "39%",
-    "Value (HSV)": "98%",
-    "Source": "X11"
+    "Value (HSV)": "98%"
   },
   {
     "Name": "Pale Turquoise",
@@ -14378,8 +14201,7 @@
     "Satur. (HSL)": "65%",
     "Light (HSL)": "81%",
     "Satur. (HSV)": "26%",
-    "Value (HSV)": "93%",
-    "Source": "X11"
+    "Value (HSV)": "93%"
   },
   {
     "Name": "Pale Violet Red",
@@ -14392,8 +14214,7 @@
     "Satur. (HSL)": "60%",
     "Light (HSL)": "65%",
     "Satur. (HSV)": "49%",
-    "Value (HSV)": "86%",
-    "Source": "X11"
+    "Value (HSV)": "86%"
   },
   {
     "Name": "Peru",
@@ -14406,8 +14227,7 @@
     "Satur. (HSL)": "59%",
     "Light (HSL)": "53%",
     "Satur. (HSV)": "69%",
-    "Value (HSV)": "80%",
-    "Source": "X11"
+    "Value (HSV)": "80%"
   },
   {
     "Name": "White Smoke",
@@ -14420,8 +14240,7 @@
     "Satur. (HSL)": "0%",
     "Light (HSL)": "96%",
     "Satur. (HSV)": "0%",
-    "Value (HSV)": "96%",
-    "Source": "X11"
+    "Value (HSV)": "96%"
   },
   {
     "Name": "Auburn",
