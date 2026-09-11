@@ -190,6 +190,13 @@
             });
         }
 
+        function findColsTo(ct) {do {userFoundColors.add(colorsGlobal[Math.floor(Math.random()*colorsGlobal.length)]["Name"])} // finds random color
+            while (userFoundColors.size < ct) // easily ensures final size is always ct
+                               /* updateListView() would go here if it was enough but it isn't. just manually find a color to update properly, as per usual. */}
+        function killColsTo(ct) {do {userFoundColors.delete([...userFoundColors][Math.floor(Math.random()*userFoundColors.size)])} // this is if you set it too high
+            while (userFoundColors.size > ct)} // there is a small edge case that may happen with while after but it shouldn't happen in our scenario
+        const setColsTo = ct => userFoundColors.size == ct ? null : userFoundColors.size < ct ? findColsTo(ct) : killColsTo(ct)
+        
         // Handle form submission
         document.getElementById('color-form').addEventListener("submit", (event) => {
             event.preventDefault();
