@@ -92,10 +92,10 @@
     </div>
 
     <script>
-        const colorsGlobal = []; const LS = [];
+        let colorsGlobal = []; let LS = [];
         const userFoundColors = new Set(); 
         let winner = false;
-        let currentSort = 'nav-reverse-chrono'; 
+        let currentSort = 'nav-reverse-chrono';
 
         // Timer Mode Variables
         const timerModeButton = document.getElementById('timer-mode-button');
@@ -127,6 +127,31 @@
                 const feedbackEl = document.querySelector('.feedback');
                 if (feedbackEl) {
                     feedbackEl.textContent = `Failed to load color database ${set}: ${error.message}`;
+                    feedbackEl.style.color = "red";
+                }
+            }
+        }
+        async function unloadJSONdata(set) {
+            try {
+                if (!LS.includes(set)) {console.error('no set of this name is currently loaded. "unloading" anyway...')}
+                
+                const response = await fetch(`./${set}.json?v=${Date.now()}`);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status} (${response.statusText})`);
+                }
+                
+                let colorData = await response.json();
+                colorsGlobal = colorsGlobal.filter(x => !colorData.includes(x))
+                LS = LS.filter(x => x!=set)
+            }
+            
+            catch (err) {
+                console.error("Error (un)loading the JSON file:", err);
+                
+                const feedbackEl = document.querySelector('.feedback');
+                if (feedbackEl) {
+                    feedbackEl.textContent = `Failed to (un)load color database ${set}: ${err.message}`;
                     feedbackEl.style.color = "red";
                 }
             }
