@@ -91,6 +91,9 @@
         </div>
     </div>
 
+    <button contenteditable onclick="loadJSONData(this.textContent)">DEBUG: load set of this name</button>
+    <button contenteditable onclick="unloadJSONData(this.textContent)">DEBUG: unload set of this name</button>
+    <button contenteditable onclick="setColsTo(+this.textContent)">DEBUG: set cols to this amnt</button>
     <script>
         let colorsGlobal = []; let LS = [];
         const userFoundColors = new Set(); 
